@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Channel</title>
+    <link>http://guitarstreams.com</link>
+    <description>Channel</description>
+    <lastBuildDate>Sat, 27 Jun 2015 12:55:20 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[TenThumbsPro: Ukulele Lessons]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/tenthumbspro/]]></link>
+        <description><![CDATA[Tyler Austenfeld's channel with ukulele lessons for beginners, intermediate and advanced players teaching rock, blues and folk songs.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/tenthumbspro/]]></guid>
+        <pubDate>Fri, 24 Apr 2015 10:20:34 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[MrHardguitar: Guitar and Ukulele Lessons]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/mrhardguitar/]]></link>
+        <description><![CDATA[MrHardguitar's channel with guitar and ukulele lessons focusing on hard rock, heavy metal and punk songs.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/mrhardguitar/]]></guid>
+        <pubDate>Sun, 19 Apr 2015 10:47:32 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[JustinGuitar: Guitar and Ukulele Lessons]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/justinguitar/]]></link>
+        <description><![CDATA[Justin Sandercoe's channel with guitar and ukulele lessons for beginners, intermediate and advanced players.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/justinguitar/]]></guid>
+        <pubDate>Sat, 18 Apr 2015 19:59:34 </pubDate>
+    </item>
+    
+</channel></rss>

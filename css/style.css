@@ -1,0 +1,49 @@
+#chords {
+background: #fff;
+padding: .5em;
+}
+
+cite {
+font-style:italic;
+}
+
+.text-dark {
+color: #222;
+}
+
+.roffset {margin-right: .5em;}
+.voffset {margin:.5em 0;}
+.centered {text-align:center;}
+
+.caret {
+opacity:.8;
+}
+.small {
+font-size:.8em;
+}
+
+.col-2 {
+-moz-column-count: 2;
+-moz-column-gap: 10px;
+-webkit-column-count: 2;
+-webkit-column-gap: 10px;
+column-count: 2;
+column-gap: 10px;
+}
+
+.navbar-inverted {
+background: #222;
+}
+.navbar-brand {
+background: url('../img/guitarstreams-small.png') no-repeat scroll 0px 10px transparent;
+padding-left: 50px;
+}
+.navbar-collapse.collapse {
+padding-right:0;
+}
+.navbar ul.share a {
+width:90%;
+margin:2% 5% 5%;
+font-size:1.1em;
+}
+
