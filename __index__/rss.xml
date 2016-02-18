@@ -3,7 +3,7 @@
 <channel><title>__Index__</title>
     <link>http://guitarstreams.com</link>
     <description>__Index__</description>
-    <lastBuildDate>Wed, 17 Feb 2016 16:57:28 </lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2016 14:46:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -56,14 +56,6 @@
     </item>
     
     <item>
-        <title><![CDATA[Guitar Streams Store]]></title>
-        <link><![CDATA[http://guitarstreams.com/store/]]></link>
-        <description><![CDATA[The Guitar Streams Store in association with Amazon features acoustic and electric guitars, bass guitars, guitar and bass accessories, recording equipment, mp3 downloads and more.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/store/]]></guid>
-        <pubDate>Sun, 19 Apr 2015 13:14:14 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Sex Pistols - Anarchy in the U.K.]]></title>
         <link><![CDATA[http://guitarstreams.com/lesson/guitar/sex-pistols-anarchy-in-the-uk-mrhardguitar/]]></link>
         <description><![CDATA[A short lesson by MrHardguitar who teaches the Punk classic Anarchy in the U.K. by the Sex Pistols on electric guitar.]]></description>
@@ -85,6 +77,14 @@
         <description><![CDATA[Justin Sandercoe's introductory Ukulele lesson, where he shows how to tune a Ukulele, gives tips on holding it and teaches the cords C, Am, F and G, a.k.a. the '1564' chord progression.]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/intro-ukulele-justinguitar/]]></guid>
         <pubDate>Sun, 19 Apr 2015 10:43:34 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[JustinGuitar: Guitar and Ukulele Lessons]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/justinguitar/]]></link>
+        <description><![CDATA[Justin Sandercoe's channel with guitar and ukulele lessons for beginners, intermediate and advanced players.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/justinguitar/]]></guid>
+        <pubDate>Sat, 18 Apr 2015 19:59:34 </pubDate>
     </item>
     
 </channel></rss>
