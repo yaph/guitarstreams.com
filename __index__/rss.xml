@@ -3,9 +3,25 @@
 <channel><title>__Index__</title>
     <link>http://guitarstreams.com</link>
     <description>__Index__</description>
-    <lastBuildDate>Thu, 18 Feb 2016 14:46:44 </lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2016 16:31:42 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Creep - Radiohead]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/creep-radiohead-theukuleleteacher/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/creep-radiohead-theukuleleteacher/]]></guid>
+        <pubDate>Thu, 03 Mar 2016 16:30:13 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[The Ukulele Teacher: Ukulele Lessons and Songs]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/theukuleleteacher/]]></link>
+        <description><![CDATA[A great channel for beginners and intermediate Ukulele players with hundreds of lessons teaching popular songs.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/theukuleleteacher/]]></guid>
+        <pubDate>Thu, 03 Mar 2016 16:12:56 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Sympathy for the Devil - The Rolling Stones]]></title>
@@ -69,22 +85,6 @@
         <description><![CDATA[MrHardguitar's channel with guitar and ukulele lessons focusing on hard rock, heavy metal and punk songs.]]></description>
         <guid><![CDATA[http://guitarstreams.com/channel/mrhardguitar/]]></guid>
         <pubDate>Sun, 19 Apr 2015 10:47:32 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Intro to the Ukulele]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/intro-ukulele-justinguitar/]]></link>
-        <description><![CDATA[Justin Sandercoe's introductory Ukulele lesson, where he shows how to tune a Ukulele, gives tips on holding it and teaches the cords C, Am, F and G, a.k.a. the '1564' chord progression.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/intro-ukulele-justinguitar/]]></guid>
-        <pubDate>Sun, 19 Apr 2015 10:43:34 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[JustinGuitar: Guitar and Ukulele Lessons]]></title>
-        <link><![CDATA[http://guitarstreams.com/channel/justinguitar/]]></link>
-        <description><![CDATA[Justin Sandercoe's channel with guitar and ukulele lessons for beginners, intermediate and advanced players.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/channel/justinguitar/]]></guid>
-        <pubDate>Sat, 18 Apr 2015 19:59:34 </pubDate>
     </item>
     
 </channel></rss>
