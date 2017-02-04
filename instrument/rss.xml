@@ -3,7 +3,7 @@
 <channel><title>Instrument</title>
     <link>http://guitarstreams.com</link>
     <description>Instrument</description>
-    <lastBuildDate>Thu, 03 Mar 2016 16:31:42 </lastBuildDate>
+    <lastBuildDate>Sat, 04 Feb 2017 21:01:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -13,14 +13,6 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/creep-radiohead-theukuleleteacher/]]></guid>
         <pubDate>Thu, 03 Mar 2016 16:30:13 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[The Ukulele Teacher: Ukulele Lessons and Songs]]></title>
-        <link><![CDATA[http://guitarstreams.com/channel/theukuleleteacher/]]></link>
-        <description><![CDATA[A great channel for beginners and intermediate Ukulele players with hundreds of lessons teaching popular songs.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/channel/theukuleleteacher/]]></guid>
-        <pubDate>Thu, 03 Mar 2016 16:12:56 </pubDate>
     </item>
     
     <item>
@@ -85,6 +77,14 @@
         <description><![CDATA[A short lesson by MrHardguitar who teaches the Punk classic Anarchy in the U.K. by the Sex Pistols on electric guitar.]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/guitar/sex-pistols-anarchy-in-the-uk-mrhardguitar/]]></guid>
         <pubDate>Sun, 19 Apr 2015 10:51:32 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[MrHardguitar: Guitar and Ukulele Lessons]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/mrhardguitar/]]></link>
+        <description><![CDATA[MrHardguitar's channel with guitar and ukulele lessons focusing on hard rock, heavy metal and punk songs.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/mrhardguitar/]]></guid>
+        <pubDate>Sun, 19 Apr 2015 10:47:32 </pubDate>
     </item>
     
 </channel></rss>

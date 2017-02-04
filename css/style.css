@@ -35,8 +35,8 @@ column-gap: 10px;
 background: #222;
 }
 .navbar-brand {
-background: url('../img/guitarstreams-small.png') no-repeat scroll 0px 10px transparent;
-padding-left: 50px;
+background: url('/img/guitarstreams-logo-32.png') no-repeat scroll 0px 14px transparent;
+padding-left: 40px;
 }
 .navbar-collapse.collapse {
 padding-right:0;
@@ -47,3 +47,12 @@ margin:2% 5% 5%;
 font-size:1.1em;
 }
 
+/* front page */
+.featured {
+background-color: #eee;
+font-size: 2rem;
+padding: 4rem 0;
+}
+.featured h1 {
+margin-top: 0;
+}
