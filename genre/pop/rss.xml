@@ -3,9 +3,17 @@
 <channel><title>Genre » Pop</title>
     <link>http://guitarstreams.com</link>
     <description>Genre » Pop</description>
-    <lastBuildDate>Mon, 06 Feb 2017 22:08:54 </lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 23:01:15 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[John Lennon - Imagine]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/john-lennon-imagine/]]></link>
+        <description><![CDATA[Imagine was written and originally performed by John Lennon. It was released on 11 October 1971 and became the best-selling single of his solo career.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/john-lennon-imagine/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 22:34:04 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Imagine - John Lennon]]></title>

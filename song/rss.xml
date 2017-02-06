@@ -3,9 +3,25 @@
 <channel><title>Song</title>
     <link>http://guitarstreams.com</link>
     <description>Song</description>
-    <lastBuildDate>Mon, 06 Feb 2017 22:08:54 </lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 23:01:15 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[John Lennon - Imagine]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/john-lennon-imagine/]]></link>
+        <description><![CDATA[Imagine was written and originally performed by John Lennon. It was released on 11 October 1971 and became the best-selling single of his solo career.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/john-lennon-imagine/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 22:34:04 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Sex Pistols - Anarchy In The UK]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/sex-pistols-anarchy-in-the-uk/]]></link>
+        <description><![CDATA[Anarchy In The UK by the Sex Pistols is one of the most iconic punk songs ever.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/sex-pistols-anarchy-in-the-uk/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 22:29:45 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[The Hives - Hate to Say I Told You So]]></title>

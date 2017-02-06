@@ -3,9 +3,25 @@
 <channel><title>RSS Feed</title>
     <link>http://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Mon, 06 Feb 2017 22:08:54 </lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 23:01:15 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[John Lennon - Imagine]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/john-lennon-imagine/]]></link>
+        <description><![CDATA[Imagine was written and originally performed by John Lennon. It was released on 11 October 1971 and became the best-selling single of his solo career.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/john-lennon-imagine/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 22:34:04 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Sex Pistols - Anarchy In The UK]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/sex-pistols-anarchy-in-the-uk/]]></link>
+        <description><![CDATA[Anarchy In The UK by the Sex Pistols is one of the most iconic punk songs ever.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/sex-pistols-anarchy-in-the-uk/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 22:29:45 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[The Hives - Hate to Say I Told You So]]></title>
@@ -69,22 +85,6 @@
         <description><![CDATA[A great channel for beginners and intermediate Ukulele players with hundreds of lessons teaching popular songs.]]></description>
         <guid><![CDATA[http://guitarstreams.com/channel/theukuleleteacher/]]></guid>
         <pubDate>Thu, 03 Mar 2016 16:12:56 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Sympathy for the Devil - The Rolling Stones]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/sympathy-for-the-devil-the-rolling-stones-tenthumbspro/]]></link>
-        <description><![CDATA[Tyler Austenfeld teaches how to play Sympathy for the Devil by The Rolling Stones on the Ukulele.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/sympathy-for-the-devil-the-rolling-stones-tenthumbspro/]]></guid>
-        <pubDate>Sat, 27 Jun 2015 12:54:41 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Imagine - John Lennon]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/imagine-john-lennon-tenthumbspro/]]></link>
-        <description><![CDATA[Tyler Austenfeld teaches how to play Imagine by John Lennon on the Ukulele.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/imagine-john-lennon-tenthumbspro/]]></guid>
-        <pubDate>Fri, 26 Jun 2015 13:10:02 </pubDate>
     </item>
     
 </channel></rss>

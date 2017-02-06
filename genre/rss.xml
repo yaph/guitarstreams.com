@@ -3,9 +3,25 @@
 <channel><title>Genre</title>
     <link>http://guitarstreams.com</link>
     <description>Genre</description>
-    <lastBuildDate>Mon, 06 Feb 2017 22:08:54 </lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 23:01:15 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[John Lennon - Imagine]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/john-lennon-imagine/]]></link>
+        <description><![CDATA[Imagine was written and originally performed by John Lennon. It was released on 11 October 1971 and became the best-selling single of his solo career.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/john-lennon-imagine/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 22:34:04 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Sex Pistols - Anarchy In The UK]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/sex-pistols-anarchy-in-the-uk/]]></link>
+        <description><![CDATA[Anarchy In The UK by the Sex Pistols is one of the most iconic punk songs ever.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/sex-pistols-anarchy-in-the-uk/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 22:29:45 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[The Hives - Hate to Say I Told You So]]></title>
@@ -69,22 +85,6 @@
         <description><![CDATA[A lesson by MrHardguitar who teaches Nirvana's Smells Like Teen Spirit on Ukulele.]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/nirvana-smells-like-teen-spirit-mrhardguitar/]]></guid>
         <pubDate>Mon, 20 Apr 2015 20:16:03 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[John Lennon - Imagine]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/guitar/john-lennon-imagine-mrhardguitar/]]></link>
-        <description><![CDATA[A guitar lesson by MrHardguitar who teaches John Lennon's Imagine on electric guitar.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/john-lennon-imagine-mrhardguitar/]]></guid>
-        <pubDate>Mon, 20 Apr 2015 20:05:03 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Sex Pistols - Anarchy in the U.K.]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/guitar/sex-pistols-anarchy-in-the-uk-mrhardguitar/]]></link>
-        <description><![CDATA[A short lesson by MrHardguitar who teaches the Punk classic Anarchy in the U.K. by the Sex Pistols on electric guitar.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/sex-pistols-anarchy-in-the-uk-mrhardguitar/]]></guid>
-        <pubDate>Sun, 19 Apr 2015 10:51:32 </pubDate>
     </item>
     
 </channel></rss>
