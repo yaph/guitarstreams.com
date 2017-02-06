@@ -3,6 +3,10 @@ background: #fff;
 padding: .5em;
 }
 
+a strong, a img {
+cursor: pointer;
+}
+
 cite {
 font-style:italic;
 }
