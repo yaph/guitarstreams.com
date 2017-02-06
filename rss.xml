@@ -3,9 +3,17 @@
 <channel><title>RSS Feed</title>
     <link>http://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Mon, 06 Feb 2017 19:44:45 </lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 19:59:11 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Otis Redding - (Sittin' On) The Dock Of The Bay]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/otis-redding-the-dock-of-the-bay/]]></link>
+        <description><![CDATA[Watch the official video for (Sittin' On) The Dock Of The Bay by Otis Redding]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/otis-redding-the-dock-of-the-bay/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 19:54:36 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Otis Redding - (Sittin' On) Dock Of The Bay]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[The first fingerpicking pattern for ukulele in 4/4 timing in a series of lessons teaching different patterns by Tyler from TenThumbsPro.]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/fingerpicking-pattern-1-tenthumbspro/]]></guid>
         <pubDate>Fri, 24 Apr 2015 10:38:03 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[TenThumbsPro: Ukulele Lessons]]></title>
-        <link><![CDATA[http://guitarstreams.com/channel/tenthumbspro/]]></link>
-        <description><![CDATA[Tyler Austenfeld's channel with ukulele lessons for beginners, intermediate and advanced players teaching rock, blues and folk songs.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/channel/tenthumbspro/]]></guid>
-        <pubDate>Fri, 24 Apr 2015 10:20:34 </pubDate>
     </item>
     
 </channel></rss>

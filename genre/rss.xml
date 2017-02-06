@@ -3,9 +3,17 @@
 <channel><title>Genre</title>
     <link>http://guitarstreams.com</link>
     <description>Genre</description>
-    <lastBuildDate>Mon, 06 Feb 2017 19:44:45 </lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 19:59:11 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Otis Redding - (Sittin' On) The Dock Of The Bay]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/otis-redding-the-dock-of-the-bay/]]></link>
+        <description><![CDATA[Watch the official video for (Sittin' On) The Dock Of The Bay by Otis Redding]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/otis-redding-the-dock-of-the-bay/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 19:54:36 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Otis Redding - (Sittin' On) Dock Of The Bay]]></title>
