@@ -3,9 +3,25 @@
 <channel><title>RSS Feed</title>
     <link>http://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Mon, 06 Feb 2017 03:59:27 </lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 19:44:45 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Otis Redding - (Sittin' On) Dock Of The Bay]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/guitar/otis-redding-dock-of-the-bay-justinguitar-songs/]]></link>
+        <description><![CDATA[In this guitar lesson Justin Sandercoe teaches how to play the Otis Redding classic song Dock Of The Bay.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/otis-redding-dock-of-the-bay-justinguitar-songs/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 19:39:52 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[The Hives - Hate To Say I Told You So]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/guitar/the-hives-hate-to-say-i-told-you-so-justinguitar-songs/]]></link>
+        <description><![CDATA[In this guitar lesson Justin Sandercoe teaches how to play the cracking rock song Hate To Say I Told You So by The Hives.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/the-hives-hate-to-say-i-told-you-so-justinguitar-songs/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 19:35:25 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[5 Tips To Better Picking On The Guitar]]></title>
@@ -69,22 +85,6 @@
         <description><![CDATA[Tyler Austenfeld's channel with ukulele lessons for beginners, intermediate and advanced players teaching rock, blues and folk songs.]]></description>
         <guid><![CDATA[http://guitarstreams.com/channel/tenthumbspro/]]></guid>
         <pubDate>Fri, 24 Apr 2015 10:20:34 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Nirvana - Smells Like Teen Spirit]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/nirvana-smells-like-teen-spirit-mrhardguitar/]]></link>
-        <description><![CDATA[A lesson by MrHardguitar who teaches Nirvana's Smells Like Teen Spirit on Ukulele.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/nirvana-smells-like-teen-spirit-mrhardguitar/]]></guid>
-        <pubDate>Mon, 20 Apr 2015 20:16:03 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[John Lennon - Imagine]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/guitar/john-lennon-imagine-mrhardguitar/]]></link>
-        <description><![CDATA[A guitar lesson by MrHardguitar who teaches John Lennon's Imagine on electric guitar.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/john-lennon-imagine-mrhardguitar/]]></guid>
-        <pubDate>Mon, 20 Apr 2015 20:05:03 </pubDate>
     </item>
     
 </channel></rss>
