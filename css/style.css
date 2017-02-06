@@ -1,6 +1,6 @@
 #chords {
 background: #fff;
-padding: .5em;
+padding: .5em 0;
 }
 
 a strong, a img {
@@ -9,10 +9,6 @@ cursor: pointer;
 
 cite {
 font-style:italic;
-}
-
-.text-dark {
-color: #222;
 }
 
 .roffset {margin-right: .5em;}
