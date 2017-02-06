@@ -3,9 +3,33 @@
 <channel><title>Song</title>
     <link>http://guitarstreams.com</link>
     <description>Song</description>
-    <lastBuildDate>Mon, 06 Feb 2017 23:01:15 </lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 23:32:21 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Radiohead - Creep]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/radiohead-creep/]]></link>
+        <description><![CDATA[Creep is a song by the English alternative rock band Radiohead, who released it as their debut single in 1992.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/radiohead-creep/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 23:21:15 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[The Rolling Stones - Sympathy For The Devil]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/the-rolling-stones-sympathy-for-the-devil/]]></link>
+        <description><![CDATA[Sympathy for the Devil is a song by The Rolling Stones, written by Mick Jagger and Keith Richards.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/the-rolling-stones-sympathy-for-the-devil/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 23:10:46 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Nirvana - Smells Like Teen Spirit]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/nirvana-smells-like-teen-spirit/]]></link>
+        <description><![CDATA[Smells Like Teen Spirit is the opening track and lead single from Nirvana's second album, Nevermind released in 1991 on DGC Records.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/nirvana-smells-like-teen-spirit/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 23:10:06 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[John Lennon - Imagine]]></title>

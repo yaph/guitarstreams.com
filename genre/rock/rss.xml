@@ -3,9 +3,17 @@
 <channel><title>Genre » Rock</title>
     <link>http://guitarstreams.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Mon, 06 Feb 2017 23:01:15 </lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 23:32:21 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[The Rolling Stones - Sympathy For The Devil]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/the-rolling-stones-sympathy-for-the-devil/]]></link>
+        <description><![CDATA[Sympathy for the Devil is a song by The Rolling Stones, written by Mick Jagger and Keith Richards.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/the-rolling-stones-sympathy-for-the-devil/]]></guid>
+        <pubDate>Mon, 06 Feb 2017 23:10:46 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Creep - Radiohead]]></title>
