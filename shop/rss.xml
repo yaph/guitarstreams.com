@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Shop</title>
+    <link>http://guitarstreams.com</link>
+    <description>Shop</description>
+    <lastBuildDate>Sun, 12 Feb 2017 23:15:39 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Ukulele Player Heartbeat T-Shirt for Music Lovers]]></title>
+        <link><![CDATA[http://guitarstreams.com/shop/heartbeat-ukulele/]]></link>
+        <description><![CDATA[A t-shirt for music lovers who's hearts beat to the sound of the ukulele.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/shop/heartbeat-ukulele/]]></guid>
+        <pubDate>Sun, 05 Feb 2017 22:53:18 </pubDate>
+    </item>
+    
+</channel></rss>
