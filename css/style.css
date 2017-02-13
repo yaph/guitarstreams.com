@@ -1,26 +1,10 @@
-#chords {
-background: #fff;
-padding: .5em 0;
-}
-
 a strong, a img {
 cursor: pointer;
 }
 
-cite {
-font-style:italic;
-}
-
 .roffset {margin-right: .5em;}
-.voffset {margin:.5em 0;}
 .centered {text-align:center;}
-
-.caret {
-opacity:.8;
-}
-.small {
-font-size:.8em;
-}
+.small { font-size:1.3rem; }
 
 .col-2 {
 -moz-column-count: 2;
@@ -59,13 +43,17 @@ margin-top: 0;
 
 /* chord chart */
 .chord-chart {
-    float: left;
-    min-width: 100px;
-    width: 20%;
+float: left;
+min-width: 100px;
+width: 16.66%;
+}
+
+.chord-chart a {
+color: inherit;
 }
 
 .chord-chart h3 {
-    font-size: 2rem;
-    font-weight: bold;
-    text-align: center;
+font-size: 2rem;
+font-weight: bold;
+text-align: center;
 }
