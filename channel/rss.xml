@@ -3,9 +3,41 @@
 <channel><title>Channel</title>
     <link>http://guitarstreams.com</link>
     <description>Channel</description>
-    <lastBuildDate>Tue, 14 Feb 2017 02:02:05 </lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 22:23:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Drue James: Acoustic Guitar Lessons]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/druejames/]]></link>
+        <description><![CDATA[Drue James teaches acoustic and fingerstyle guitar lessons for beginner and intermediate players.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/druejames/]]></guid>
+        <pubDate>Thu, 04 May 2017 21:31:31 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[GuitarMadeEZ: Guitar Lessons]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/guitarmadeez/]]></link>
+        <description><![CDATA[A channel with the goal to teach how to play guitar the EZ way by a self-taught guitarist who has been playing for 17 years.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/guitarmadeez/]]></guid>
+        <pubDate>Thu, 04 May 2017 20:53:44 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Guitarhabits: Guitar Lessons]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/cynthialin/]]></link>
+        <description><![CDATA[Cynthia Lin is a modern day jazz ukulele diva based in San Francisco, California, who teaches how to play the ukulele in engaging tutorials on YouTube.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/cynthialin/]]></guid>
+        <pubDate>Thu, 04 May 2017 20:21:18 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Guitarhabits: Guitar Lessons]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/guitarhabits/]]></link>
+        <description><![CDATA[Guitar Habits's channel with guitar lessons about practicing, rhythm, soloing, performing, songwriting, gear, improving skills, lifestyle and motivation.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/guitarhabits/]]></guid>
+        <pubDate>Thu, 04 May 2017 19:44:14 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[GuitarLessons.com YouTube Channel]]></title>
@@ -32,9 +64,9 @@
     </item>
     
     <item>
-        <title><![CDATA[MrHardguitar: Guitar and Ukulele Lessons]]></title>
+        <title><![CDATA[MrHardGuitar: Guitar and Ukulele Lessons]]></title>
         <link><![CDATA[http://guitarstreams.com/channel/mrhardguitar/]]></link>
-        <description><![CDATA[MrHardguitar's channel with guitar and ukulele lessons focusing on hard rock, heavy metal and punk songs.]]></description>
+        <description><![CDATA[MrHardGuitar's channel with guitar and ukulele lessons focusing on hard rock, heavy metal and punk songs.]]></description>
         <guid><![CDATA[http://guitarstreams.com/channel/mrhardguitar/]]></guid>
         <pubDate>Sun, 19 Apr 2015 10:47:32 </pubDate>
     </item>

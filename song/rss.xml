@@ -3,9 +3,33 @@
 <channel><title>Song</title>
     <link>http://guitarstreams.com</link>
     <description>Song</description>
-    <lastBuildDate>Tue, 14 Feb 2017 02:02:05 </lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 22:23:40 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[OutKast - Hey Ya!]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/outkast-hey-ya/]]></link>
+        <description><![CDATA[OutKast's official music video for Hey Ya!.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/outkast-hey-ya/]]></guid>
+        <pubDate>Thu, 04 May 2017 21:56:07 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Pixies - Where Is My Mind]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/pixies-where-is-my-mind/]]></link>
+        <description><![CDATA[Where Is My Mind? is a song by the American alternative rock band Pixies.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/pixies-where-is-my-mind/]]></guid>
+        <pubDate>Thu, 04 May 2017 21:52:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Bob Marley - Redemption Song]]></title>
+        <link><![CDATA[http://guitarstreams.com/song/bob-marley-redemption-song/]]></link>
+        <description><![CDATA[None]]></description>
+        <guid><![CDATA[http://guitarstreams.com/song/bob-marley-redemption-song/]]></guid>
+        <pubDate>Thu, 04 May 2017 20:00:44 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Radiohead - Creep]]></title>
