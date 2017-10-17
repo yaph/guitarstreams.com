@@ -6,6 +6,10 @@ cursor: pointer;
 .centered {text-align:center;}
 .small { font-size:1.3rem; }
 
+.buttons a {
+margin-bottom: .2em;
+}
+
 .col-2 {
 -moz-column-count: 2;
 -moz-column-gap: 10px;
