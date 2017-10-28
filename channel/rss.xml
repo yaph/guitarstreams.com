@@ -3,9 +3,17 @@
 <channel><title>Channel</title>
     <link>http://guitarstreams.com</link>
     <description>Channel</description>
-    <lastBuildDate>Sat, 28 Oct 2017 21:22:23 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Oct 2017 23:11:34 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[YourGuitarSage: Tutorials, Technique, Theory and Exercises]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/yourguitarsage/]]></link>
+        <description><![CDATA[The channel of professional guitarist and teacher Erich Andreas with song tutorials, technique, theory and exercises mainly for guitar and some ukulele.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/yourguitarsage/]]></guid>
+        <pubDate>Sat, 28 Oct 2017 21:57:17 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Drue James: Acoustic Guitar Lessons]]></title>
@@ -76,14 +84,6 @@
         <link><![CDATA[http://guitarstreams.com/channel/justinguitar-songs/]]></link>
         <description><![CDATA[Justin Sandercoe's channel with guitar and ukulele lessons for beginners, intermediate and advanced players.]]></description>
         <guid><![CDATA[http://guitarstreams.com/channel/justinguitar-songs/]]></guid>
-        <pubDate>Sat, 18 Apr 2015 19:59:34 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[JustinGuitar: Guitar and Ukulele Lessons]]></title>
-        <link><![CDATA[http://guitarstreams.com/channel/justinguitar/]]></link>
-        <description><![CDATA[Justin Sandercoe's channel with guitar and ukulele lessons for beginners, intermediate and advanced players.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/channel/justinguitar/]]></guid>
         <pubDate>Sat, 18 Apr 2015 19:59:34 </pubDate>
     </item>
     

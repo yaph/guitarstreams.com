@@ -3,9 +3,17 @@
 <channel><title>Tags</title>
     <link>http://guitarstreams.com</link>
     <description>Tags</description>
-    <lastBuildDate>Sat, 28 Oct 2017 21:22:23 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Oct 2017 23:11:34 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[How to Memorize the Notes on the Guitar Fretboard by YourGuitarSage]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/guitar/memorize-notes-guitar-fretboard-yourguitarsage/]]></link>
+        <description><![CDATA[YourGuitarSage Erich Andreas breaks down the basic things you need to know to memorize the entire fretboard of a guitar.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/memorize-notes-guitar-fretboard-yourguitarsage/]]></guid>
+        <pubDate>Sat, 28 Oct 2017 22:46:13 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Ukulele Lesson 2 by Justin Sandercoe - Open Chords]]></title>

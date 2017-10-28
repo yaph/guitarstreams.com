@@ -3,9 +3,17 @@
 <channel><title>Level » Beginner</title>
     <link>http://guitarstreams.com</link>
     <description>Level » Beginner</description>
-    <lastBuildDate>Sat, 28 Oct 2017 21:22:23 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Oct 2017 23:11:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Ukulele lesson #1 by YourGuitarSage - Anatomy of the Uke and Basic Technique]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/ukulele-lesson-1-yourguitarsage/]]></link>
+        <description><![CDATA[This introductory ukulele lesson shows you the anatomy of the ukulele, discusses left and right hand technique as well as picking and strumming.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/ukulele-lesson-1-yourguitarsage/]]></guid>
+        <pubDate>Sat, 28 Oct 2017 21:55:28 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Nirvana - Where Did You Sleep Last Night]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[In this lesson Nate Savage gives 5 tips for better picking on the guitar.]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/guitar/5-tips-to-better-picking-on-the-guitar/]]></guid>
         <pubDate>Mon, 06 Feb 2017 01:40:21 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Creep - Radiohead]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/radiohead-creep-theukuleleteacher/]]></link>
-        <description><![CDATA[The Ukulele Teacher shows how to play the popular song Creep by Radiohead on the Ukulele.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/radiohead-creep-theukuleleteacher/]]></guid>
-        <pubDate>Thu, 03 Mar 2016 16:30:13 </pubDate>
     </item>
     
 </channel></rss>

@@ -3,9 +3,33 @@
 <channel><title>RSS Feed</title>
     <link>http://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Sat, 28 Oct 2017 21:22:23 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Oct 2017 23:11:34 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[How to Memorize the Notes on the Guitar Fretboard by YourGuitarSage]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/guitar/memorize-notes-guitar-fretboard-yourguitarsage/]]></link>
+        <description><![CDATA[YourGuitarSage Erich Andreas breaks down the basic things you need to know to memorize the entire fretboard of a guitar.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/memorize-notes-guitar-fretboard-yourguitarsage/]]></guid>
+        <pubDate>Sat, 28 Oct 2017 22:46:13 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[YourGuitarSage: Tutorials, Technique, Theory and Exercises]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/yourguitarsage/]]></link>
+        <description><![CDATA[The channel of professional guitarist and teacher Erich Andreas with song tutorials, technique, theory and exercises mainly for guitar and some ukulele.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/yourguitarsage/]]></guid>
+        <pubDate>Sat, 28 Oct 2017 21:57:17 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ukulele lesson #1 by YourGuitarSage - Anatomy of the Uke and Basic Technique]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/ukulele-lesson-1-yourguitarsage/]]></link>
+        <description><![CDATA[This introductory ukulele lesson shows you the anatomy of the ukulele, discusses left and right hand technique as well as picking and strumming.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/ukulele-lesson-1-yourguitarsage/]]></guid>
+        <pubDate>Sat, 28 Oct 2017 21:55:28 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Ukulele Chord Family Cheat Sheet]]></title>
@@ -61,30 +85,6 @@
         <description><![CDATA[A cool retro design for ukulele players showing the word Ukulele in a handwritten script font and a simple uke drawing &#8220;underlining&#8221; it. Share your love for this awesome Hawaiian instrument with this 70s style design on a shirt or one of the available products. It also makes for a nice birthday present or Christmas gift for family and friends. • Also buy this artwork on apparel, phone cases, home decor, and more.]]></description>
         <guid><![CDATA[http://guitarstreams.com/merchandise/ukulele-script-white/]]></guid>
         <pubDate>Mon, 09 Oct 2017 00:00:00 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Choose Your Axe The Weapon of Guitarists - White Design]]></title>
-        <link><![CDATA[http://guitarstreams.com/merchandise/choose-your-axe-white/]]></link>
-        <description><![CDATA[Heavy metal and hard rock musicians love them, guitars that look like axes. Like the ones you see on this design that asks to choose your axe. / Is music your weapon of choice and do you love to rock out heavy on your axe? Then this is the right design to get on a t-shirt, hoodie or other product. It also makes for a rocking birthday or Christmas gift for guitar players. • Also buy this artwork on apparel, phone cases, home decor, and more.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/merchandise/choose-your-axe-white/]]></guid>
-        <pubDate>Sat, 23 Sep 2017 00:00:00 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Choose Your Axe The Weapon of Guitarists - Black Design]]></title>
-        <link><![CDATA[http://guitarstreams.com/merchandise/choose-your-axe-black/]]></link>
-        <description><![CDATA[Heavy metal and hard rock musicians love them, guitars that look like axes. Like the ones you see on this design that asks to choose your axe. / Is music your weapon of choice and do you love to rock out heavy on your axe? Then this is the right design to get on a t-shirt, hoodie or other product. It also makes for a rocking birthday or Christmas gift for guitar players. • Also buy this artwork on apparel, stickers, phone cases, and more.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/merchandise/choose-your-axe-black/]]></guid>
-        <pubDate>Sat, 23 Sep 2017 00:00:00 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Choose Wisely Design for Electric Guitar Players]]></title>
-        <link><![CDATA[http://guitarstreams.com/merchandise/choose-wisely-guitars/]]></link>
-        <description><![CDATA[No matter whether you prefer black, dark red, blue, orange or golden wood as long as you choose to play the guitar everything is okay. A design for guitarists who love to rock out on the electric guitar and know they made the right choice with this awesome instrument. • Also buy this artwork on apparel, phone cases, home decor, and more.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/merchandise/choose-wisely-guitars/]]></guid>
-        <pubDate>Fri, 01 Sep 2017 00:00:00 </pubDate>
     </item>
     
 </channel></rss>
