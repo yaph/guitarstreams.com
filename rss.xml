@@ -3,9 +3,25 @@
 <channel><title>RSS Feed</title>
     <link>http://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Sun, 29 Oct 2017 00:15:36 </lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2017 19:34:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Understanding the Major Diatonic Scale]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/guitar/understanding-major-diatonic-scale-steve-stine/]]></link>
+        <description><![CDATA[In this music theory fundamentals lesson Steve Stine explains the major diatonic scale and shows how several scales are built up step by step.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/understanding-major-diatonic-scale-steve-stine/]]></guid>
+        <pubDate>Mon, 30 Oct 2017 19:29:28 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Steve Stine Guitar Channel]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/steve-stine/]]></link>
+        <description><![CDATA[The channel of guitarist and teacher Steve Stine features lessons on music theory, guitar technique as well as riff and song tutorials with a good dose of heavy metal music.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/steve-stine/]]></guid>
+        <pubDate>Mon, 30 Oct 2017 18:57:07 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[How to Memorize the Notes on the Guitar Fretboard]]></title>
@@ -32,10 +48,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Ukulele Chord Family Cheat Sheet]]></title>
-        <link><![CDATA[http://guitarstreams.com/ukulele/chord-family-cheat-sheet/]]></link>
+        <title><![CDATA[Chord Families]]></title>
+        <link><![CDATA[http://guitarstreams.com/chart/chord-families/]]></link>
         <description><![CDATA[]]></description>
-        <guid><![CDATA[http://guitarstreams.com/ukulele/chord-family-cheat-sheet/]]></guid>
+        <guid><![CDATA[http://guitarstreams.com/chart/chord-families/]]></guid>
+        <pubDate>Sun, 22 Oct 2017 21:33:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Circle of Fifths]]></title>
+        <link><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></guid>
         <pubDate>Sun, 22 Oct 2017 21:33:30 </pubDate>
     </item>
     
@@ -60,30 +84,6 @@
         <link><![CDATA[http://guitarstreams.com/merchandise/ukulele-script-black/]]></link>
         <description><![CDATA[A cool retro design for ukulele players showing the word Ukulele in a handwritten script font and a simple uke drawing &#8220;underlining&#8221; it. Share your love for this awesome Hawaiian instrument with this 70s style design on a shirt or one of the available products. It also makes for a nice birthday present or Christmas gift for family and friends. • Also buy this artwork on apparel, stickers, phone cases, and more.]]></description>
         <guid><![CDATA[http://guitarstreams.com/merchandise/ukulele-script-black/]]></guid>
-        <pubDate>Mon, 09 Oct 2017 00:00:00 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Ukulele Player Design Hazel Retro Handwriting & Uke Drawing]]></title>
-        <link><![CDATA[http://guitarstreams.com/merchandise/ukulele-script-hazel/]]></link>
-        <description><![CDATA[A cool retro design for ukulele players showing the word Ukulele in a handwritten script font and a simple uke drawing &#8220;underlining&#8221; it. Share your love for this awesome Hawaiian instrument with this 70s style design on a shirt or one of the available products. It also makes for a nice birthday present or Christmas gift for family and friends. • Also buy this artwork on apparel, stickers, phone cases, and more.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/merchandise/ukulele-script-hazel/]]></guid>
-        <pubDate>Mon, 09 Oct 2017 00:00:00 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Ukulele Player Design Cognac Retro Handwriting/Uke Drawing]]></title>
-        <link><![CDATA[http://guitarstreams.com/merchandise/ukulele-script-cognac/]]></link>
-        <description><![CDATA[A cool retro design for ukulele players showing the word Ukulele in a handwritten script font and a simple uke drawing &#8220;underlining&#8221; it. Share your love for this awesome Hawaiian instrument with this 70s style design on a shirt or one of the available products. It also makes for a nice birthday present or Christmas gift for family and friends. • Also buy this artwork on apparel, stickers, phone cases, and more.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/merchandise/ukulele-script-cognac/]]></guid>
-        <pubDate>Mon, 09 Oct 2017 00:00:00 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Ukulele Player Design White Retro Handwriting & Uke Drawing]]></title>
-        <link><![CDATA[http://guitarstreams.com/merchandise/ukulele-script-white/]]></link>
-        <description><![CDATA[A cool retro design for ukulele players showing the word Ukulele in a handwritten script font and a simple uke drawing &#8220;underlining&#8221; it. Share your love for this awesome Hawaiian instrument with this 70s style design on a shirt or one of the available products. It also makes for a nice birthday present or Christmas gift for family and friends. • Also buy this artwork on apparel, phone cases, home decor, and more.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/merchandise/ukulele-script-white/]]></guid>
         <pubDate>Mon, 09 Oct 2017 00:00:00 </pubDate>
     </item>
     

@@ -3,9 +3,17 @@
 <channel><title>Lesson » Guitar</title>
     <link>http://guitarstreams.com</link>
     <description>Lesson » Guitar</description>
-    <lastBuildDate>Sun, 29 Oct 2017 00:15:36 </lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2017 19:34:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Understanding the Major Diatonic Scale]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/guitar/understanding-major-diatonic-scale-steve-stine/]]></link>
+        <description><![CDATA[In this music theory fundamentals lesson Steve Stine explains the major diatonic scale and shows how several scales are built up step by step.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/understanding-major-diatonic-scale-steve-stine/]]></guid>
+        <pubDate>Mon, 30 Oct 2017 19:29:28 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[How to Memorize the Notes on the Guitar Fretboard]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[In this guitar lesson Justin Sandercoe teaches how to play the cracking rock song Hate To Say I Told You So by The Hives.]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/guitar/the-hives-hate-to-say-i-told-you-so-justinguitar-songs/]]></guid>
         <pubDate>Mon, 06 Feb 2017 19:35:25 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[5 Tips To Better Picking On The Guitar]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/guitar/5-tips-to-better-picking-on-the-guitar/]]></link>
-        <description><![CDATA[In this lesson Nate Savage gives 5 tips for better picking on the guitar.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/5-tips-to-better-picking-on-the-guitar/]]></guid>
-        <pubDate>Mon, 06 Feb 2017 01:40:21 </pubDate>
     </item>
     
 </channel></rss>

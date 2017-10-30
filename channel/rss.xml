@@ -3,9 +3,17 @@
 <channel><title>Channel</title>
     <link>http://guitarstreams.com</link>
     <description>Channel</description>
-    <lastBuildDate>Sun, 29 Oct 2017 00:15:36 </lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2017 19:34:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Steve Stine Guitar Channel]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/steve-stine/]]></link>
+        <description><![CDATA[The channel of guitarist and teacher Steve Stine features lessons on music theory, guitar technique as well as riff and song tutorials with a good dose of heavy metal music.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/steve-stine/]]></guid>
+        <pubDate>Mon, 30 Oct 2017 18:57:07 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[YourGuitarSage: Tutorials, Technique, Theory and Exercises]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[MrHardGuitar's channel with guitar and ukulele lessons focusing on hard rock, heavy metal and punk songs.]]></description>
         <guid><![CDATA[http://guitarstreams.com/channel/mrhardguitar/]]></guid>
         <pubDate>Sun, 19 Apr 2015 10:47:32 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[JustinGuitar Songs: Guitar and Ukulele Song Lessons]]></title>
-        <link><![CDATA[http://guitarstreams.com/channel/justinguitar-songs/]]></link>
-        <description><![CDATA[Justin Sandercoe's channel with guitar and ukulele lessons for beginners, intermediate and advanced players.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/channel/justinguitar-songs/]]></guid>
-        <pubDate>Sat, 18 Apr 2015 19:59:34 </pubDate>
     </item>
     
 </channel></rss>

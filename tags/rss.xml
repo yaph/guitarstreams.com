@@ -3,9 +3,17 @@
 <channel><title>Tags</title>
     <link>http://guitarstreams.com</link>
     <description>Tags</description>
-    <lastBuildDate>Sun, 29 Oct 2017 00:15:36 </lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2017 19:34:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Understanding the Major Diatonic Scale]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/guitar/understanding-major-diatonic-scale-steve-stine/]]></link>
+        <description><![CDATA[In this music theory fundamentals lesson Steve Stine explains the major diatonic scale and shows how several scales are built up step by step.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/understanding-major-diatonic-scale-steve-stine/]]></guid>
+        <pubDate>Mon, 30 Oct 2017 19:29:28 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[How to Memorize the Notes on the Guitar Fretboard]]></title>
