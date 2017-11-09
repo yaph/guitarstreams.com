@@ -1,5 +1,24 @@
 'use strict';
 
+var alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G'];
+var notes = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']; // FIXME rename to chromatic_scale
+var enharmonic_notes = {
+    'A#': 'Bb',
+    'Ab': 'G#',
+    'B#': 'C',
+    'Bb': 'A#',
+    'C': 'B#',
+    'C#': 'Db',
+    'D#': 'Eb',
+    'Db': 'C#',
+    'E#': 'F',
+    'Eb': 'D#',
+    'F': 'E#',
+    'F#': 'Gb',
+    'G#': 'Ab',
+    'Gb': 'F#'
+};
+
 // https://en.wikipedia.org/wiki/Interval_(music)#Main_intervals
 var intervals = {
     P1: { semitones: 0, name: 'Perfect unison' },
@@ -44,22 +63,61 @@ var scales = {
     minor_pentatonic: ['P1', 'm3', 'P4', 'P5', 'm7', 'P8']
 };
 
-var notes = ['A', 'A#', 'B', 'C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#'];
-var note_aliases = {
-    'Bb': 'A#',
-    'Db': 'C#',
-    'Eb': 'D#',
-    'Gb': 'F#',
-    'Ab': 'G#'
+var chords = {
+    'M': ['R', 'M3', 'P5'],
+    'm': ['R', 'm3', 'P5'],
+    'dim': ['R', 'm3', 'd5'],
+    'aug': ['R', 'M3', 'A5'],
+    'open5': ['R', 'P5', 'P8'],
+    'dim7': ['R', 'm3', 'd5', 'd7'],
+    'maj7': ['R', 'M3', 'P5', 'M7'],
+    'aug7': ['R', 'M3', 'A5', 'm7'],
+    'sus2': ['R', 'P5', 'P8', 'M2'],
+    'sus4': ['R', 'P5', 'P8', 'P4']
 };
 
+/**
+ * Return index position of note in notes array.
+ * If a flat note is passed, the position of the enharmonic sharp is returned.
+ *
+ * @param {string} name - name of the note
+ * @returns {number} notes array index
+ */
+function note_index(name) {
+    return name.endsWith('b') ? notes.indexOf(enharmonic_notes[name]) : notes.indexOf(name);
+}
+
+/**
+ * Return name of note for given index in notes array.
+ *
+ * @param {number} index - name of the note
+ * @param {bool} [flat] - return name of flat note
+ * @returns {string} name of note
+ */
+function note_name(index) {
+    var flat = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : false;
+
+    var note_name = notes[index];
+    if (note_name.endsWith('#') && flat) {
+        note_name = enharmonic_notes[note_name];
+    }
+    return note_name;
+}
+
+/**
+ * Returns a scale object including the notes of the requested scale.
+ *
+ * @param {string} root - name of root note
+ * @param {string} [mode] - name of mode
+ * @returns {object} information for requested scale
+ */
 function scale(root) {
     var mode = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 'major';
 
-    var offset = notes.indexOf(root);
-    if (-1 === offset) {
-        offset = notes.indexOf(note_aliases[root]);
-    }
+    var is_flat = root.endsWith('b');
+    var offset = note_index(root);
+    var alpha_offset = alphabet.indexOf(root[0]);
+
     var _notes = [];
     var _iteratorNormalCompletion = true;
     var _didIteratorError = false;
@@ -69,13 +127,33 @@ function scale(root) {
         for (var _iterator = scales[mode][Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
             var interval_id = _step.value;
 
+            // - 1 must be subtracted because JS array index is zero based and note index one based.
+            var alpha_index = parseInt(interval_id[1], 10) - 1;
+            var letter = alphabet[(alpha_offset + alpha_index) % alphabet.length];
             var interval = intervals[interval_id];
-            var note_index = offset + interval.semitones;
-            if (note_index >= 12) {
-                note_index -= 12;
+            var index = (offset + interval.semitones) % notes.length;
+            var name = notes[index];
+            //let name = note_name(index, is_flat);
+            if (!name.startsWith(letter)) {
+                // console.log(name, enharmonic_notes[name]);
+                name = enharmonic_notes[name];
             }
-            _notes.push(notes[note_index]);
+            _notes.push(name);
         }
+        //
+        // // Make sure there are no two notes that start with the same letter except
+        // // first (root) and last (octave) which have to have the same name.
+        // for (let i = 0; i < _notes.length - 1; i++) {
+        //     let current = _notes[i];
+        //     let next = _notes[i + 1];
+        //     if (current[0] == next[0]) {
+        //         if (next == root) {
+        //             _notes[i] = enharmonic_notes[current];
+        //         } else {
+        //             _notes[i + 1] = enharmonic_notes[next];
+        //         }
+        //     }
+        // }
     } catch (err) {
         _didIteratorError = true;
         _iteratorError = err;
@@ -94,4 +172,32 @@ function scale(root) {
     return {
         notes: _notes
     };
+}
+
+var tests = [['A#', 'major', ['A#', 'B#', 'C##', 'F#', 'E#', 'F##', 'G##', 'A#']], ['C', 'major', ['C', 'D', 'E', 'F', 'G', 'A', 'B', 'C']], ['D#', 'major', ['D#', 'E#', 'F##', 'G#', 'A#', 'B#', 'C##', 'D#']], ['F#', 'major', ['F#', 'G#', 'A#', 'B', 'C#', 'D#', 'E#', 'F#']]];
+var _iteratorNormalCompletion2 = true;
+var _didIteratorError2 = false;
+var _iteratorError2 = undefined;
+
+try {
+    for (var _iterator2 = tests[Symbol.iterator](), _step2; !(_iteratorNormalCompletion2 = (_step2 = _iterator2.next()).done); _iteratorNormalCompletion2 = true) {
+        var t = _step2.value;
+
+        var test = scale(t[0], t[1]).notes;
+        var expected = t[2];
+        console.assert(test.toString() == expected.toString(), test, expected);
+    }
+} catch (err) {
+    _didIteratorError2 = true;
+    _iteratorError2 = err;
+} finally {
+    try {
+        if (!_iteratorNormalCompletion2 && _iterator2.return) {
+            _iterator2.return();
+        }
+    } finally {
+        if (_didIteratorError2) {
+            throw _iteratorError2;
+        }
+    }
 }
