@@ -1,20 +1,24 @@
 'use strict';
 
 var alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G'];
-var notes = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']; // FIXME rename to chromatic_scale
+var chromatic_scale = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
 var enharmonic_notes = {
+    'A': 'G##',
     'A#': 'Bb',
     'Ab': 'G#',
+    'B': 'Cb',
     'B#': 'C',
     'Bb': 'A#',
     'C': 'B#',
     'C#': 'Db',
+    'D': 'C##',
     'D#': 'Eb',
     'Db': 'C#',
     'E#': 'F',
     'Eb': 'D#',
     'F': 'E#',
     'F#': 'Gb',
+    'G': 'F##',
     'G#': 'Ab',
     'Gb': 'F#'
 };
@@ -77,31 +81,24 @@ var chords = {
 };
 
 /**
- * Return index position of note in notes array.
+ * Return index position of note in chromatic scale.
  * If a flat note is passed, the position of the enharmonic sharp is returned.
  *
  * @param {string} name - name of the note
- * @returns {number} notes array index
+ * @returns {number} chromatic_scale array index
  */
-function note_index(name) {
-    return name.endsWith('b') ? notes.indexOf(enharmonic_notes[name]) : notes.indexOf(name);
+function noteIndex(name) {
+    return name.endsWith('b') ? chromatic_scale.indexOf(enharmonic_notes[name]) : chromatic_scale.indexOf(name);
 }
 
 /**
- * Return name of note for given index in notes array.
+ * Return label for note using ♯ for sharps and ♭ for flars.
  *
- * @param {number} index - name of the note
- * @param {bool} [flat] - return name of flat note
- * @returns {string} name of note
+ * @param {string} name - name of the note
+ * @returns {string} note label
  */
-function note_name(index) {
-    var flat = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : false;
-
-    var note_name = notes[index];
-    if (note_name.endsWith('#') && flat) {
-        note_name = enharmonic_notes[note_name];
-    }
-    return note_name;
+function noteLabel(name) {
+    return 1 === name.length ? name : name.replace(/b$/, '♭').replace(/#$/, '♯');
 }
 
 /**
@@ -114,11 +111,10 @@ function note_name(index) {
 function scale(root) {
     var mode = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 'major';
 
-    var is_flat = root.endsWith('b');
-    var offset = note_index(root);
+    var offset = noteIndex(root);
     var alpha_offset = alphabet.indexOf(root[0]);
 
-    var _notes = [];
+    var notes = [];
     var _iteratorNormalCompletion = true;
     var _didIteratorError = false;
     var _iteratorError = undefined;
@@ -131,29 +127,14 @@ function scale(root) {
             var alpha_index = parseInt(interval_id[1], 10) - 1;
             var letter = alphabet[(alpha_offset + alpha_index) % alphabet.length];
             var interval = intervals[interval_id];
-            var index = (offset + interval.semitones) % notes.length;
-            var name = notes[index];
-            //let name = note_name(index, is_flat);
+            var index = (offset + interval.semitones) % chromatic_scale.length;
+            var name = chromatic_scale[index];
             if (!name.startsWith(letter)) {
-                // console.log(name, enharmonic_notes[name]);
+                //console.log(name, enharmonic_notes[name]);
                 name = enharmonic_notes[name];
             }
-            _notes.push(name);
+            notes.push(name);
         }
-        //
-        // // Make sure there are no two notes that start with the same letter except
-        // // first (root) and last (octave) which have to have the same name.
-        // for (let i = 0; i < _notes.length - 1; i++) {
-        //     let current = _notes[i];
-        //     let next = _notes[i + 1];
-        //     if (current[0] == next[0]) {
-        //         if (next == root) {
-        //             _notes[i] = enharmonic_notes[current];
-        //         } else {
-        //             _notes[i + 1] = enharmonic_notes[next];
-        //         }
-        //     }
-        // }
     } catch (err) {
         _didIteratorError = true;
         _iteratorError = err;
@@ -170,11 +151,13 @@ function scale(root) {
     }
 
     return {
-        notes: _notes
+        notes: notes
     };
 }
 
-var tests = [['A#', 'major', ['A#', 'B#', 'C##', 'F#', 'E#', 'F##', 'G##', 'A#']], ['C', 'major', ['C', 'D', 'E', 'F', 'G', 'A', 'B', 'C']], ['D#', 'major', ['D#', 'E#', 'F##', 'G#', 'A#', 'B#', 'C##', 'D#']], ['F#', 'major', ['F#', 'G#', 'A#', 'B', 'C#', 'D#', 'E#', 'F#']]];
+// Test scales TODO move to dedicated test file
+var tests = [['A', 'major', ['A', 'B', 'C#', 'D', 'E', 'F#', 'G#', 'A']], ['A#', 'major', ['A#', 'B#', 'C##', 'D#', 'E#', 'F##', 'G##', 'A#']], ['Ab', 'major', ['Ab', 'Bb', 'C', 'Db', 'Eb', 'F', 'G', 'Ab']], ['B', 'major', ['B', 'C#', 'D#', 'E', 'F#', 'G#', 'A#', 'B']], ['Bb', 'major', ['Bb', 'C', 'D', 'Eb', 'F', 'G', 'A', 'Bb']], ['C', 'major', ['C', 'D', 'E', 'F', 'G', 'A', 'B', 'C']], ['C#', 'major', ['C#', 'D#', 'E#', 'F#', 'G#', 'A#', 'B#', 'C#']], ['Db', 'major', ['Db', 'Eb', 'F', 'Gb', 'Ab', 'Bb', 'C', 'Db']], ['D', 'major', ['D', 'E', 'F#', 'G', 'A', 'B', 'C#', 'D']], ['D#', 'major', ['D#', 'E#', 'F##', 'G#', 'A#', 'B#', 'C##', 'D#']], ['Eb', 'major', ['Eb', 'F', 'G', 'Ab', 'Bb', 'C', 'D', 'Eb']], ['E', 'major', ['E', 'F#', 'G#', 'A', 'B', 'C#', 'D#', 'E']], ['F', 'major', ['F', 'G', 'A', 'Bb', 'C', 'D', 'E', 'F']], ['F#', 'major', ['F#', 'G#', 'A#', 'B', 'C#', 'D#', 'E#', 'F#']], ['Gb', 'major', ['Gb', 'Ab', 'Bb', 'Cb', 'Db', 'Eb', 'F', 'Gb']], ['G', 'major', ['G', 'A', 'B', 'C', 'D', 'E', 'F#', 'G']], ['G#', 'major', ['G#', 'A#', 'B#', 'C#', 'D#', 'E#', 'F##', 'G#']]];
+
 var _iteratorNormalCompletion2 = true;
 var _didIteratorError2 = false;
 var _iteratorError2 = undefined;

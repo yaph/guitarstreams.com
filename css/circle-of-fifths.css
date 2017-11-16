@@ -1,0 +1,13 @@
+svg {
+	font-family: Ubuntu, Arial, sans-serif;
+}
+
+text {
+	stroke: none;
+	fill: #000000;
+}
+
+#circle {
+	fill: none;
+	stroke: #000000;
+}

@@ -2,7 +2,13 @@ a strong, a img {
 cursor: pointer;
 }
 
+h1 {
+font-size: 2.2em;
+}
+
+.boffset {margin-bottom: .5em;}
 .roffset {margin-right: .5em;}
+
 .centered {text-align:center;}
 .small { font-size:1.3rem; }
 
@@ -60,4 +66,26 @@ color: inherit;
 font-size: 2rem;
 font-weight: bold;
 text-align: center;
+}
+
+/* gallery */
+.design-preview img {
+width: 100%;
+}
+.design-preview figure {
+position: relative;
+}
+.design-preview figcaption {
+background-color: rgba(255, 255, 255, .85);
+bottom: 0;
+font-size: .9em;
+padding: .2em;
+position: absolute;
+text-align: center;
+}
+
+.design .btn {
+font-size: 1.4em;
+margin-bottom: .5em;
+margin-right: .2em;
 }

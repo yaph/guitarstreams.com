@@ -1,10 +1,41 @@
 'use strict';
 
-var current = 'C';
-var max = 12;
+var major_roots = ['C', 'G', 'D', 'A', 'E', 'F#', 'Gb', 'Db', 'Ab', 'Eb', 'Bb', 'F'];
+var minor_roots = ['a', 'e', 'b', 'f#', 'c#', 'g#', 'd#', 'bb', 'f', 'c', 'g', 'd'];
+var radians = Math.PI / 180;
 
-for (var i = 0; i < max; i++) {
-    console.log(current, scale(current).notes);
-    var next_index = (notes.indexOf(current) + 7) % notes.length;
-    current = notes[next_index];
-}
+// TODO also scale SVG element to screen
+var svg = d3.select('#circle-of-fifths');
+var bbox = svg.node().getBBox();
+var radius = d3.max([200, bbox.width / 3]);
+
+var circle_stroke = radius / 20;
+var margin = circle_stroke * 6;
+
+var major_label_radius = radius + circle_stroke * 3;
+var minor_label_radius = radius - circle_stroke * 3;
+var major_label_size = radius / 6;
+var minor_label_size = radius / 8;
+
+var range = d3.range(0, major_roots.length);
+var tick_scale = d3.scaleLinear().range([0, 330]).domain([0, 11]);
+
+var main_group = svg.append('g').attr('id', 'main-group').attr('transform', 'translate(' + (radius + margin) + ', ' + (radius + margin) + ')');
+
+main_group.append('circle').attr('id', 'circle').attr('x', 0).attr('y', 0).attr('r', radius).style('stroke-width', circle_stroke);
+
+main_group.selectAll('.major-label').data(range).enter().append('text').attr('class', 'major-label').attr('text-anchor', 'middle').attr('x', function (d) {
+    return major_label_radius * Math.sin(tick_scale(d) * radians);
+}).attr('y', function (d) {
+    return -major_label_radius * Math.cos(tick_scale(d) * radians) + circle_stroke;
+}).style('font-size', major_label_size).text(function (d) {
+    return noteLabel(major_roots[d]);
+});
+
+main_group.selectAll('.minor-label').data(range).enter().append('text').attr('class', 'minor-label').attr('text-anchor', 'middle').attr('x', function (d) {
+    return minor_label_radius * Math.sin(tick_scale(d) * radians);
+}).attr('y', function (d) {
+    return -minor_label_radius * Math.cos(tick_scale(d) * radians) + circle_stroke;
+}).style('font-size', minor_label_size).text(function (d) {
+    return noteLabel(minor_roots[d]);
+});
