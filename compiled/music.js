@@ -154,33 +154,3 @@ function scale(root) {
         notes: notes
     };
 }
-
-// Test scales TODO move to dedicated test file
-var tests = [['A', 'major', ['A', 'B', 'C#', 'D', 'E', 'F#', 'G#', 'A']], ['A#', 'major', ['A#', 'B#', 'C##', 'D#', 'E#', 'F##', 'G##', 'A#']], ['Ab', 'major', ['Ab', 'Bb', 'C', 'Db', 'Eb', 'F', 'G', 'Ab']], ['B', 'major', ['B', 'C#', 'D#', 'E', 'F#', 'G#', 'A#', 'B']], ['Bb', 'major', ['Bb', 'C', 'D', 'Eb', 'F', 'G', 'A', 'Bb']], ['C', 'major', ['C', 'D', 'E', 'F', 'G', 'A', 'B', 'C']], ['C#', 'major', ['C#', 'D#', 'E#', 'F#', 'G#', 'A#', 'B#', 'C#']], ['Db', 'major', ['Db', 'Eb', 'F', 'Gb', 'Ab', 'Bb', 'C', 'Db']], ['D', 'major', ['D', 'E', 'F#', 'G', 'A', 'B', 'C#', 'D']], ['D#', 'major', ['D#', 'E#', 'F##', 'G#', 'A#', 'B#', 'C##', 'D#']], ['Eb', 'major', ['Eb', 'F', 'G', 'Ab', 'Bb', 'C', 'D', 'Eb']], ['E', 'major', ['E', 'F#', 'G#', 'A', 'B', 'C#', 'D#', 'E']], ['F', 'major', ['F', 'G', 'A', 'Bb', 'C', 'D', 'E', 'F']], ['F#', 'major', ['F#', 'G#', 'A#', 'B', 'C#', 'D#', 'E#', 'F#']], ['Gb', 'major', ['Gb', 'Ab', 'Bb', 'Cb', 'Db', 'Eb', 'F', 'Gb']], ['G', 'major', ['G', 'A', 'B', 'C', 'D', 'E', 'F#', 'G']], ['G#', 'major', ['G#', 'A#', 'B#', 'C#', 'D#', 'E#', 'F##', 'G#']]];
-
-var _iteratorNormalCompletion2 = true;
-var _didIteratorError2 = false;
-var _iteratorError2 = undefined;
-
-try {
-    for (var _iterator2 = tests[Symbol.iterator](), _step2; !(_iteratorNormalCompletion2 = (_step2 = _iterator2.next()).done); _iteratorNormalCompletion2 = true) {
-        var t = _step2.value;
-
-        var test = scale(t[0], t[1]).notes;
-        var expected = t[2];
-        console.assert(test.toString() == expected.toString(), test, expected);
-    }
-} catch (err) {
-    _didIteratorError2 = true;
-    _iteratorError2 = err;
-} finally {
-    try {
-        if (!_iteratorNormalCompletion2 && _iterator2.return) {
-            _iterator2.return();
-        }
-    } finally {
-        if (_didIteratorError2) {
-            throw _iteratorError2;
-        }
-    }
-}

@@ -1,28 +1,26 @@
 'use strict';
 
+var outer_radius = 250;
 var major_roots = ['C', 'G', 'D', 'A', 'E', 'F#', 'Gb', 'Db', 'Ab', 'Eb', 'Bb', 'F'];
 var minor_roots = ['a', 'e', 'b', 'f#', 'c#', 'g#', 'd#', 'bb', 'f', 'c', 'g', 'd'];
 var radians = Math.PI / 180;
 
-// TODO also scale SVG element to screen
 var svg = d3.select('#circle-of-fifths');
-var bbox = svg.node().getBBox();
-var radius = d3.max([200, bbox.width / 3]);
+svg.attr('width', outer_radius * 2).attr('height', outer_radius * 2);
 
-var circle_stroke = radius / 20;
-var margin = circle_stroke * 6;
+var circle_stroke = outer_radius * 0.05;
 
-var major_label_radius = radius + circle_stroke * 3;
-var minor_label_radius = radius - circle_stroke * 3;
-var major_label_size = radius / 6;
-var minor_label_size = radius / 8;
+var major_label_radius = outer_radius * 0.92;
+var minor_label_radius = outer_radius * 0.6;
+var major_label_size = outer_radius * 0.16;
+var minor_label_size = outer_radius * 0.14;
 
 var range = d3.range(0, major_roots.length);
 var tick_scale = d3.scaleLinear().range([0, 330]).domain([0, 11]);
 
-var main_group = svg.append('g').attr('id', 'main-group').attr('transform', 'translate(' + (radius + margin) + ', ' + (radius + margin) + ')');
+var main_group = svg.append('g').attr('id', 'main-group').attr('transform', 'translate(' + outer_radius + ', ' + outer_radius + ')');
 
-main_group.append('circle').attr('id', 'circle').attr('x', 0).attr('y', 0).attr('r', radius).style('stroke-width', circle_stroke);
+main_group.append('circle').attr('id', 'circle').attr('x', 0).attr('y', 0).attr('r', outer_radius * 0.76).style('stroke-width', circle_stroke);
 
 main_group.selectAll('.major-label').data(range).enter().append('text').attr('class', 'major-label').attr('text-anchor', 'middle').attr('x', function (d) {
     return major_label_radius * Math.sin(tick_scale(d) * radians);
