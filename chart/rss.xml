@@ -3,23 +3,23 @@
 <channel><title>Chart</title>
     <link>http://guitarstreams.com</link>
     <description>Chart</description>
-    <lastBuildDate>Sat, 16 Dec 2017 23:43:06 </lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2017 20:56:34 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Interactive Circle of Fifths]]></title>
+        <link><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></guid>
+        <pubDate>Sun, 22 Oct 2017 21:33:30 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Chord Families]]></title>
         <link><![CDATA[http://guitarstreams.com/chart/chord-families/]]></link>
         <description><![CDATA[]]></description>
         <guid><![CDATA[http://guitarstreams.com/chart/chord-families/]]></guid>
-        <pubDate>Sun, 22 Oct 2017 21:33:30 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Circle of Fifths]]></title>
-        <link><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></guid>
         <pubDate>Sun, 22 Oct 2017 21:33:30 </pubDate>
     </item>
     

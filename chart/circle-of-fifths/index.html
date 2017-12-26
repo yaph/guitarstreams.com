@@ -5,7 +5,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title itemprop="name">Circle of Fifths</title>
+    <title itemprop="name">Interactive Circle of Fifths</title>
     
     <meta content="GuitarStreams" name="author">
     
@@ -16,7 +16,7 @@
 
     <link href="/compiled/style.css" rel="stylesheet">
     
-        <link href="/compiled/circle-of-fifths.css" rel="stylesheet">
+        <link href="/compiled/pages/circle-of-fifths.css" rel="stylesheet">
     
 </head>
 <body>
@@ -32,30 +32,157 @@
 
     
 <section class="container">
-    <h1>Circle of Fifths</h1>
     <div class="row">
-    <div class="col-md-5"><svg id="circle-of-fifths"></svg></div>
-    <div class="col-md-7">
-
+    <div class="col-md-5">
+        <h2>Circle of Fifths</h2>
+        <svg id="circle-of-fifths"></svg>
+    </div>
+    <div class="col-md-7" id="chord-families">
+        <h2>Guitar chord family</h2>
+        <div class="row guitar"></div>
+        <h2>Ukulele chord family</h2>
+        <div class="row ukulele"></div>
     </div>
 </div>
 
+<h1>Interactive Circle of Fifths</h1>
+
 <p>The major and minor chords in each major key:</p>
-<p>Name:       I   ii  iii IV  V   vi
-C major:    C   Dm  Em  F   G   Am
-G major:    G   Am  Bm  C   D   Em
-D major:    D   Em  F♯m G   A   Bm
-A major:    A   Bm  C♯m D   E   F♯m
-E major:    E   F♯m G♯m A   B   C♯m
-B major:    B   C♯m D♯m E   F♯  G♯m
-F♯ major:   F♯  G♯m A♯m B   C♯  D♯m
-G♭ major:   G♭  A♭m B♭m C♭  D♭  E♭m
-D♭ major:   D♭  E♭m Fm  G♭  A♭  B♭m
-A♭ major:   A♭  B♭m Cm  D♭  E♭  Fm
-E♭ major:   E♭  Fm  Gm  A♭  B♭  Cm
-B♭ major:   B♭  Cm  Dm  E♭  F   Gm
-F major:    F   Gm  Am  B♭  C   Dm</p>
-<p>https://en.wikipedia.org/wiki/Circle_of_fifths#Modulation_and_chord_progression</p>
+
+<table>
+<thead>
+<tr>
+<th scope="col"></th>
+<th scope="col">I</th>
+<th scope="col">ii</th>
+<th scope="col">iii</th>
+<th scope="col">IV</th>
+<th scope="col">V</th>
+<th scope="col">vi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">C major</th>
+<td>C</td>
+<td>Dm</td>
+<td>Em</td>
+<td>F</td>
+<td>G</td>
+<td>Am</td>
+</tr>
+<tr>
+<th scope="row">G major</th>
+<td>G</td>
+<td>Am</td>
+<td>Bm</td>
+<td>C</td>
+<td>D</td>
+<td>Em</td>
+</tr>
+<tr>
+<th scope="row">D major</th>
+<td>D</td>
+<td>Em</td>
+<td>F<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯m</td>
+<td>G</td>
+<td>A</td>
+<td>Bm</td>
+</tr>
+<tr>
+<th scope="row">A major</th>
+<td>A</td>
+<td>Bm</td>
+<td>C<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯m</td>
+<td>D</td>
+<td>E</td>
+<td>F<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯m</td>
+</tr>
+<tr>
+<th scope="row">E major</th>
+<td>E</td>
+<td>F<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯m</td>
+<td>G<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯m</td>
+<td>A</td>
+<td>B</td>
+<td>C<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯m</td>
+</tr>
+<tr>
+<th scope="row">B major</th>
+<td>B</td>
+<td>C<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯m</td>
+<td>D<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯m</td>
+<td>E</td>
+<td>F<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯</td>
+<td>G<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯m</td>
+</tr>
+<tr>
+<th scope="row">F<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯ major</th>
+<td>F<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯</td>
+<td>G<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯m</td>
+<td>A<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯m</td>
+<td>B</td>
+<td>C<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯</td>
+<td>D<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-sharp">♯m</td>
+</tr>
+<tr>
+<th scope="row">G♭ major</th>
+<td>G♭</td>
+<td>A♭m</td>
+<td>B♭m</td>
+<td>C♭</td>
+<td>D♭</td>
+<td>E♭m</td>
+</tr>
+<tr>
+<th scope="row">D♭ major</th>
+<td>D♭</td>
+<td>E♭m</td>
+<td>Fm</td>
+<td>G♭</td>
+<td>A♭</td>
+<td>B♭m</td>
+</tr>
+<tr>
+<th scope="row">A♭ major</th>
+<td>A♭</td>
+<td>B♭m</td>
+<td>Cm</td>
+<td>D♭</td>
+<td>E♭</td>
+<td>Fm</td>
+</tr>
+<tr>
+<th scope="row">E♭ major</th>
+<td>E♭</td>
+<td>Fm</td>
+<td>Gm</td>
+<td>A♭</td>
+<td>B♭</td>
+<td>Cm</td>
+</tr>
+<tr>
+<th scope="row">B♭ major</th>
+<td>B♭</td>
+<td>Cm</td>
+<td>Dm</td>
+<td>E♭</td>
+<td>F</td>
+<td>Gm</td>
+</tr>
+<tr>
+<th scope="row">F major</th>
+<td>F</td>
+<td>Gm</td>
+<td>Am</td>
+<td>B♭</td>
+<td>C</td>
+<td>Dm</td>
+</tr>
+</tbody>
+</table>
+
+[Source](https://en.wikipedia.org/wiki/Circle_of_fifths#Modulation_and_chord_progression)
 </section>
 
 
@@ -74,7 +201,7 @@ F major:    F   Gm  Am  B♭  C   Dm</p>
     
         <script src="/compiled/music.js"></script>
     
-        <script src="/compiled/circle-of-fifths.js"></script>
+        <script src="/compiled/pages/circle-of-fifths.js"></script>
     
 
     <script>

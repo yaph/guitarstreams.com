@@ -3,7 +3,7 @@
 <channel><title>RSS Feed</title>
     <link>http://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Sat, 16 Dec 2017 23:43:06 </lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2017 20:56:34 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -64,6 +64,14 @@
     </item>
     
     <item>
+        <title><![CDATA[Interactive Circle of Fifths]]></title>
+        <link><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></guid>
+        <pubDate>Sun, 22 Oct 2017 21:33:30 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Chord Families]]></title>
         <link><![CDATA[http://guitarstreams.com/chart/chord-families/]]></link>
         <description><![CDATA[]]></description>
@@ -72,18 +80,10 @@
     </item>
     
     <item>
-        <title><![CDATA[Circle of Fifths]]></title>
-        <link><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></guid>
-        <pubDate>Sun, 22 Oct 2017 21:33:30 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[OO KOO LEH LEH Ukulele Hawaiian Pronunciation Design Cognac]]></title>
-        <link><![CDATA[http://guitarstreams.com/merchandise/oo-koo-leh-leh-cognac/]]></link>
-        <description><![CDATA[There are different ways to pronounce Ukulele. Transliterated the Hawaiian pronunciation is &#8220;OO KOO LEH LEH&#8221;, which is shown in a vertical layout on this design using a script font and a simple ukulele drawing at the top right. It is for people who love the ukulele and pronounce it the Hawaiian way. / This design makes for great birthday gift or Christmas present on a shirt or one of the other available products. • Also buy this artwork on apparel, stickers, phone cases, and more.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/merchandise/oo-koo-leh-leh-cognac/]]></guid>
+        <title><![CDATA[OO KOO LEH LEH Ukulele Hawaiian Pronunciation Design White]]></title>
+        <link><![CDATA[http://guitarstreams.com/merchandise/oo-koo-leh-leh-white/]]></link>
+        <description><![CDATA[There are different ways to pronounce Ukulele. Transliterated the Hawaiian pronunciation is &#8220;OO KOO LEH LEH&#8221;, which is shown in a vertical layout on this design using a script font and a simple ukulele drawing at the top right. It is for people who love the ukulele and pronounce it the Hawaiian way. / This design makes for great birthday gift or Christmas present on a shirt or one of the other available products. • Also buy this artwork on apparel, phone cases, home decor, and more.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/merchandise/oo-koo-leh-leh-white/]]></guid>
         <pubDate>Thu, 12 Oct 2017 00:00:00 </pubDate>
     </item>
     
