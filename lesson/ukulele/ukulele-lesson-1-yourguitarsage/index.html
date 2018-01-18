@@ -79,5 +79,22 @@ ga('create', 'UA-5102014-24', 'auto');
 ga('send', 'pageview');
 (function(c,a){function d(){var e=a.getElementsByTagName("a");var f=[];for(var g=0;g<e.length;++g){var h=e[g];if(h.host!=c.location.host){f.push(h)}}return f}function b(f){var e=f.srcElement||f.target;while(e&&(typeof e.tagName=="undefined"||e.tagName.toLowerCase()!="a"||!e.href)){e=e.parentNode}if(!e||!e.href){return}if(c.ga){ga("send","event","Outbound link","Click",e.href)}if(!e.target||e.target.match(/^_(self|parent|top)$/i)){setTimeout(function(){a.location.href=e.href},150);if(f.preventDefault){f.preventDefault()}else{f.returnValue=false}}}c.addEventListener("load",function(){var e=d();for(var f in e){e[f].addEventListener("click",b)}})}(window,document));
 </script>
- </body>
+
+    
+<script src="/compiled/chord_index.js"></script>
+<script>
+let lesson_chords = ;
+for (let i in lesson_chords) {
+    let chord_id = lesson_chords[i];
+    let chord_name = chord_id.includes('-') ? chord_id.split('-')[0] : chord_id;
+    let img = document.getElementById(chord_name);
+    let positions = chord_index['ukulele'][chord_name];
+    if ('undefined' !== typeof positions) {
+        let img_name = chord_id.includes('-') ? chord_id : positions[0];
+        img.src = `/chord/ukulele/${img_name}.svg`;
+    }
+}
+</script>
+
+</body>
 </html>

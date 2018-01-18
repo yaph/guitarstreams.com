@@ -44,26 +44,26 @@
             <div class="row" id="chords">
             
                 
-                <a class="col-md card chord" href="/chord/a/">
-                    <img class="section media" src="/img/chords/ukulele/A.png" alt="A chart" class="img-responsive">
+                <a class="col-md card chord" href="/chord/ukulele/A/">
+                    <img class="section media" id="A" alt="A chart" class="img-responsive">
                     <div class="section double-padded">A</div>
                 </a>
             
                 
-                <a class="col-md card chord" href="/chord/d/">
-                    <img class="section media" src="/img/chords/ukulele/D.png" alt="D chart" class="img-responsive">
+                <a class="col-md card chord" href="/chord/ukulele/D/">
+                    <img class="section media" id="D" alt="D chart" class="img-responsive">
                     <div class="section double-padded">D</div>
                 </a>
             
                 
-                <a class="col-md card chord" href="/chord/c/">
-                    <img class="section media" src="/img/chords/ukulele/C.png" alt="C chart" class="img-responsive">
+                <a class="col-md card chord" href="/chord/ukulele/C/">
+                    <img class="section media" id="C" alt="C chart" class="img-responsive">
                     <div class="section double-padded">C</div>
                 </a>
             
                 
-                <a class="col-md card chord" href="/chord/f/">
-                    <img class="section media" src="/img/chords/ukulele/F.png" alt="F chart" class="img-responsive">
+                <a class="col-md card chord" href="/chord/ukulele/F/">
+                    <img class="section media" id="F" alt="F chart" class="img-responsive">
                     <div class="section double-padded">F</div>
                 </a>
             
@@ -122,5 +122,22 @@ ga('create', 'UA-5102014-24', 'auto');
 ga('send', 'pageview');
 (function(c,a){function d(){var e=a.getElementsByTagName("a");var f=[];for(var g=0;g<e.length;++g){var h=e[g];if(h.host!=c.location.host){f.push(h)}}return f}function b(f){var e=f.srcElement||f.target;while(e&&(typeof e.tagName=="undefined"||e.tagName.toLowerCase()!="a"||!e.href)){e=e.parentNode}if(!e||!e.href){return}if(c.ga){ga("send","event","Outbound link","Click",e.href)}if(!e.target||e.target.match(/^_(self|parent|top)$/i)){setTimeout(function(){a.location.href=e.href},150);if(f.preventDefault){f.preventDefault()}else{f.returnValue=false}}}c.addEventListener("load",function(){var e=d();for(var f in e){e[f].addEventListener("click",b)}})}(window,document));
 </script>
- </body>
+
+    
+<script src="/compiled/chord_index.js"></script>
+<script>
+let lesson_chords = ['A', 'D', 'C', 'F'];
+for (let i in lesson_chords) {
+    let chord_id = lesson_chords[i];
+    let chord_name = chord_id.includes('-') ? chord_id.split('-')[0] : chord_id;
+    let img = document.getElementById(chord_name);
+    let positions = chord_index['ukulele'][chord_name];
+    if ('undefined' !== typeof positions) {
+        let img_name = chord_id.includes('-') ? chord_id : positions[0];
+        img.src = `/chord/ukulele/${img_name}.svg`;
+    }
+}
+</script>
+
+</body>
 </html>
