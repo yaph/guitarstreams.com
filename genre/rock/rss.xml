@@ -3,9 +3,17 @@
 <channel><title>Genre » Rock</title>
     <link>http://guitarstreams.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Thu, 18 Jan 2018 03:00:51 </lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2018 23:49:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[The Beatles - Come Together]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/come-together-the-beatles-one-music-school/]]></link>
+        <description><![CDATA[This ukulele lesson by Katie DeNure features a tutorial on how to play Come Together by the Beatles and a beautiful play along performed by her.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/come-together-the-beatles-one-music-school/]]></guid>
+        <pubDate>Thu, 18 Jan 2018 23:39:13 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[The Rolling Stones - Sympathy For The Devil]]></title>

@@ -3,9 +3,17 @@
 <channel><title>Level</title>
     <link>http://guitarstreams.com</link>
     <description>Level</description>
-    <lastBuildDate>Thu, 18 Jan 2018 03:00:51 </lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2018 23:49:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[The Beatles - Come Together]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/come-together-the-beatles-one-music-school/]]></link>
+        <description><![CDATA[This ukulele lesson by Katie DeNure features a tutorial on how to play Come Together by the Beatles and a beautiful play along performed by her.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/come-together-the-beatles-one-music-school/]]></guid>
+        <pubDate>Thu, 18 Jan 2018 23:39:13 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Ukulele lesson 1 - Anatomy of the Uke and Basic Technique]]></title>
@@ -76,14 +84,6 @@
         <link><![CDATA[http://guitarstreams.com/lesson/ukulele/how-to-strum-the-ukulele-cynthialin/]]></link>
         <description><![CDATA[A beginner tutorial by Cynthia Lin on how to strum the ukulele.]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/how-to-strum-the-ukulele-cynthialin/]]></guid>
-        <pubDate>Thu, 04 May 2017 19:36:02 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[How to Sing and Play Uke at the Same Time]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/how-to-sing-and-play-uke-at-the-same-time-cynthialin/]]></link>
-        <description><![CDATA[A tutorial by Cynthia Lin on how to sing and play the ukulele at the same time.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/how-to-sing-and-play-uke-at-the-same-time-cynthialin/]]></guid>
         <pubDate>Thu, 04 May 2017 19:36:02 </pubDate>
     </item>
     

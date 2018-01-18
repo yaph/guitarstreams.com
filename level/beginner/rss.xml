@@ -3,9 +3,17 @@
 <channel><title>Level » Beginner</title>
     <link>http://guitarstreams.com</link>
     <description>Level » Beginner</description>
-    <lastBuildDate>Thu, 18 Jan 2018 03:00:51 </lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2018 23:49:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[The Beatles - Come Together]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/come-together-the-beatles-one-music-school/]]></link>
+        <description><![CDATA[This ukulele lesson by Katie DeNure features a tutorial on how to play Come Together by the Beatles and a beautiful play along performed by her.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/come-together-the-beatles-one-music-school/]]></guid>
+        <pubDate>Thu, 18 Jan 2018 23:39:13 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Ukulele lesson 1 - Anatomy of the Uke and Basic Technique]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[In this guitar lesson Justin Sandercoe teaches how to play the cracking rock song Hate To Say I Told You So by The Hives.]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/guitar/the-hives-hate-to-say-i-told-you-so-justinguitar-songs/]]></guid>
         <pubDate>Mon, 06 Feb 2017 19:35:25 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[5 Tips To Better Picking On The Guitar]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/guitar/5-tips-to-better-picking-on-the-guitar/]]></link>
-        <description><![CDATA[In this lesson Nate Savage gives 5 tips for better picking on the guitar.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/5-tips-to-better-picking-on-the-guitar/]]></guid>
-        <pubDate>Mon, 06 Feb 2017 01:40:21 </pubDate>
     </item>
     
 </channel></rss>

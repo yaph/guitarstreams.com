@@ -3,9 +3,17 @@
 <channel><title>Lesson » Ukulele</title>
     <link>http://guitarstreams.com</link>
     <description>Lesson » Ukulele</description>
-    <lastBuildDate>Thu, 18 Jan 2018 03:00:51 </lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2018 23:49:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[The Beatles - Come Together]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/come-together-the-beatles-one-music-school/]]></link>
+        <description><![CDATA[This ukulele lesson by Katie DeNure features a tutorial on how to play Come Together by the Beatles and a beautiful play along performed by her.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/come-together-the-beatles-one-music-school/]]></guid>
+        <pubDate>Thu, 18 Jan 2018 23:39:13 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Ukulele lesson 1 - Anatomy of the Uke and Basic Technique]]></title>
@@ -64,7 +72,7 @@
     </item>
     
     <item>
-        <title><![CDATA[Imagine - John Lennon]]></title>
+        <title><![CDATA[John Lennon - Imagine]]></title>
         <link><![CDATA[http://guitarstreams.com/lesson/ukulele/john-lennon-imagine-tenthumbspro/]]></link>
         <description><![CDATA[Tyler Austenfeld teaches how to play Imagine by John Lennon on the Ukulele.]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/john-lennon-imagine-tenthumbspro/]]></guid>
@@ -77,14 +85,6 @@
         <description><![CDATA[The first fingerpicking pattern for ukulele in 4/4 timing in a series of lessons teaching different patterns by Tyler from TenThumbsPro.]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/fingerpicking-pattern-1-tenthumbspro/]]></guid>
         <pubDate>Fri, 24 Apr 2015 10:38:03 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Nirvana - Smells Like Teen Spirit]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/nirvana-smells-like-teen-spirit-mrhardguitar/]]></link>
-        <description><![CDATA[A lesson by MrHardGuitar who teaches Nirvana's Smells Like Teen Spirit on the ukulele.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/nirvana-smells-like-teen-spirit-mrhardguitar/]]></guid>
-        <pubDate>Mon, 20 Apr 2015 20:16:03 </pubDate>
     </item>
     
 </channel></rss>

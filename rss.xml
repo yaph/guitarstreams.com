@@ -3,9 +3,25 @@
 <channel><title>RSS Feed</title>
     <link>http://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Thu, 18 Jan 2018 03:00:51 </lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2018 23:49:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[The Beatles - Come Together]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/come-together-the-beatles-one-music-school/]]></link>
+        <description><![CDATA[This ukulele lesson by Katie DeNure features a tutorial on how to play Come Together by the Beatles and a beautiful play along performed by her.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/come-together-the-beatles-one-music-school/]]></guid>
+        <pubDate>Thu, 18 Jan 2018 23:39:13 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Katie DeNure Ukulele Lessons]]></title>
+        <link><![CDATA[http://guitarstreams.com/channel/one-music-school/]]></link>
+        <description><![CDATA[Katie DeNure is a music teacher at One Music School which offers private Guitar, Voice, and Ukulele lessons online via Skype.]]></description>
+        <guid><![CDATA[http://guitarstreams.com/channel/one-music-school/]]></guid>
+        <pubDate>Thu, 18 Jan 2018 23:39:08 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Interactive Circle of Fifths]]></title>
@@ -69,22 +85,6 @@
         <description><![CDATA[In this introductory ukulele lesson Erich Andreas shows you the anatomy of the ukulele, discusses left and right hand technique as well as picking and strumming.]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/ukulele-lesson-1-yourguitarsage/]]></guid>
         <pubDate>Sat, 28 Oct 2017 21:55:28 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Chord Families]]></title>
-        <link><![CDATA[http://guitarstreams.com/chart/chord-families/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[http://guitarstreams.com/chart/chord-families/]]></guid>
-        <pubDate>Sun, 22 Oct 2017 21:33:30 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[OO KOO LEH LEH Ukulele Hawaiian Pronunciation Design White]]></title>
-        <link><![CDATA[http://guitarstreams.com/merchandise/oo-koo-leh-leh-white/]]></link>
-        <description><![CDATA[There are different ways to pronounce Ukulele. Transliterated the Hawaiian pronunciation is &#8220;OO KOO LEH LEH&#8221;, which is shown in a vertical layout on this design using a script font and a simple ukulele drawing at the top right. It is for people who love the ukulele and pronounce it the Hawaiian way. / This design makes for great birthday gift or Christmas present on a shirt or one of the other available products. • Also buy this artwork on apparel, phone cases, home decor, and more.]]></description>
-        <guid><![CDATA[http://guitarstreams.com/merchandise/oo-koo-leh-leh-white/]]></guid>
-        <pubDate>Thu, 12 Oct 2017 00:00:00 </pubDate>
     </item>
     
 </channel></rss>
