@@ -3,24 +3,16 @@
 <channel><title>Chart</title>
     <link>http://guitarstreams.com</link>
     <description>Chart</description>
-    <lastBuildDate>Thu, 18 Jan 2018 23:49:08 </lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2018 01:20:28 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Interactive Circle of Fifths]]></title>
         <link><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></link>
-        <description><![CDATA[The Interactive Circle of Fifths is a tool for guitar and ukulele players to help pick chords that go together well when making music.]]></description>
+        <description><![CDATA[<p>The Interactive Circle of Fifths is a tool for guitar and ukulele players to help pick chords that go together well when making music.</p>]]></description>
         <guid><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></guid>
         <pubDate>Wed, 27 Dec 2017 22:45:52 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Chord Families]]></title>
-        <link><![CDATA[http://guitarstreams.com/chart/chord-families/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[http://guitarstreams.com/chart/chord-families/]]></guid>
-        <pubDate>Sun, 22 Oct 2017 21:33:30 </pubDate>
     </item>
     
 </channel></rss>
