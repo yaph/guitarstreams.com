@@ -3,9 +3,17 @@
 <channel><title>Tags</title>
     <link>http://guitarstreams.com</link>
     <description>Tags</description>
-    <lastBuildDate>Fri, 19 Jan 2018 15:13:28 </lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2018 19:45:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Chord Theory Fundamentals]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/guitar/chord-theory-fundamentals/]]></link>
+        <description><![CDATA[<p>In this music theory lesson Steve Stine breaks down fundamental chord theory using the C major scale.</p><img src="https://i.ytimg.com/vi/VksFM8fSfNc/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/chord-theory-fundamentals/]]></guid>
+        <pubDate>Mon, 22 Jan 2018 19:40:40 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Understanding the Major Diatonic Scale]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[<p>The first fingerpicking pattern for ukulele in 4/4 timing in a series of lessons teaching different patterns by Tyler from TenThumbsPro.</p><img src="https://i.ytimg.com/vi/-ohPWsSpjjc/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/fingerpicking-pattern-1-tenthumbspro/]]></guid>
         <pubDate>Fri, 24 Apr 2015 10:38:03 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Introduction to the Ukulele]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/intro-ukulele-justinguitar/]]></link>
-        <description><![CDATA[<p>Justin Sandercoe's introductory Ukulele lesson, where he shows how to tune a Ukulele, gives tips on holding it and teaches the cords C, Am, F and G, a.k.a. the '1564' chord progression.</p><img src="https://i.ytimg.com/vi/7Qh2JQwkhjk/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/intro-ukulele-justinguitar/]]></guid>
-        <pubDate>Sun, 19 Apr 2015 10:43:34 </pubDate>
     </item>
     
 </channel></rss>
