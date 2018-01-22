@@ -3,9 +3,17 @@
 <channel><title>Level » Beginner</title>
     <link>http://guitarstreams.com</link>
     <description>Level » Beginner</description>
-    <lastBuildDate>Mon, 22 Jan 2018 19:45:05 </lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2018 20:04:59 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Fretting Hand Positioning Practice]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/guitar/fretting-hand-positioning-practice/]]></link>
+        <description><![CDATA[<p>In this lesson Carl Brown teaches a simple exercise that helps with positioning the fretting hand for playing well-sounding scales and bar chords.</p><img src="https://i.ytimg.com/vi/rTlb70x8qWA/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/fretting-hand-positioning-practice/]]></guid>
+        <pubDate>Mon, 22 Jan 2018 20:04:10 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Chord Theory Fundamentals]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[<p>A beginner tutorial by Cynthia Lin on how to strum the ukulele.</p><img src="https://i.ytimg.com/vi/JKtPE3HfL5c/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/how-to-strum-the-ukulele-cynthialin/]]></guid>
         <pubDate>Thu, 04 May 2017 19:36:02 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Otis Redding - (Sittin' On) Dock Of The Bay]]></title>
-        <link><![CDATA[http://guitarstreams.com/lesson/guitar/otis-redding-dock-of-the-bay-justinguitar-songs/]]></link>
-        <description><![CDATA[<p>In this guitar lesson Justin Sandercoe teaches how to play the Otis Redding classic song Dock Of The Bay.</p><img src="https://i.ytimg.com/vi/gdwwOIFCfFM/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[http://guitarstreams.com/lesson/guitar/otis-redding-dock-of-the-bay-justinguitar-songs/]]></guid>
-        <pubDate>Mon, 06 Feb 2017 19:39:52 </pubDate>
     </item>
     
 </channel></rss>
