@@ -1,1 +1,1 @@
-svg{font-family:Lato, Arial, sans-serif}text{stroke:none;fill:#222}text.selected{stroke:#1565c0;stroke-width:.1rem;fill:#1565c0}#circle{fill:none;stroke:#222}
+svg{font-family:Ubuntu, Arial, sans-serif}text{fill:#222;stroke:none}text.selected{fill:#1565c0;stroke:#1565c0;stroke-width:.1rem}.circle{fill:none;stroke:#222;stroke-width:.1rem}.tick{fill:none;stroke:#222;stroke-width:.1rem}

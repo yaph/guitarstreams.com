@@ -3,7 +3,7 @@
 <channel><title>RSS Feed</title>
     <link>http://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Mon, 22 Jan 2018 20:07:00 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2018 02:50:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -50,7 +50,7 @@
     <item>
         <title><![CDATA[Interactive Circle of Fifths]]></title>
         <link><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></link>
-        <description><![CDATA[<p>The Interactive Circle of Fifths is a tool for guitar and ukulele players to help pick chords that go together well when making music.</p>]]></description>
+        <description><![CDATA[<p>The Interactive Circle of Fifths is a tool for guitar and ukulele players to help pick chords that go together well when making music.</p><img src="/img/preview/circle-of-fifths.png" alt="Preview">]]></description>
         <guid><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></guid>
         <pubDate>Wed, 27 Dec 2017 22:45:52 </pubDate>
     </item>
