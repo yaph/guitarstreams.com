@@ -5,15 +5,15 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title itemprop="name">Chord Families</title>
-    
+    <title itemprop="name">Chord Families Cheat Sheet for Guitar and Ukulele</title>
+    <meta content="This page shows the chord families for the 12 notes of the chromatic scale together with chord diagrams for guitar and ukulele." name="description">
     <meta content="GuitarStreams" name="author">
-    <meta property="og:image" content="">
+    <meta property="og:image" content="/img/large/chord-families.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@guitarstreams" />
-<meta name="twitter:title" content="Chord Families" />
-<meta name="twitter:description" content="" />
-<meta name="twitter:image" content="" />
+<meta name="twitter:title" content="Chord Families Cheat Sheet for Guitar and Ukulele" />
+<meta name="twitter:description" content="This page shows the chord families for the 12 notes of the chromatic scale together with chord diagrams for guitar and ukulele." />
+<meta name="twitter:image" content="/img/large/chord-families.png" />
 
     <link href="http://guitarstreams.com/chart/chord-families/" rel="canonical" itemprop="url">
     <link href="/img/guitarstreams-logo-32.png" rel="icon">
@@ -35,8 +35,21 @@
 
     
 <section class="container">
-    <h1>Chord Families</h1>
-    
+    <h1>Chord Families Cheat Sheet for Guitar and Ukulele</h1>
+    <style>
+.tabs .card {
+    max-width: 13%;
+    margin-right: 1%;
+};
+</style>
+<div class="tabs">
+    <input type="radio" name="tab-group" id="guitar" checked aria-hidden="true">
+    <label for="guitar" aria-hidden="true">Guitar</label>
+    <div id="guitar-families"></div>
+    <input type="radio" name="tab-group" id="ukulele" aria-hidden="true">
+    <label for="ukulele" aria-hidden="true">Ukulele</label>
+    <div id="ukulele-families"></div>
+</div>
 </section>
 
 
@@ -51,9 +64,11 @@
     <script src="/vendor/blazy.min.js"></script>
     <script src="/compiled/script.js"></script>
     
+        <script src="/compiled/chord_index.js"></script>
+    
         <script src="/compiled/music.js"></script>
     
-        <script src="/compiled/chord-families.js"></script>
+        <script src="/compiled/pages/chord-families.js"></script>
     
 
     <script>

@@ -3,9 +3,17 @@
 <channel><title>RSS Feed</title>
     <link>http://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Fri, 26 Jan 2018 21:57:54 </lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2018 01:37:50 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Chord Families Cheat Sheet for Guitar and Ukulele]]></title>
+        <link><![CDATA[http://guitarstreams.com/chart/chord-families/]]></link>
+        <description><![CDATA[<p>This page shows the chord families for the 12 notes of the chromatic scale together with chord diagrams for guitar and ukulele.</p><img src="/img/preview/chord-families.png" alt="Preview">]]></description>
+        <guid><![CDATA[http://guitarstreams.com/chart/chord-families/]]></guid>
+        <pubDate>Sat, 27 Jan 2018 01:35:10 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Fretting Hand Positioning Practice]]></title>
@@ -48,7 +56,7 @@
     </item>
     
     <item>
-        <title><![CDATA[Interactive Circle of Fifths]]></title>
+        <title><![CDATA[Interactive Circle of Fifths for Guitar and Ukulele]]></title>
         <link><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></link>
         <description><![CDATA[<p>The Interactive Circle of Fifths is a tool for guitar and ukulele players to help pick chords that go together well when making music.</p><img src="/img/preview/circle-of-fifths.png" alt="Preview">]]></description>
         <guid><![CDATA[http://guitarstreams.com/chart/circle-of-fifths/]]></guid>
@@ -77,14 +85,6 @@
         <description><![CDATA[<p>In this music theory fundamentals lesson Steve Stine explains the major diatonic scale and shows how several scales are built up step by step.</p><img src="https://i.ytimg.com/vi/0BHiJIwMfpc/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/guitar/understanding-major-diatonic-scale-steve-stine/]]></guid>
         <pubDate>Mon, 30 Oct 2017 19:29:28 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Steve Stine Guitar Channel]]></title>
-        <link><![CDATA[http://guitarstreams.com/channel/steve-stine/]]></link>
-        <description><![CDATA[<p>The channel of guitarist and teacher Steve Stine features lessons on music theory, guitar technique as well as riff and song tutorials with a good dose of heavy metal music.</p>]]></description>
-        <guid><![CDATA[http://guitarstreams.com/channel/steve-stine/]]></guid>
-        <pubDate>Mon, 30 Oct 2017 18:57:07 </pubDate>
     </item>
     
 </channel></rss>
