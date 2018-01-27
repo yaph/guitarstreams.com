@@ -47,45 +47,7 @@
         <p>In this lesson Katie DeNure from <a href="http://www.onemusicschool.com/">One Music School</a> teaches the famous Beatles tune Come Together. Katie breaks down the intro riff, which includes a hammer on, slide and vibrato, the chord progressions of the verse and chorus and two strumming patterns you can use.</p>
 <p>The tutorial part is followed by a full play-through of the song by Katie. She sings with her beautiful voice and plays the ukulele with great technique using a pick, which works very well for this song.</p>
         <h2>Ukulele chord charts for this lesson:</h2>
-            <div class="row" id="chords">
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/A/">
-                    <img class="section media" id="A" alt="A chart" class="img-responsive">
-                    <div class="section double-padded">A</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/A7/">
-                    <img class="section media" id="A7" alt="A7 chart" class="img-responsive">
-                    <div class="section double-padded">A7</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/Bm/">
-                    <img class="section media" id="Bm" alt="Bm chart" class="img-responsive">
-                    <div class="section double-padded">Bm</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/Dm/">
-                    <img class="section media" id="Dm" alt="Dm chart" class="img-responsive">
-                    <div class="section double-padded">Dm</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/G7/">
-                    <img class="section media" id="G7" alt="G7 chart" class="img-responsive">
-                    <div class="section double-padded">G7</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/G/">
-                    <img class="section media" id="G" alt="G chart" class="img-responsive">
-                    <div class="section double-padded">G</div>
-                </a>
-            
-            </div>
+            <div class="row" id="chords"></div>
             <p>Click on a chord name or chart for an overview of lessons with this chord.</p>
         
 
@@ -132,18 +94,10 @@ ga('send', 'pageview');
 
     
 <script src="/compiled/chord_index.js"></script>
+<script src="/compiled/music.js"></script>
 <script>
-let lesson_chords = ['A', 'A7', 'Bm', 'Dm', 'G7', 'G'];
-for (let i in lesson_chords) {
-    let chord_id = lesson_chords[i];
-    let chord_name = chord_id.includes('-') ? chord_id.split('-')[0] : chord_id;
-    let img = document.getElementById(chord_name);
-    let positions = chord_index['ukulele'][chord_name];
-    if ('undefined' !== typeof positions) {
-        let img_name = chord_id.includes('-') ? chord_id : positions[0];
-        img.src = `/chord/ukulele/${img_name}.svg`;
-    }
-}
+let diagrams = ['A', 'A7', 'Bm', 'Dm', 'G7', 'G'].map(c => chordDiagram(chord_index, c, 'ukulele'));
+document.getElementById('chords').innerHTML = diagrams.join('');
 </script>
 
 </body>

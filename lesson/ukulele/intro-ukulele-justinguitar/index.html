@@ -47,33 +47,7 @@
         <p>This is Justin "Guitar" Sandercoe's <a href="http://www.justinguitar.com/en/UK-001-UkuleleBasics.php">introductory Ukulele lesson</a>. He shows how to tune a Ukulele and gives tips on holding it, though you really need to figure out yourself what's best for you.</p>
 <p>Justin also teaches four basic cords C, G, Am, and F, a.k.a. the '1564' chord progression, that can be used to play <a href="https://en.wikipedia.org/wiki/List_of_songs_containing_the_I%E2%80%93V%E2%80%93vi%E2%80%93IV_progression">a lot of songs</a> on the Ukulele.</p>
         <h2>Ukulele chord charts for this lesson:</h2>
-            <div class="row" id="chords">
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/Am/">
-                    <img class="section media" id="Am" alt="Am chart" class="img-responsive">
-                    <div class="section double-padded">Am</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/C/">
-                    <img class="section media" id="C" alt="C chart" class="img-responsive">
-                    <div class="section double-padded">C</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/F/">
-                    <img class="section media" id="F" alt="F chart" class="img-responsive">
-                    <div class="section double-padded">F</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/G/">
-                    <img class="section media" id="G" alt="G chart" class="img-responsive">
-                    <div class="section double-padded">G</div>
-                </a>
-            
-            </div>
+            <div class="row" id="chords"></div>
             <p>Click on a chord name or chart for an overview of lessons with this chord.</p>
         
 
@@ -120,18 +94,10 @@ ga('send', 'pageview');
 
     
 <script src="/compiled/chord_index.js"></script>
+<script src="/compiled/music.js"></script>
 <script>
-let lesson_chords = ['Am', 'C', 'F', 'G'];
-for (let i in lesson_chords) {
-    let chord_id = lesson_chords[i];
-    let chord_name = chord_id.includes('-') ? chord_id.split('-')[0] : chord_id;
-    let img = document.getElementById(chord_name);
-    let positions = chord_index['ukulele'][chord_name];
-    if ('undefined' !== typeof positions) {
-        let img_name = chord_id.includes('-') ? chord_id : positions[0];
-        img.src = `/chord/ukulele/${img_name}.svg`;
-    }
-}
+let diagrams = ['Am', 'C', 'F', 'G'].map(c => chordDiagram(chord_index, c, 'ukulele'));
+document.getElementById('chords').innerHTML = diagrams.join('');
 </script>
 
 </body>

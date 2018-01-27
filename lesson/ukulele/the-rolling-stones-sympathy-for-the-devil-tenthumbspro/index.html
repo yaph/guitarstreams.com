@@ -46,33 +46,7 @@
 </p>
         <p>Tyler Austenfeld teaches how to play Sympathy for the Devil by The Rolling Stones on the Ukulele. He gives a breakdown of the 4 chords in this song and shows how to strum with and without muting the strings.</p>
         <h2>Ukulele chord charts for this lesson:</h2>
-            <div class="row" id="chords">
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/E/">
-                    <img class="section media" id="E" alt="E chart" class="img-responsive">
-                    <div class="section double-padded">E</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/F/">
-                    <img class="section media" id="F" alt="F chart" class="img-responsive">
-                    <div class="section double-padded">F</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/A/">
-                    <img class="section media" id="A" alt="A chart" class="img-responsive">
-                    <div class="section double-padded">A</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/ukulele/B/">
-                    <img class="section media" id="B" alt="B chart" class="img-responsive">
-                    <div class="section double-padded">B</div>
-                </a>
-            
-            </div>
+            <div class="row" id="chords"></div>
             <p>Click on a chord name or chart for an overview of lessons with this chord.</p>
         
 
@@ -131,18 +105,10 @@ ga('send', 'pageview');
 
     
 <script src="/compiled/chord_index.js"></script>
+<script src="/compiled/music.js"></script>
 <script>
-let lesson_chords = ['E', 'F', 'A', 'B'];
-for (let i in lesson_chords) {
-    let chord_id = lesson_chords[i];
-    let chord_name = chord_id.includes('-') ? chord_id.split('-')[0] : chord_id;
-    let img = document.getElementById(chord_name);
-    let positions = chord_index['ukulele'][chord_name];
-    if ('undefined' !== typeof positions) {
-        let img_name = chord_id.includes('-') ? chord_id : positions[0];
-        img.src = `/chord/ukulele/${img_name}.svg`;
-    }
-}
+let diagrams = ['E', 'F', 'A', 'B'].map(c => chordDiagram(chord_index, c, 'ukulele'));
+document.getElementById('chords').innerHTML = diagrams.join('');
 </script>
 
 </body>

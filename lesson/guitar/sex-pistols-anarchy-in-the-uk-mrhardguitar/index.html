@@ -46,39 +46,7 @@
 </p>
         <p>A guitar lesson by MrHardGuitar who teaches the punk classic Anarchy in the U.K. by the Sex Pistols on electric guitar.</p>
         <h2>Guitar chord charts for this lesson:</h2>
-            <div class="row" id="chords">
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/C/">
-                    <img class="section media" id="C" alt="C chart" class="img-responsive">
-                    <div class="section double-padded">C</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/D/">
-                    <img class="section media" id="D" alt="D chart" class="img-responsive">
-                    <div class="section double-padded">D</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/E/">
-                    <img class="section media" id="E" alt="E chart" class="img-responsive">
-                    <div class="section double-padded">E</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/F/">
-                    <img class="section media" id="F" alt="F chart" class="img-responsive">
-                    <div class="section double-padded">F</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/G/">
-                    <img class="section media" id="G" alt="G chart" class="img-responsive">
-                    <div class="section double-padded">G</div>
-                </a>
-            
-            </div>
+            <div class="row" id="chords"></div>
             <p>Click on a chord name or chart for an overview of lessons with this chord.</p>
         
 
@@ -136,18 +104,10 @@ ga('send', 'pageview');
 
     
 <script src="/compiled/chord_index.js"></script>
+<script src="/compiled/music.js"></script>
 <script>
-let lesson_chords = ['C', 'D', 'E', 'F', 'G'];
-for (let i in lesson_chords) {
-    let chord_id = lesson_chords[i];
-    let chord_name = chord_id.includes('-') ? chord_id.split('-')[0] : chord_id;
-    let img = document.getElementById(chord_name);
-    let positions = chord_index['guitar'][chord_name];
-    if ('undefined' !== typeof positions) {
-        let img_name = chord_id.includes('-') ? chord_id : positions[0];
-        img.src = `/chord/guitar/${img_name}.svg`;
-    }
-}
+let diagrams = ['C', 'D', 'E', 'F', 'G'].map(c => chordDiagram(chord_index, c, 'guitar'));
+document.getElementById('chords').innerHTML = diagrams.join('');
 </script>
 
 </body>

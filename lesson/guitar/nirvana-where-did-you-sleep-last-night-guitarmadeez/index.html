@@ -46,33 +46,7 @@
 </p>
         <p>This guitar tutorial by GuitarMadeEZ shows how to play Where Did You Sleep Last Night a.k.a. In the Pines and Black Girl as performed by Nirvana during their MTV Unplugged session in 1993.</p>
         <h2>Guitar chord charts for this lesson:</h2>
-            <div class="row" id="chords">
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/B/">
-                    <img class="section media" id="B" alt="B chart" class="img-responsive">
-                    <div class="section double-padded">B</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/G/">
-                    <img class="section media" id="G" alt="G chart" class="img-responsive">
-                    <div class="section double-padded">G</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/A/">
-                    <img class="section media" id="A" alt="A chart" class="img-responsive">
-                    <div class="section double-padded">A</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/E/">
-                    <img class="section media" id="E" alt="E chart" class="img-responsive">
-                    <div class="section double-padded">E</div>
-                </a>
-            
-            </div>
+            <div class="row" id="chords"></div>
             <p>Click on a chord name or chart for an overview of lessons with this chord.</p>
         
 
@@ -119,18 +93,10 @@ ga('send', 'pageview');
 
     
 <script src="/compiled/chord_index.js"></script>
+<script src="/compiled/music.js"></script>
 <script>
-let lesson_chords = ['B', 'G', 'A', 'E'];
-for (let i in lesson_chords) {
-    let chord_id = lesson_chords[i];
-    let chord_name = chord_id.includes('-') ? chord_id.split('-')[0] : chord_id;
-    let img = document.getElementById(chord_name);
-    let positions = chord_index['guitar'][chord_name];
-    if ('undefined' !== typeof positions) {
-        let img_name = chord_id.includes('-') ? chord_id : positions[0];
-        img.src = `/chord/guitar/${img_name}.svg`;
-    }
-}
+let diagrams = ['B', 'G', 'A', 'E'].map(c => chordDiagram(chord_index, c, 'guitar'));
+document.getElementById('chords').innerHTML = diagrams.join('');
 </script>
 
 </body>

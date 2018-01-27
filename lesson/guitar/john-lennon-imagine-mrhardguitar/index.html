@@ -46,51 +46,7 @@
 </p>
         <p>A guitar lesson by MrHardGuitar who teaches Imagine by John Lennon on electric guitar.</p>
         <h2>Guitar chord charts for this lesson:</h2>
-            <div class="row" id="chords">
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/Am/">
-                    <img class="section media" id="Am" alt="Am chart" class="img-responsive">
-                    <div class="section double-padded">Am</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/C/">
-                    <img class="section media" id="C" alt="C chart" class="img-responsive">
-                    <div class="section double-padded">C</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/Dm/">
-                    <img class="section media" id="Dm" alt="Dm chart" class="img-responsive">
-                    <div class="section double-padded">Dm</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/Cmaj7/">
-                    <img class="section media" id="Cmaj7" alt="Cmaj7 chart" class="img-responsive">
-                    <div class="section double-padded">Cmaj7</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/F/">
-                    <img class="section media" id="F" alt="F chart" class="img-responsive">
-                    <div class="section double-padded">F</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/G/">
-                    <img class="section media" id="G" alt="G chart" class="img-responsive">
-                    <div class="section double-padded">G</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/G7/">
-                    <img class="section media" id="G7" alt="G7 chart" class="img-responsive">
-                    <div class="section double-padded">G7</div>
-                </a>
-            
-            </div>
+            <div class="row" id="chords"></div>
             <p>Click on a chord name or chart for an overview of lessons with this chord.</p>
         
 
@@ -148,18 +104,10 @@ ga('send', 'pageview');
 
     
 <script src="/compiled/chord_index.js"></script>
+<script src="/compiled/music.js"></script>
 <script>
-let lesson_chords = ['Am', 'C', 'Dm', 'Cmaj7', 'F', 'G', 'G7'];
-for (let i in lesson_chords) {
-    let chord_id = lesson_chords[i];
-    let chord_name = chord_id.includes('-') ? chord_id.split('-')[0] : chord_id;
-    let img = document.getElementById(chord_name);
-    let positions = chord_index['guitar'][chord_name];
-    if ('undefined' !== typeof positions) {
-        let img_name = chord_id.includes('-') ? chord_id : positions[0];
-        img.src = `/chord/guitar/${img_name}.svg`;
-    }
-}
+let diagrams = ['Am', 'C', 'Dm', 'Cmaj7', 'F', 'G', 'G7'].map(c => chordDiagram(chord_index, c, 'guitar'));
+document.getElementById('chords').innerHTML = diagrams.join('');
 </script>
 
 </body>

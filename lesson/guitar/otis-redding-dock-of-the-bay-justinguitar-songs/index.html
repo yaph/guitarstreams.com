@@ -46,63 +46,7 @@
 </p>
         <p>In this guitar lesson Justin Sandercoe teaches how to play the song The Dock of the Bay by Otis Redding. Justin teaches the song using open chords, but is also well-suited for using barre chords.</p>
         <h2>Guitar chord charts for this lesson:</h2>
-            <div class="row" id="chords">
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/B7/">
-                    <img class="section media" id="B7" alt="B7 chart" class="img-responsive">
-                    <div class="section double-padded">B7</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/C/">
-                    <img class="section media" id="C" alt="C chart" class="img-responsive">
-                    <div class="section double-padded">C</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/D/">
-                    <img class="section media" id="D" alt="D chart" class="img-responsive">
-                    <div class="section double-padded">D</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/D7/">
-                    <img class="section media" id="D7" alt="D7 chart" class="img-responsive">
-                    <div class="section double-padded">D7</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/F/">
-                    <img class="section media" id="F" alt="F chart" class="img-responsive">
-                    <div class="section double-padded">F</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/G/">
-                    <img class="section media" id="G" alt="G chart" class="img-responsive">
-                    <div class="section double-padded">G</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/A/">
-                    <img class="section media" id="A" alt="A chart" class="img-responsive">
-                    <div class="section double-padded">A</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/E/">
-                    <img class="section media" id="E" alt="E chart" class="img-responsive">
-                    <div class="section double-padded">E</div>
-                </a>
-            
-                
-                <a class="col-md card chord" href="/chord/guitar/Em/">
-                    <img class="section media" id="Em" alt="Em chart" class="img-responsive">
-                    <div class="section double-padded">Em</div>
-                </a>
-            
-            </div>
+            <div class="row" id="chords"></div>
             <p>Click on a chord name or chart for an overview of lessons with this chord.</p>
         
 
@@ -161,18 +105,10 @@ ga('send', 'pageview');
 
     
 <script src="/compiled/chord_index.js"></script>
+<script src="/compiled/music.js"></script>
 <script>
-let lesson_chords = ['B7', 'C', 'D', 'D7', 'F', 'G', 'A', 'E', 'Em'];
-for (let i in lesson_chords) {
-    let chord_id = lesson_chords[i];
-    let chord_name = chord_id.includes('-') ? chord_id.split('-')[0] : chord_id;
-    let img = document.getElementById(chord_name);
-    let positions = chord_index['guitar'][chord_name];
-    if ('undefined' !== typeof positions) {
-        let img_name = chord_id.includes('-') ? chord_id : positions[0];
-        img.src = `/chord/guitar/${img_name}.svg`;
-    }
-}
+let diagrams = ['B7', 'C', 'D', 'D7', 'F', 'G', 'A', 'E', 'Em'].map(c => chordDiagram(chord_index, c, 'guitar'));
+document.getElementById('chords').innerHTML = diagrams.join('');
 </script>
 
 </body>

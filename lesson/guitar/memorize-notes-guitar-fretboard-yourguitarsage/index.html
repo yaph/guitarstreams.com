@@ -93,18 +93,10 @@ ga('send', 'pageview');
 
     
 <script src="/compiled/chord_index.js"></script>
+<script src="/compiled/music.js"></script>
 <script>
-let lesson_chords = ;
-for (let i in lesson_chords) {
-    let chord_id = lesson_chords[i];
-    let chord_name = chord_id.includes('-') ? chord_id.split('-')[0] : chord_id;
-    let img = document.getElementById(chord_name);
-    let positions = chord_index['guitar'][chord_name];
-    if ('undefined' !== typeof positions) {
-        let img_name = chord_id.includes('-') ? chord_id : positions[0];
-        img.src = `/chord/guitar/${img_name}.svg`;
-    }
-}
+let diagrams = .map(c => chordDiagram(chord_index, c, 'guitar'));
+document.getElementById('chords').innerHTML = diagrams.join('');
 </script>
 
 </body>
