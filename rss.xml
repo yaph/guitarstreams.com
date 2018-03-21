@@ -3,7 +3,7 @@
 <channel><title>RSS Feed</title>
     <link>http://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Wed, 21 Mar 2018 02:08:14 </lastBuildDate>
+    <lastBuildDate>Wed, 21 Mar 2018 02:15:42 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -13,14 +13,6 @@
         <description><![CDATA[<p>In this video Andrew and Nate from Guitareo show how you can set up a used guitar and give tips on what to consider when buying one.</p><img src="https://i.ytimg.com/vi/12qmuB3yo7Y/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/guitar/setting-up-a-second-hand-guitar/]]></guid>
         <pubDate>Wed, 21 Mar 2018 02:07:08 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Guitareo Guitar Lessons]]></title>
-        <link><![CDATA[http://guitarstreams.com/channel/guitareo/]]></link>
-        <description><![CDATA[<p>The guitar lessons on this channel are designed to help new students get started or experienced guitarists take their playing to the next level.</p>]]></description>
-        <guid><![CDATA[http://guitarstreams.com/channel/guitareo/]]></guid>
-        <pubDate>Wed, 21 Mar 2018 02:07:03 </pubDate>
     </item>
     
     <item>
@@ -85,6 +77,14 @@
         <description><![CDATA[<p>In this music theory lesson Steve Stine breaks down fundamental chord theory using the C major scale.</p><img src="https://i.ytimg.com/vi/VksFM8fSfNc/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[http://guitarstreams.com/lesson/guitar/chord-theory-fundamentals/]]></guid>
         <pubDate>Mon, 22 Jan 2018 19:40:40 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[The Beatles - Come Together]]></title>
+        <link><![CDATA[http://guitarstreams.com/lesson/ukulele/come-together-the-beatles-one-music-school/]]></link>
+        <description><![CDATA[<p>This ukulele lesson by Katie DeNure features a tutorial on how to play Come Together by the Beatles and a beautiful play along performed by her.</p><img src="https://i.ytimg.com/vi/TDexdwNgeP4/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[http://guitarstreams.com/lesson/ukulele/come-together-the-beatles-one-music-school/]]></guid>
+        <pubDate>Thu, 18 Jan 2018 23:39:13 </pubDate>
     </item>
     
 </channel></rss>
