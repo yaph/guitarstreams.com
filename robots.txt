@@ -1,4 +1,4 @@
-Sitemap: http://guitarstreams.com/sitemap.xml
+Sitemap: https://guitarstreams.com/sitemap.xml
 
 User-agent: *
 Disallow: /noindex/

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tool</title>
+    <link>https://guitarstreams.com</link>
+    <description>Tool</description>
+    <lastBuildDate>Sun, 17 Jun 2018 13:20:47 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Interactive Fretboard for Guitar and Ukulele Players]]></title>
+        <link><![CDATA[https://guitarstreams.com/tool/fretboard/]]></link>
+        <description><![CDATA[<p>The interactive fretboard is a tool for guitar and ukulele players to help in their music making journey.</p><img src="/img/preview/fretboard.png" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/tool/fretboard/]]></guid>
+        <pubDate>Fri, 15 Jun 2018 21:21:49 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Chord Families Cheat Sheet for Guitar and Ukulele]]></title>
+        <link><![CDATA[https://guitarstreams.com/tool/chord-families/]]></link>
+        <description><![CDATA[<p>This page shows the chord families for the 12 notes of the chromatic scale together with chord diagrams for guitar and ukulele.</p><img src="/img/preview/chord-families.png" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/tool/chord-families/]]></guid>
+        <pubDate>Sat, 27 Jan 2018 01:35:10 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Interactive Circle of Fifths for Guitar and Ukulele]]></title>
+        <link><![CDATA[https://guitarstreams.com/tool/circle-of-fifths/]]></link>
+        <description><![CDATA[<p>The Interactive Circle of Fifths is a tool for guitar and ukulele players to help pick chords that go together well when making music.</p><img src="/img/preview/circle-of-fifths.png" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/tool/circle-of-fifths/]]></guid>
+        <pubDate>Wed, 27 Dec 2017 22:45:52 </pubDate>
+    </item>
+    
+</channel></rss>

@@ -5,54 +5,45 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title itemprop="name">Interactive Circle of Fifths for Guitar and Ukulele</title>
-    <meta content="The Interactive Circle of Fifths is a tool for guitar and ukulele players to help pick chords that go together well when making music." name="description">
+    <title itemprop="name">Chord Families Cheat Sheet for Guitar and Ukulele</title>
+    <meta content="This page shows the chord families for the 12 notes of the chromatic scale together with chord diagrams for guitar and ukulele." name="description">
     <meta content="GuitarStreams" name="author">
-    <meta property="og:image" content="/img/large/circle-of-fifths.png">
+    <meta property="og:image" content="/img/large/chord-families.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@guitarstreams" />
-<meta name="twitter:title" content="Interactive Circle of Fifths for Guitar and Ukulele" />
-<meta name="twitter:description" content="The Interactive Circle of Fifths is a tool for guitar and ukulele players to help pick chords that go together well when making music." />
-<meta name="twitter:image" content="/img/large/circle-of-fifths.png" />
+<meta name="twitter:title" content="Chord Families Cheat Sheet for Guitar and Ukulele" />
+<meta name="twitter:description" content="This page shows the chord families for the 12 notes of the chromatic scale together with chord diagrams for guitar and ukulele." />
+<meta name="twitter:image" content="/img/large/chord-families.png" />
 
-    <link href="http://guitarstreams.com/chart/circle-of-fifths/" rel="canonical" itemprop="url">
+    <link href="https://guitarstreams.com/tool/chord-families/" rel="canonical" itemprop="url">
     <link href="/img/guitarstreams-logo-32.png" rel="icon">
     <link href="/rss.xml" rel="alternate" type="application/rss+xml" title="RSS feed">
 
     <link href="/compiled/style.css" rel="stylesheet">
     
-        <link href="/compiled/pages/circle-of-fifths.css" rel="stylesheet">
-    
 </head>
 <body>
     <header>
         <div class="container">
-            <a class="logo" href="http://guitarstreams.com"><img src="/img/guitarstreams-logo-32.png " alt="GuitarStreams"></a>
+            <a class="logo" href="https://guitarstreams.com"><img src="/img/guitarstreams-logo-32.png " alt="GuitarStreams"></a>
             <a class="button" href="/lesson/guitar/">Guitar Lessons</a>
             <a class="button" href="/lesson/ukulele/">Ukulele Lessons</a>
             <a class="button" href="/merchandise/">Merchandise</a>
-            <a class="button secondary subscribe" href="/rss.xml" title="GuitarStreams RSS Feed">Subscribe</a>
+            <a class="button" href="/rss.xml" title="GuitarStreams RSS Feed">Subscribe</a>
         </div>
     </header>
 
     
 <section class="container">
-    <div class="row">
-    <div class="col-md-4">
-        <h2>Circle of Fifths</h2>
-        <svg id="circle-of-fifths"></svg>
-    </div>
-    <div class="col-md-8" id="chord-families">
-        <h2>Guitar chord family</h2>
-        <div class="row guitar"></div>
-        <h2>Ukulele chord family</h2>
-        <div class="row ukulele"></div>
-    </div>
+    <h1>Chord Families Cheat Sheet for Guitar and Ukulele</h1>
+    <div class="tabs">
+    <input type="radio" name="tab-group" id="guitar" checked aria-hidden="true">
+    <label for="guitar" aria-hidden="true">Guitar</label>
+    <div id="guitar-families"></div>
+    <input type="radio" name="tab-group" id="ukulele" aria-hidden="true">
+    <label for="ukulele" aria-hidden="true">Ukulele</label>
+    <div id="ukulele-families"></div>
 </div>
-
-<h1>Interactive Circle of Fifths for Guitar and Ukulele</h1>
-<p>The circle of fifths is a music theoretical tool to visualize the relationships between the 12 notes of the chromatic scale, their key signatures and the associated major and minor keys. This interactive circle of fifths focuses on the chord families derived from the notes in the circle for guitar and ukulele players. When you click on a note the corresponding chord families are shown with fretboard charts that show how to play them on both instruments in standard tuning.</p>
-<p>Knowing these chord families is very helpful for jamming, figuring out songs you like and composing your own music. Many songs in pop and rock music use chord progressions made of just 3 or 4 chords from a particular chord family. One that is very popular is made of the 3 major chords and the 6th chord in a family, i. e. the 1564 or I-V-vi-IV progression. It even has its own <a href="https://en.wikipedia.org/wiki/List_of_songs_containing_the_I%E2%80%93V%E2%80%93vi%E2%80%93IV_progression">Wikipedia page</a> listing more than 200 songs using it.</p>
 </section>
 
 
@@ -67,13 +58,11 @@
     <script src="/vendor/blazy.min.js"></script>
     <script src="/compiled/script.js"></script>
     
-        <script src="/vendor/d3.min.js"></script>
-    
         <script src="/compiled/chord_index.js"></script>
     
         <script src="/compiled/music.js"></script>
     
-        <script src="/compiled/pages/circle-of-fifths.js"></script>
+        <script src="/compiled/pages/chord-families.js"></script>
     
 
     <script>
