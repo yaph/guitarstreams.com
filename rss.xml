@@ -3,7 +3,7 @@
 <channel><title>RSS Feed</title>
     <link>https://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Mon, 25 Jun 2018 23:38:49 </lastBuildDate>
+    <lastBuildDate>Tue, 24 Jul 2018 15:37:51 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -13,6 +13,14 @@
         <description><![CDATA[<p>The interactive fretboard is a tool for guitar and ukulele players to help in their music making journey.</p><img src="/img/preview/fretboard.png" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/tool/fretboard/]]></guid>
         <pubDate>Fri, 15 Jun 2018 21:21:49 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Choose Your Axe The Weapon of Guitarists - Black Design]]></title>
+        <link><![CDATA[https://guitarstreams.com/merchandise/choose-your-axe-hoodie-black/]]></link>
+        <description><![CDATA[<p>Heavy metal and hard rock musicians love them, guitars that look like axes. Like the ones you see on this design that asks to choose your axe. / Is music your weapon of choice and do you love to rock out heavy on your axe? Then this is the right design to get on a t-shirt, hoodie or other product. It also makes for a rocking birthday or Christmas gift for guitar players. • Also buy this artwork on apparel, stickers, phone cases, and more.</p><img src="/img/preview/choose-your-axe-hoodie-black.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/merchandise/choose-your-axe-hoodie-black/]]></guid>
+        <pubDate>Thu, 03 May 2018 00:00:00 </pubDate>
     </item>
     
     <item>
@@ -77,14 +85,6 @@
         <description><![CDATA[<p>This channel by Carl Brown contains theory and technique lessons for playing the guitar.</p>]]></description>
         <guid><![CDATA[https://guitarstreams.com/channel/guitarlessons365/]]></guid>
         <pubDate>Mon, 22 Jan 2018 19:53:06 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Chord Theory Fundamentals]]></title>
-        <link><![CDATA[https://guitarstreams.com/lesson/guitar/chord-theory-fundamentals/]]></link>
-        <description><![CDATA[<p>In this music theory lesson Steve Stine breaks down fundamental chord theory using the C major scale.</p><img src="https://i.ytimg.com/vi/VksFM8fSfNc/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/lesson/guitar/chord-theory-fundamentals/]]></guid>
-        <pubDate>Mon, 22 Jan 2018 19:40:40 </pubDate>
     </item>
     
 </channel></rss>
