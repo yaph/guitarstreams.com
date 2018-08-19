@@ -5,23 +5,21 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title itemprop="name">Interactive Fretboard for Guitar and Ukulele Players</title>
-    <meta content="The interactive fretboard is a tool for guitar and ukulele players to help in their music making journey." name="description">
+    <title itemprop="name">Key...</title>
+    <meta content="This page shows the chord families..." name="description">
     <meta content="GuitarStreams" name="author">
-    <meta property="og:image" content="/img/large/fretboard.png">
+    <meta property="og:image" content="/img/large/chord-families.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@guitarstreams" />
-<meta name="twitter:title" content="Interactive Fretboard for Guitar and Ukulele Players" />
-<meta name="twitter:description" content="The interactive fretboard is a tool for guitar and ukulele players to help in their music making journey." />
-<meta name="twitter:image" content="/img/large/fretboard.png" />
+<meta name="twitter:title" content="Key..." />
+<meta name="twitter:description" content="This page shows the chord families..." />
+<meta name="twitter:image" content="/img/large/chord-families.png" />
 
-    <link rel="canonical" itemprop="url" href="https://guitarstreams.com/tool/fretboard/">
+    <link rel="canonical" itemprop="url" href="https://guitarstreams.com/tool/key/">
     <link rel="icon" href="/img/guitarstreams-logo-32.png">
     <link rel="alternate" type="application/rss+xml" title="RSS feed" href="/rss.xml">
     <link rel="stylesheet" href="/compiled/style.css">
 
-    
-        <link href="/compiled/pages/fretboard.css" rel="stylesheet">
     
 </head>
 <body class="sans-serif lh-copy">
@@ -41,33 +39,10 @@
 
     
 <section class="ph4">
-    <h1>Interactive Fretboard for Guitar and Ukulele Players</h1>
-<svg id="fretboard"></svg>
+    <h1>Key...</h1>
+    <div id="notes"></div>
 
-<fieldset class="bw0">
-    <label for="instrument">Instrument: </label>
-    <label for="instrument-guitar">
-        <input type="radio" name="instrument" id="instrument-guitar" value="guitar"> Guitar
-    </label>
-    <label for="instrument-ukulele">
-        <input type="radio" name="instrument" id="instrument-ukulele" value="ukulele"> Ukulele
-    </label>
-</fieldset>
-<fieldset class="bw0">
-    <label for="notes">
-        Notes to show: <input type="text" id="notes" size="26">
-    </label>
-</fieldset>
-<fieldset class="bw0">
-    Choose scale:
-    <select id="scale-root"></select>
-    <select id="scale-mode"></select>
-</fieldset>
-<fieldset class="bw0">
-    <label for="fret-count">Number of frets:
-        <input type="number" id="fret-count" min="3" max="24" step="1">
-    </label>
-</fieldset>
+<div id="scales"></div>
 </section>
 
 
@@ -80,13 +55,11 @@
     <script src="/vendor/blazy.min.js"></script>
     <script src="/compiled/script.js"></script>
     
-        <script src="/vendor/d3.min.js"></script>
+        <script src="/compiled/chord_index.js"></script>
     
         <script src="/compiled/music.js"></script>
     
-        <script src="/compiled/fretboard.js"></script>
-    
-        <script src="/compiled/pages/interactive-fretboard.js"></script>
+        <script src="/compiled/pages/key.js"></script>
     
 
     <script>
