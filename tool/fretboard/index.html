@@ -44,30 +44,39 @@
     <h1>Interactive Fretboard for Guitar and Ukulele Players</h1>
 <svg id="fretboard"></svg>
 
-<fieldset class="bw0">
-    <label for="instrument">Instrument: </label>
-    <label for="instrument-guitar">
-        <input type="radio" name="instrument" id="instrument-guitar" value="guitar"> Guitar
-    </label>
-    <label for="instrument-ukulele">
-        <input type="radio" name="instrument" id="instrument-ukulele" value="ukulele"> Ukulele
-    </label>
-</fieldset>
-<fieldset class="bw0">
-    <label for="notes">
-        Notes to show: <input type="text" id="notes" size="26">
-    </label>
-</fieldset>
-<fieldset class="bw0">
-    Choose scale:
-    <select id="scale-root"></select>
-    <select id="scale-mode"></select>
-</fieldset>
-<fieldset class="bw0">
-    <label for="fret-count">Number of frets:
-        <input type="number" id="fret-count" min="3" max="24" step="1">
-    </label>
-</fieldset>
+<div class="flex">
+    <div class="w-30">
+        <fieldset class="bw0">
+            <label for="instrument">Instrument: </label>
+            <label for="instrument-guitar">
+                <input type="radio" name="instrument" id="instrument-guitar" value="guitar"> Guitar
+            </label>
+            <label for="instrument-ukulele">
+                <input type="radio" name="instrument" id="instrument-ukulele" value="ukulele"> Ukulele
+            </label>
+        </fieldset>
+        <fieldset class="bw0">
+            <label for="notes">
+                Notes to show: <input type="text" id="notes" size="26">
+            </label>
+        </fieldset>
+        <fieldset class="bw0">
+            Choose scale:
+            <select id="scale-root"></select>
+            <select id="scale-mode"></select>
+        </fieldset>
+        <fieldset class="bw0">
+            <label for="fret-count">Number of frets:
+                <input type="number" id="fret-count" min="3" max="24" step="1">
+            </label>
+        </fieldset>
+    </div>
+    <div id="chord-family" class="w-70 dn">
+        <h3 class="title">Chords in this scale</h3>
+        <div class="flex" id="chord-buttons"></div>
+        <p>Click on a chord button to highlight the corresponding notes on the fretboard.</p>
+    </div>
+</div>
 </section>
 
 
