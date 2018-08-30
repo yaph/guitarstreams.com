@@ -26,7 +26,7 @@
 </head>
 <body class="sans-serif lh-copy">
 
-    <nav class="flex bg-black-90 white pl4 pv2 b">
+    <nav class="flex bg-black-90 white ph2 pv2 b">
         <a class="mr3" href="https://guitarstreams.com"><img src="/img/guitarstreams-logo.png " alt="GuitarStreams"></a>
         <div class="f3 w-90">
             <a class="near-white link mr3" href="/lesson/guitar/">Guitar Lessons</a>
@@ -35,18 +35,34 @@
             <a class="near-white link mr3" href="/tool/">Tools</a>
         </div>
         
-<a class="bg-gold white link dib pv1 ph2 br2 f4" href="/rss.xml" title="GuitarStreams RSS Feed">Subscribe</a>
+<a class="bg-gold white link dib pv1 ph2 br2 f4" href="/rss.xml" title="GuitarStreams RSS Feed">RSS</a>
 
     </nav>
 
     
-<section class="ph4">
+<section class="ph2">
     <h1>Interactive Fretboard for Guitar and Ukulele Players</h1>
-<svg id="fretboard"></svg>
+<div class="fretboard"><svg id="fretboard"></svg></div>
 
-<div class="flex">
+<div class="flex-l">
     <div class="w-30">
-        <fieldset class="bw0">
+        <h3 class="ma0">Fretboard settings</h3>
+        <fieldset class="bw0 mv2 pa0">
+            <label for="notes">
+                Notes to show: <input type="text" id="notes">
+            </label>
+        </fieldset>
+        <fieldset class="bw0 mv2 pa0">
+            Choose scale:
+            <select id="scale-root"></select>
+            <select id="scale-mode"></select>
+        </fieldset>
+        <fieldset class="bw0 mv2 pa0">
+            <label for="fret-count">Number of frets:
+                <input type="number" id="fret-count" min="3" max="24" step="1">
+            </label>
+        </fieldset>
+        <fieldset class="bw0 mv2 pa0">
             <label for="instrument">Instrument: </label>
             <label for="instrument-guitar">
                 <input type="radio" name="instrument" id="instrument-guitar" value="guitar"> Guitar
@@ -55,24 +71,9 @@
                 <input type="radio" name="instrument" id="instrument-ukulele" value="ukulele"> Ukulele
             </label>
         </fieldset>
-        <fieldset class="bw0">
-            <label for="notes">
-                Notes to show: <input type="text" id="notes" size="26">
-            </label>
-        </fieldset>
-        <fieldset class="bw0">
-            Choose scale:
-            <select id="scale-root"></select>
-            <select id="scale-mode"></select>
-        </fieldset>
-        <fieldset class="bw0">
-            <label for="fret-count">Number of frets:
-                <input type="number" id="fret-count" min="3" max="24" step="1">
-            </label>
-        </fieldset>
     </div>
     <div id="chord-family" class="w-70 dn">
-        <h3 class="title">Chords in this scale</h3>
+        <h3 class="ma0 title">Chords in this scale</h3>
         <div class="flex" id="chord-buttons"></div>
         <p>Click on a chord button to highlight the corresponding notes on the fretboard.</p>
     </div>
@@ -80,7 +81,7 @@
 </section>
 
 
-    <footer class="bg-black-90 white pl4 pv2 mt4">
+    <footer class="bg-black-90 white ph2 pv2 mt4">
         <p>GuitarStreams is a site for guitar and ukulele players featuring video lessons from competent teachers and songs to play along.<br>
         <strong>Sections:</strong> <a class="link light-blue" href="/lesson/guitar/">Guitar lessons</a> • <a class="link light-blue" href="/lesson/ukulele/">Ukulele lessons</a> • <a class="link light-blue" href="/song/">Play Along Songs</a> • <a class="link light-blue" href="/merchandise/">Merchandise</a><br>
         <strong>Meta:</strong> <a class="link light-blue" rel="nofollow" href="/info/about/">About</a> • <a class="link light-blue" rel="nofollow" href="/info/privacy/">Privacy Policy</a></p>
