@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title itemprop="name">Metronome</title>
+    
+    <meta content="GuitarStreams" name="author">
+    <meta property="og:image" content="">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@guitarstreams" />
+<meta name="twitter:title" content="Metronome" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:image" content="" />
+
+    <link rel="canonical" itemprop="url" href="https://guitarstreams.com/tool/metronome/">
+    <link rel="icon" href="/img/guitarstreams-logo.png">
+    <link rel="alternate" type="application/rss+xml" title="RSS feed" href="/rss.xml">
+    <link rel="stylesheet" href="/compiled/style.css">
+
+    
+</head>
+<body class="sans-serif lh-copy">
+
+    <nav class="flex bg-black-90 white ph2 pv2 b">
+        <a class="mr3" href="https://guitarstreams.com"><img src="/img/guitarstreams-logo.png " alt="GuitarStreams"></a>
+        <div class="f3 w-90">
+            <a class="near-white link mr3" href="/lesson/guitar/">Guitar Lessons</a>
+            <a class="near-white link mr3" href="/lesson/ukulele/">Ukulele Lessons</a>
+            <a class="near-white link mr3" href="/merchandise/">Merchandise</a>
+            <a class="near-white link mr3" href="/tool/">Tools</a>
+        </div>
+        
+<a class="bg-gold white link dib pv1 ph2 br2 f4" href="/rss.xml" title="GuitarStreams RSS Feed">RSS</a>
+
+    </nav>
+
+    
+<section class="ph2">
+    <h1>Metronome</h1>
+<div class="metronome">
+
+    <div class="container">
+
+      <section class="metronome-container">
+        <div class="counter"></div>
+
+        <i class="fa fa-cog options-btn"></i>
+
+        <div class="controls">
+          <label>BPM: <span>
+                        <i class="fa fa-minus bpm-minus"></i>
+                        <input type="text" value="60" class="bpm-input" />
+                        <i class="fa fa-plus bpm-plus"></i>
+                      </span>
+          </label>
+          <label>
+            Beat: <input type="text" value="4" class="ts-top" /></label>
+          <div style="margin-bottom: 15px;">
+            <input type="checkbox" id="timer-check" />
+            <label for="timer-check"></label>
+
+            Timer: <input type="text" value="60" class="timer" />
+          </div>
+
+          <button class="tap-btn">Tap</button>
+          <button class="play-btn">Play</button>
+        </div>
+
+        <div class="options">
+          <i class="fa fa-caret-down up"></i>
+          <label>Off Beat Pitch: <input type="range" min="0" max="500" value="200" class="beat-range" /></label>
+          <label>Accent Pitch: <input type="range" min="0" max="500" value="380" class="accent-range" /></label>
+        </div>
+      </section>
+    </div>
+
+
+</div>
+<hr>
+Sound source: http://99sounds.org/drum-samples/
+Code source: https://codepen.io/ganderzz/pen/Ezlfu
+</section>
+
+
+    <footer class="bg-black-90 white ph2 pv2 mt4">
+        <p>GuitarStreams is a site for guitar and ukulele players featuring video lessons from competent teachers and songs to play along.<br>
+        <strong>Sections:</strong> <a class="link light-blue" href="/lesson/guitar/">Guitar lessons</a> • <a class="link light-blue" href="/lesson/ukulele/">Ukulele lessons</a> • <a class="link light-blue" href="/song/">Play Along Songs</a> • <a class="link light-blue" href="/merchandise/">Merchandise</a><br>
+        <strong>Meta:</strong> <a class="link light-blue" rel="nofollow" href="/info/about/">About</a> • <a class="link light-blue" rel="nofollow" href="/info/privacy/">Privacy Policy</a></p>
+    </footer>
+
+    <script src="/vendor/blazy.min.js"></script>
+    <script src="/compiled/script.js"></script>
+    
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    
+        <script src="/compiled/metronome.js"></script>
+    
+
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-5102014-24', 'auto');
+ga('send', 'pageview');
+(function(c,a){function d(){var e=a.getElementsByTagName("a");var f=[];for(var g=0;g<e.length;++g){var h=e[g];if(h.host!=c.location.host){f.push(h)}}return f}function b(f){var e=f.srcElement||f.target;while(e&&(typeof e.tagName=="undefined"||e.tagName.toLowerCase()!="a"||!e.href)){e=e.parentNode}if(!e||!e.href){return}if(c.ga){ga("send","event","Outbound link","Click",e.href)}if(!e.target||e.target.match(/^_(self|parent|top)$/i)){setTimeout(function(){a.location.href=e.href},150);if(f.preventDefault){f.preventDefault()}else{f.returnValue=false}}}c.addEventListener("load",function(){var e=d();for(var f in e){e[f].addEventListener("click",b)}})}(window,document));
+</script>
+
+    
+</body>
+</html>
