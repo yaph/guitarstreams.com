@@ -3,9 +3,25 @@
 <channel><title>Channel</title>
     <link>https://guitarstreams.com</link>
     <description>Channel</description>
-    <lastBuildDate>Wed, 19 Sep 2018 19:37:27 </lastBuildDate>
+    <lastBuildDate>Fri, 05 Oct 2018 02:10:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Ukeledu]]></title>
+        <link><![CDATA[https://guitarstreams.com/channel/ukeledu-music/]]></link>
+        <description><![CDATA[<p>Ukulele play along songs with tabs and lyrics, lessons in Spanish and covers.</p>]]></description>
+        <guid><![CDATA[https://guitarstreams.com/channel/ukeledu-music/]]></guid>
+        <pubDate>Fri, 05 Oct 2018 00:51:29 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ukulele Cheats]]></title>
+        <link><![CDATA[https://guitarstreams.com/channel/ukulele-cheats/]]></link>
+        <description><![CDATA[<p>Vasko teaches ukulele lessons twice a week and runs monthly ukulele giveaway contests on his YouTube channel.</p>]]></description>
+        <guid><![CDATA[https://guitarstreams.com/channel/ukulele-cheats/]]></guid>
+        <pubDate>Tue, 02 Oct 2018 21:26:58 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Carl Brown Guitar Lessons]]></title>
@@ -69,22 +85,6 @@
         <description><![CDATA[<p>Guitar Habits's channel with guitar lessons about practicing, rhythm, soloing, performing, songwriting, gear, improving skills, lifestyle and motivation.</p>]]></description>
         <guid><![CDATA[https://guitarstreams.com/channel/guitarhabits/]]></guid>
         <pubDate>Thu, 04 May 2017 19:44:14 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Guitareo Guitar Lessons]]></title>
-        <link><![CDATA[https://guitarstreams.com/channel/guitareo/]]></link>
-        <description><![CDATA[<p>The guitar lessons on this channel are designed to help new students get started or experienced guitarists take their playing to the next level.</p>]]></description>
-        <guid><![CDATA[https://guitarstreams.com/channel/guitareo/]]></guid>
-        <pubDate>Mon, 06 Feb 2017 01:40:03 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[The Ukulele Teacher: Ukulele Lessons and Songs]]></title>
-        <link><![CDATA[https://guitarstreams.com/channel/theukuleleteacher/]]></link>
-        <description><![CDATA[<p>A great channel for beginners and intermediate Ukulele players with hundreds of lessons teaching popular songs.</p>]]></description>
-        <guid><![CDATA[https://guitarstreams.com/channel/theukuleleteacher/]]></guid>
-        <pubDate>Thu, 03 Mar 2016 16:12:56 </pubDate>
     </item>
     
 </channel></rss>

@@ -21,55 +21,92 @@
     <link rel="stylesheet" href="/compiled/style.css">
 
     
+
+    
+<script src="/vendor/js.cookie.min.js"></script>
+<script src="/compiled/settings.js"></script>
+
 </head>
 <body class="sans-serif lh-copy">
 
     <nav class="flex bg-black-90 white ph2 pv2 b">
         <a class="mr3" href="https://guitarstreams.com"><img src="/img/guitarstreams-logo.png " alt="GuitarStreams"></a>
         <div class="f3 w-90">
-            <a class="near-white link mr3" href="/lesson/guitar/">Guitar Lessons</a>
-            <a class="near-white link mr3" href="/lesson/ukulele/">Ukulele Lessons</a>
-            <a class="near-white link mr3" href="/merchandise/">Merchandise</a>
-            <a class="near-white link mr3" href="/tool/">Tools</a>
+            <a class="near-white link mr4" href="/song/">Play Along Songs</a>
+            <a class="near-white link mr4" href="/tool/">Tools</a>
+            <a class="near-white link" href="/merchandise/">Merchandise</a>
         </div>
-        
-<a class="bg-gold white link dib pv1 ph2 br2 f4" href="/rss.xml" title="GuitarStreams RSS Feed">RSS</a>
-
     </nav>
 
     
-<section class="ph2" itemscope itemtype="http://schema.org/Article">
-    <div class="embed">
+<section class="ph2 pt1" itemscope itemtype="http://schema.org/Article">
+    <div class="flex-ns">
+    <div class="w-80"><h1 itemprop="name">Nirvana - Smells Like Teen Spirit</h1></div>
+    <div class="w-20">
+        <div class="fr mr2">
+            <div class="settings pt3">
+                <a name="guitar" class="instrument dib f3 pv2 ph2 br2 mr2 pointer">Guitar</a>
+                <a name="ukulele" class="instrument dib f3 pv2 ph2 br2 pointer">Ukulele</a>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="flex-ns">
+        <div class=" mr3 w-75-ns">
+            <div class="embed">
     <iframe src="//www.youtube.com/embed/hTWKbfoikeg?wmode=transparent" frameborder="0" allowfullscreen></iframe>
 </div>
-    <h1 itemprop="name">Nirvana - Smells Like Teen Spirit</h1>
-    <p>"Smells Like Teen Spirit" is the opening track and lead single from Nirvana's second album, Nevermind released in 1991 on DGC Records. The song, written by Kurt Cobain, Krist Novoselic, and Dave Grohl, uses a verse-chorus form where the main four-chord riff is used during the intro and chorus to create an alternating loud and quiet dynamic. It was Nirvana's biggest hit and was dubbed an "anthem for apathetic kids" of Generation X.</p>
-    
-    
-    
-        <h3>Lessons for this song</h3>
-        
-<div class="flex flex-wrap">
-    
-    <div class="w-25-ns mb3">
-        
-<div class="mr4 ba bw3 br2 b--black-10 bg-near-white">
-<a href="/lesson/ukulele/nirvana-smells-like-teen-spirit-mrhardguitar/" class="link">
-    <img class="b-lazy w-100" src="/img/tiny.gif" data-src="https://i.ytimg.com/vi/PBAjOYujCvs/mqdefault.jpg" alt="Nirvana - Smells Like Teen Spirit">
-    <span class="dib pa2">Nirvana - Smells Like Teen Spirit</span>
-</a>
-</div>
+            
+            <p>"Smells Like Teen Spirit" is the opening track and lead single from Nirvana's second album, Nevermind released in 1991 on DGC Records. The song, written by Kurt Cobain, Krist Novoselic, and Dave Grohl, uses a verse-chorus form where the main four-chord riff is used during the intro and chorus to create an alternating loud and quiet dynamic. It was Nirvana's biggest hit and was dubbed an "anthem for apathetic kids" of Generation X.</p>
+            
+                
 
+    <div name="guitar" class="lessons flex-ns flex-wrap">
+        <h3 class="w-100">Guitar Lesson Videos</h3>
+        
+            
+            <div class="w-33-ns mb3">
+                <div class="mr4 ba bw3 br2 b--black-10 bg-near-white">
+                    <a href="https://www.justinguitar.com/songs/nirvana-smells-like-teen-spirit-chords-tabs-guitar-lesson-sb-331" class="link">
+                        <img class="w-100" src="
+https://i.ytimg.com/vi/2GlvsdC9Czk/mqdefault.jpg
+
+" alt="lesson video preview">
+                        <span class="dib pa2">Justin Sandercoe guitar lesson</span>
+                    </a>
+                </div>
+            </div>
+        
     </div>
-    
-</div>
 
-    
-    <hr>
-    <p>
-    <strong>Song links:</strong>
-    <a href="https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit">Wikipedia</a>
-</p>
+    <div name="ukulele" class="lessons flex-ns flex-wrap">
+        <h3 class="w-100">Ukulele Lesson Videos</h3>
+        
+            
+            <div class="w-33-ns mb3">
+                <div class="mr4 ba bw3 br2 b--black-10 bg-near-white">
+                    <a href="https://www.youtube.com/watch?v=PBAjOYujCvs" class="link">
+                        <img class="w-100" src="
+https://i.ytimg.com/vi/PBAjOYujCvs/mqdefault.jpg
+
+" alt="lesson video preview">
+                        <span class="dib pa2">MrHardGuitar ukulele lesson</span>
+                    </a>
+                </div>
+            </div>
+        
+    </div>
+
+
+            
+        </div>
+        
+            <div class="w-25-ns">
+                <div class="flex-wrap" id="chords"></div>
+            </div>
+        
+    </div>
+    <hr class="cl">
     <p>
     <strong>Genres:</strong>
     <a href="/genre/grunge/">Grunge</a>
@@ -81,13 +118,13 @@
 
 
     <footer class="bg-black-90 white ph2 pv2 mt4">
-        <p>GuitarStreams is a site for guitar and ukulele players featuring video lessons from competent teachers and songs to play along.<br>
-        <strong>Sections:</strong> <a class="link light-blue" href="/lesson/guitar/">Guitar lessons</a> • <a class="link light-blue" href="/lesson/ukulele/">Ukulele lessons</a> • <a class="link light-blue" href="/song/">Play Along Songs</a> • <a class="link light-blue" href="/merchandise/">Merchandise</a><br>
-        <strong>Meta:</strong> <a class="link light-blue" rel="nofollow" href="/info/about/">About</a> • <a class="link light-blue" rel="nofollow" href="/info/privacy/">Privacy Policy</a></p>
+        <p>GuitarStreams is a site for guitar and ukulele players featuring songs to play along with chord charts, learning tools and merchandise.<br>
+        <strong>Sections:</strong> <a class="link light-blue" href="/song/">Play Along Songs</a> • <a class="link light-blue" href="/tool/">Tools</a> • <a class="link light-blue" href="/merchandise/">Merchandise</a><br>
+        <strong>Meta:</strong> <a class="link light-blue" rel="nofollow" href="/info/about/">About</a> • <a class="link light-blue" rel="nofollow" href="/info/privacy/">Privacy Policy</a> • <a class="link light-blue" href="/rss.xml">RSS Feed</a></p>
     </footer>
 
     <script src="/vendor/blazy.min.js"></script>
-    <script src="/compiled/script.js"></script>
+    <script>var bLazy = new Blazy();</script>
     
 
     <script>
@@ -101,5 +138,10 @@ ga('send', 'pageview');
 </script>
 
     
+<script src="/compiled/chord_index.js"></script>
+<script src="/compiled/music.js"></script>
+<script>var song_chords = {'guitar': ['F5-133xxx', 'Bb5-x133xx', 'Ab5-466xxx', 'Db5-x466xx', 'Eb5-244xxx'], 'ukulele': ['A', 'D', 'C', 'F']};</script>
+<script src="/compiled/song.js"></script>
+
 </body>
 </html>

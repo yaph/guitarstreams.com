@@ -21,55 +21,92 @@
     <link rel="stylesheet" href="/compiled/style.css">
 
     
+
+    
+<script src="/vendor/js.cookie.min.js"></script>
+<script src="/compiled/settings.js"></script>
+
 </head>
 <body class="sans-serif lh-copy">
 
     <nav class="flex bg-black-90 white ph2 pv2 b">
         <a class="mr3" href="https://guitarstreams.com"><img src="/img/guitarstreams-logo.png " alt="GuitarStreams"></a>
         <div class="f3 w-90">
-            <a class="near-white link mr3" href="/lesson/guitar/">Guitar Lessons</a>
-            <a class="near-white link mr3" href="/lesson/ukulele/">Ukulele Lessons</a>
-            <a class="near-white link mr3" href="/merchandise/">Merchandise</a>
-            <a class="near-white link mr3" href="/tool/">Tools</a>
+            <a class="near-white link mr4" href="/song/">Play Along Songs</a>
+            <a class="near-white link mr4" href="/tool/">Tools</a>
+            <a class="near-white link" href="/merchandise/">Merchandise</a>
         </div>
-        
-<a class="bg-gold white link dib pv1 ph2 br2 f4" href="/rss.xml" title="GuitarStreams RSS Feed">RSS</a>
-
     </nav>
 
     
-<section class="ph2" itemscope itemtype="http://schema.org/Article">
-    <div class="embed">
+<section class="ph2 pt1" itemscope itemtype="http://schema.org/Article">
+    <div class="flex-ns">
+    <div class="w-80"><h1 itemprop="name">Radiohead - Creep</h1></div>
+    <div class="w-20">
+        <div class="fr mr2">
+            <div class="settings pt3">
+                <a name="guitar" class="instrument dib f3 pv2 ph2 br2 mr2 pointer">Guitar</a>
+                <a name="ukulele" class="instrument dib f3 pv2 ph2 br2 pointer">Ukulele</a>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="flex-ns">
+        <div class=" mr3 w-75-ns">
+            <div class="embed">
     <iframe src="//www.youtube.com/embed/XFkzRNyygfk?wmode=transparent" frameborder="0" allowfullscreen></iframe>
 </div>
-    <h1 itemprop="name">Radiohead - Creep</h1>
-    <p>"Creep" is a song by the English alternative rock band Radiohead, who released it as their debut single in 1992. It later appeared on Radiohead's first album, Pablo Honey (1993). The initial release of Creep was not a chart success, but with its re-release in 1993, it became a worldwide hit.</p>
-    
-    
-    
-        <h3>Lessons for this song</h3>
-        
-<div class="flex flex-wrap">
-    
-    <div class="w-25-ns mb3">
-        
-<div class="mr4 ba bw3 br2 b--black-10 bg-near-white">
-<a href="/lesson/ukulele/radiohead-creep-theukuleleteacher/" class="link">
-    <img class="b-lazy w-100" src="/img/tiny.gif" data-src="https://i.ytimg.com/vi/DV9RFzczH_w/mqdefault.jpg" alt="Creep - Radiohead">
-    <span class="dib pa2">Creep - Radiohead</span>
-</a>
-</div>
+            
+            <p>"Creep" is a song by the English alternative rock band Radiohead, who released it as their debut single in 1992. It later appeared on Radiohead's first album, Pablo Honey (1993). The initial release of Creep was not a chart success, but with its re-release in 1993, it became a worldwide hit.</p>
+            
+                
 
+    <div name="guitar" class="lessons flex-ns flex-wrap">
+        <h3 class="w-100">Guitar Lesson Videos</h3>
+        
+            
+            <div class="w-33-ns mb3">
+                <div class="mr4 ba bw3 br2 b--black-10 bg-near-white">
+                    <a href="https://www.justinguitar.com/songs/radiohead-creep-chords-tabs-guitar-lesson-sb-324" class="link">
+                        <img class="w-100" src="
+https://i.ytimg.com/vi/W9h9bV853bk/mqdefault.jpg
+
+" alt="lesson video preview">
+                        <span class="dib pa2">Justin Sandercoe guitar lesson</span>
+                    </a>
+                </div>
+            </div>
+        
     </div>
-    
-</div>
 
-    
-    <hr>
-    <p>
-    <strong>Song links:</strong>
-    <a href="https://en.wikipedia.org/wiki/Creep_(Radiohead_song)">Wikipedia</a>
-</p>
+    <div name="ukulele" class="lessons flex-ns flex-wrap">
+        <h3 class="w-100">Ukulele Lesson Videos</h3>
+        
+            
+            <div class="w-33-ns mb3">
+                <div class="mr4 ba bw3 br2 b--black-10 bg-near-white">
+                    <a href="https://www.youtube.com/watch?v=DV9RFzczH_w" class="link">
+                        <img class="w-100" src="
+https://i.ytimg.com/vi/DV9RFzczH_w/mqdefault.jpg
+
+" alt="lesson video preview">
+                        <span class="dib pa2">TheUkuleleTeacher ukulele lesson</span>
+                    </a>
+                </div>
+            </div>
+        
+    </div>
+
+
+            
+        </div>
+        
+            <div class="w-25-ns">
+                <div class="flex-wrap" id="chords"></div>
+            </div>
+        
+    </div>
+    <hr class="cl">
     <p>
     <strong>Genres:</strong>
     <a href="/genre/alternative-rock/">Alternative Rock</a>
@@ -81,13 +118,13 @@
 
 
     <footer class="bg-black-90 white ph2 pv2 mt4">
-        <p>GuitarStreams is a site for guitar and ukulele players featuring video lessons from competent teachers and songs to play along.<br>
-        <strong>Sections:</strong> <a class="link light-blue" href="/lesson/guitar/">Guitar lessons</a> • <a class="link light-blue" href="/lesson/ukulele/">Ukulele lessons</a> • <a class="link light-blue" href="/song/">Play Along Songs</a> • <a class="link light-blue" href="/merchandise/">Merchandise</a><br>
-        <strong>Meta:</strong> <a class="link light-blue" rel="nofollow" href="/info/about/">About</a> • <a class="link light-blue" rel="nofollow" href="/info/privacy/">Privacy Policy</a></p>
+        <p>GuitarStreams is a site for guitar and ukulele players featuring songs to play along with chord charts, learning tools and merchandise.<br>
+        <strong>Sections:</strong> <a class="link light-blue" href="/song/">Play Along Songs</a> • <a class="link light-blue" href="/tool/">Tools</a> • <a class="link light-blue" href="/merchandise/">Merchandise</a><br>
+        <strong>Meta:</strong> <a class="link light-blue" rel="nofollow" href="/info/about/">About</a> • <a class="link light-blue" rel="nofollow" href="/info/privacy/">Privacy Policy</a> • <a class="link light-blue" href="/rss.xml">RSS Feed</a></p>
     </footer>
 
     <script src="/vendor/blazy.min.js"></script>
-    <script src="/compiled/script.js"></script>
+    <script>var bLazy = new Blazy();</script>
     
 
     <script>
@@ -101,5 +138,10 @@ ga('send', 'pageview');
 </script>
 
     
+<script src="/compiled/chord_index.js"></script>
+<script src="/compiled/music.js"></script>
+<script>var song_chords = {'guitar': ['G-355433', 'B-799877', 'C-81010988', 'Cm-81010888'], 'ukulele': ['G', 'B', 'C', 'Cm']};</script>
+<script src="/compiled/song.js"></script>
+
 </body>
 </html>

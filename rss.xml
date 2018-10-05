@@ -3,9 +3,25 @@
 <channel><title>RSS Feed</title>
     <link>https://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Wed, 19 Sep 2018 19:37:27 </lastBuildDate>
+    <lastBuildDate>Fri, 05 Oct 2018 02:10:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Ukeledu]]></title>
+        <link><![CDATA[https://guitarstreams.com/channel/ukeledu-music/]]></link>
+        <description><![CDATA[<p>Ukulele play along songs with tabs and lyrics, lessons in Spanish and covers.</p>]]></description>
+        <guid><![CDATA[https://guitarstreams.com/channel/ukeledu-music/]]></guid>
+        <pubDate>Fri, 05 Oct 2018 00:51:29 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ukulele Cheats]]></title>
+        <link><![CDATA[https://guitarstreams.com/channel/ukulele-cheats/]]></link>
+        <description><![CDATA[<p>Vasko teaches ukulele lessons twice a week and runs monthly ukulele giveaway contests on his YouTube channel.</p>]]></description>
+        <guid><![CDATA[https://guitarstreams.com/channel/ukulele-cheats/]]></guid>
+        <pubDate>Tue, 02 Oct 2018 21:26:58 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Gsus Saves - Ukulele Player Heavy Metal Blue/Black Design]]></title>
@@ -69,22 +85,6 @@
         <description><![CDATA[<p>Heavy Metal- und Hardrock-Musiker lieben sie, Gitarren, die wie Äxte aussehen. Wie die, die Sie auf diesem Entwurf sehen, der bittet, Ihre Axt zu wählen. Ist Musik deine Waffe der Wahl und liebst du es, schwer auf deiner Axt zu rocken? Dann ist dies der richtige Entwurf, um auf ein T-Shirt, einen Hoodie oder ein anderes Produkt zu erhalten. Es sorgt auch für einen rockigen Geburtstag oder Weihnachtsgeschenk für Gitarrenspieler. • Also buy this artwork on apparel, stickers, phone cases und more.</p><img src="/img/preview/choose-your-axe-hoodie-black.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/merchandise/choose-your-axe-hoodie-black/]]></guid>
         <pubDate>Thu, 03 May 2018 00:00:00 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Setting Up A Second Hand Guitar]]></title>
-        <link><![CDATA[https://guitarstreams.com/lesson/guitar/setting-up-a-second-hand-guitar/]]></link>
-        <description><![CDATA[<p>In this video Andrew and Nate from Guitareo show how you can set up a used guitar and give tips on what to consider when buying one.</p><img src="https://i.ytimg.com/vi/12qmuB3yo7Y/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/lesson/guitar/setting-up-a-second-hand-guitar/]]></guid>
-        <pubDate>Wed, 21 Mar 2018 02:07:08 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Effective Melodic Guitar Soloing Tips from Steve Stine]]></title>
-        <link><![CDATA[https://guitarstreams.com/lesson/guitar/effective-melodic-guitar-soloing/]]></link>
-        <description><![CDATA[<p>In this lesson Steve Stine teaches how to make your guitar soloing sound more emotional, melodic and connected.</p><img src="https://i.ytimg.com/vi/fhtaQFOkLXc/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/lesson/guitar/effective-melodic-guitar-soloing/]]></guid>
-        <pubDate>Wed, 21 Mar 2018 01:44:55 </pubDate>
     </item>
     
 </channel></rss>
