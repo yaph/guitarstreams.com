@@ -3,9 +3,17 @@
 <channel><title>RSS Feed</title>
     <link>https://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Wed, 17 Oct 2018 03:35:55 </lastBuildDate>
+    <lastBuildDate>Sat, 17 Nov 2018 19:57:12 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Manu Chao - La Vida Tómbola]]></title>
+        <link><![CDATA[https://guitarstreams.com/song/manu-chao-la-vida-tombola/]]></link>
+        <description><![CDATA[<p>La Vida Tómbola is a song from Manu Chao about the Argentine football legend Diego Armando Maradona from the album La Radiolina.</p><img src="https://i.ytimg.com/vi/Lu2MHSVbMWw/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/song/manu-chao-la-vida-tombola/]]></guid>
+        <pubDate>Sat, 17 Nov 2018 19:16:01 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Ukeledu]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[<p>The interactive fretboard is a tool for guitar and ukulele players to help in their music making journey.</p><img src="/img/preview/fretboard.png" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/tool/fretboard/]]></guid>
         <pubDate>Fri, 15 Jun 2018 21:21:49 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Choose Your Axe The Weapon of Guitarists - Black Design]]></title>
-        <link><![CDATA[https://guitarstreams.com/merchandise/choose-your-axe-hoodie-black/]]></link>
-        <description><![CDATA[<p>Heavy metal and hard rock musicians love them, guitars that look like axes. Like the ones you see on this design that asks to choose your axe. / Is music your weapon of choice and do you love to rock out heavy on your axe? Then this is the right design to get on a t-shirt, hoodie or other product. It also makes for a rocking birthday or Christmas gift for guitar players. • Also buy this artwork on apparel, stickers, phone cases, and more.</p><img src="/img/preview/choose-your-axe-hoodie-black.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/merchandise/choose-your-axe-hoodie-black/]]></guid>
-        <pubDate>Thu, 03 May 2018 00:00:00 </pubDate>
     </item>
     
 </channel></rss>
