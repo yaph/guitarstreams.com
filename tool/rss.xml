@@ -3,9 +3,17 @@
 <channel><title>Tool</title>
     <link>https://guitarstreams.com</link>
     <description>Tool</description>
-    <lastBuildDate>Fri, 23 Nov 2018 14:07:40 </lastBuildDate>
+    <lastBuildDate>Sat, 26 Jan 2019 23:14:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Blank Tab Sheets for Guitar and Ukulele as Printable PDF files]]></title>
+        <link><![CDATA[https://guitarstreams.com/tool/tab-sheets/]]></link>
+        <description><![CDATA[<p>On this page you find printable guitar and ukulele tab sheets as PDF files. Use them for your own compositions or when transcribing songs.</p><img src="/img/preview/blank-guitar-tab-sheet.png" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/tool/tab-sheets/]]></guid>
+        <pubDate>Sat, 26 Jan 2019 23:11:25 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Interactive Fretboard for Guitar and Ukulele Players]]></title>
