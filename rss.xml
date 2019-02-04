@@ -3,9 +3,17 @@
 <channel><title>RSS Feed</title>
     <link>https://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Sun, 27 Jan 2019 01:38:07 </lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 00:28:09 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Recommended Online Resources and Tools for Guitar Players]]></title>
+        <link><![CDATA[https://guitarstreams.com/resources/guitar/]]></link>
+        <description><![CDATA[<p></p>]]></description>
+        <guid><![CDATA[https://guitarstreams.com/resources/guitar/]]></guid>
+        <pubDate>Tue, 05 Feb 2019 00:27:33 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Blank Tab Sheets for Guitar and Ukulele as Printable PDF files]]></title>
@@ -76,14 +84,6 @@
         <link><![CDATA[https://guitarstreams.com/merchandise/life-without-guitar-would-bflat-white/]]></link>
         <description><![CDATA[<p>No guitarist who loves music wants to be in a world without guitars. Show your love for this awesome musical instrument. A funny design showing the text &#8220;Life Without Guitar Would&#8221; and a B-flat (Bb) guitar chord diagram. • Also buy this artwork on apparel, phone cases, home decor, and more.</p><img src="/img/preview/life-without-guitar-would-bflat-white.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/merchandise/life-without-guitar-would-bflat-white/]]></guid>
-        <pubDate>Wed, 25 Jul 2018 00:00:00 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Life Without Ukulele Would B Flat (Bb) - Music Pun Black Design]]></title>
-        <link><![CDATA[https://guitarstreams.com/merchandise/life-without-ukulele-would-bflat-black/]]></link>
-        <description><![CDATA[<p>No ukulele player who loves music wants to be in a world without ukuleles. Show your love for this awesome musical instrument. A funny design showing the text &#8220;Life Without Ukulele Would&#8221; and a B-flat (Bb) ukulele chord diagram. • Also buy this artwork on apparel, stickers, phone cases, and more.</p><img src="/img/preview/life-without-ukulele-would-bflat-black.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/merchandise/life-without-ukulele-would-bflat-black/]]></guid>
         <pubDate>Wed, 25 Jul 2018 00:00:00 </pubDate>
     </item>
     
