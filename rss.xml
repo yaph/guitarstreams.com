@@ -3,14 +3,14 @@
 <channel><title>RSS Feed</title>
     <link>https://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Tue, 05 Feb 2019 00:28:09 </lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 00:30:29 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Recommended Online Resources and Tools for Guitar Players]]></title>
         <link><![CDATA[https://guitarstreams.com/resources/guitar/]]></link>
-        <description><![CDATA[<p></p>]]></description>
+        <description><![CDATA[<p>On this page I share my favorite online resources and tools for guitar players.</p>]]></description>
         <guid><![CDATA[https://guitarstreams.com/resources/guitar/]]></guid>
         <pubDate>Tue, 05 Feb 2019 00:27:33 </pubDate>
     </item>
