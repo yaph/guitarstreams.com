@@ -3,7 +3,7 @@
 <channel><title>RSS Feed</title>
     <link>https://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Tue, 05 Feb 2019 01:49:03 </lastBuildDate>
+    <lastBuildDate>Wed, 06 Feb 2019 11:23:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -17,9 +17,9 @@
     
     <item>
         <title><![CDATA[Blank Tab Sheets for Guitar and Ukulele as Printable PDF files]]></title>
-        <link><![CDATA[https://guitarstreams.com/tool/tab-sheets/]]></link>
+        <link><![CDATA[https://guitarstreams.com/resources/tab-sheets/]]></link>
         <description><![CDATA[<p>On this page you find printable guitar and ukulele tab sheets as PDF files. Use them for your own compositions or when transcribing songs.</p><img src="/img/preview/tab-sheets.png" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/tool/tab-sheets/]]></guid>
+        <guid><![CDATA[https://guitarstreams.com/resources/tab-sheets/]]></guid>
         <pubDate>Sat, 26 Jan 2019 23:11:25 </pubDate>
     </item>
     
