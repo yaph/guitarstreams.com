@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Exercise</title>
+    <link>https://guitarstreams.com</link>
+    <description>Exercise</description>
+    <lastBuildDate>Mon, 23 Sep 2019 15:19:55 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Spider Exercise]]></title>
+        <link><![CDATA[https://guitarstreams.com/exercise/spider/]]></link>
+        <description><![CDATA[<p>On this page you find printable guitar and ukulele tab sheets as PDF files. Use them for your own compositions or when transcribing songs.</p><img src="/img/preview/tab-sheets.png" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/exercise/spider/]]></guid>
+        <pubDate>Sun, 08 Sep 2019 22:22:45 </pubDate>
+    </item>
+    
+</channel></rss>

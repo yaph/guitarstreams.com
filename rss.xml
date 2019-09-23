@@ -3,9 +3,17 @@
 <channel><title>RSS Feed</title>
     <link>https://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Mon, 09 Sep 2019 16:30:34 </lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2019 15:19:55 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Spider Exercise]]></title>
+        <link><![CDATA[https://guitarstreams.com/exercise/spider/]]></link>
+        <description><![CDATA[<p>On this page you find printable guitar and ukulele tab sheets as PDF files. Use them for your own compositions or when transcribing songs.</p><img src="/img/preview/tab-sheets.png" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/exercise/spider/]]></guid>
+        <pubDate>Sun, 08 Sep 2019 22:22:45 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[EADG For Those About To Slap - Bass Player Hard Rock Design]]></title>
@@ -76,14 +84,6 @@
         <link><![CDATA[https://guitarstreams.com/merchandise/ukulele-script-hoodie-hazel/]]></link>
         <description><![CDATA[<p>A cool retro design for ukulele players showing the word Ukulele in a handwritten script font and a simple uke drawing &#8220;underlining&#8221; it. Share your love for this awesome Hawaiian instrument with this 70s style design on a shirt or one of the available products. It also makes for a nice birthday present or Christmas gift for family and friends. • Millions of unique designs by independent artists. Find your thing.</p><img src="/img/preview/ukulele-script-hoodie-hazel.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/merchandise/ukulele-script-hoodie-hazel/]]></guid>
-        <pubDate>Fri, 22 Mar 2019 00:00:00 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Ukulele Player Design White Retro Handwriting & Uke Drawing]]></title>
-        <link><![CDATA[https://guitarstreams.com/merchandise/ukulele-script-hoodie-white/]]></link>
-        <description><![CDATA[<p>A cool retro design for ukulele players showing the word Ukulele in a handwritten script font and a simple uke drawing &#8220;underlining&#8221; it. Share your love for this awesome Hawaiian instrument with this 70s style design on a shirt or one of the available products. It also makes for a nice birthday present or Christmas gift for family and friends. • Millions of unique designs by independent artists. Find your thing.</p><img src="/img/preview/ukulele-script-hoodie-white.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/merchandise/ukulele-script-hoodie-white/]]></guid>
         <pubDate>Fri, 22 Mar 2019 00:00:00 </pubDate>
     </item>
     
