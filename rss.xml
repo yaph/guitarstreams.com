@@ -3,9 +3,17 @@
 <channel><title>RSS Feed</title>
     <link>https://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Fri, 01 Nov 2019 19:05:49 </lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 03:51:50 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Part of Red Electric Guitar Body & Neck Graphic]]></title>
+        <link><![CDATA[https://guitarstreams.com/merchandise/sg-close-up/]]></link>
+        <description><![CDATA[<p>A cool design for guitarists who love to play their favorite musical instrument and want to show their passion. A great idea for a birthday or Christmas gift and well suited for concerts, festivals and other events where music lovers meet. / The design shows part of the body and neck of a red elect… • Millions of unique designs by independent artists. Find your thing.</p><img src="/img/preview/sg-close-up.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/merchandise/sg-close-up/]]></guid>
+        <pubDate>Sat, 02 Nov 2019 00:00:00 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Spider Exercise]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[<p>This design shows 15 frets of a guitar fretboard and the positions of the notes of the C major scale C, D, E, F, G, A, B. The C, E and G notes, that form the C major triad, are shown as blue, yellow and orange and the other notes as white circles. Knowing the notes on the fretboard is extremely hel… • Millions of unique designs by independent artists. Find your thing.</p><img src="/img/preview/fretboard-guitar-c-major-scale-chord-15.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/merchandise/fretboard-guitar-c-major-scale-chord-15/]]></guid>
         <pubDate>Wed, 27 Mar 2019 00:00:00 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Ukulele Player Design Hazel Retro Handwriting & Uke Drawing]]></title>
-        <link><![CDATA[https://guitarstreams.com/merchandise/ukulele-script-hoodie-hazel/]]></link>
-        <description><![CDATA[<p>A cool retro design for ukulele players showing the word Ukulele in a handwritten script font and a simple uke drawing &#8220;underlining&#8221; it. Share your love for this awesome Hawaiian instrument with this 70s style design on a shirt or one of the available products. It also makes for a nice birthday present or Christmas gift for family and friends. • Millions of unique designs by independent artists. Find your thing.</p><img src="/img/preview/ukulele-script-hoodie-hazel.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/merchandise/ukulele-script-hoodie-hazel/]]></guid>
-        <pubDate>Fri, 22 Mar 2019 00:00:00 </pubDate>
     </item>
     
 </channel></rss>
