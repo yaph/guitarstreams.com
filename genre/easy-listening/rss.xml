@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Genre » Easy Listening</title>
+    <link>https://guitarstreams.com</link>
+    <description>Genre » Easy Listening</description>
+    <lastBuildDate>Fri, 15 Nov 2019 00:52:56 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Vasile Șeicaru]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/vasile-șeicaru/]]></link>
+        <description><![CDATA[<p>Vasile Șeicaru is a Romanian folk musician. In the past he has worked with Cenaclul Flacăra.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vasile_%C8%98eicaru.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/vasile-șeicaru/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 00:45:59 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Emeric Imre]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/emeric-imre/]]></link>
+        <description><![CDATA[<p>Emeric Imre is a Romanian guitarist, musician, vocalist and composer.</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Emeric_Imre_Official.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/emeric-imre/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 00:45:59 </pubDate>
+    </item>
+    
+</channel></rss>
