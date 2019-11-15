@@ -3,16 +3,32 @@
 <channel><title>Group » Genesis</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Genesis</description>
-    <lastBuildDate>Fri, 15 Nov 2019 01:04:36 </lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2019 03:49:34 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Steve Hackett]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/steve-hackett/]]></link>
+        <description><![CDATA[<p>Stephen Richard Hackett is an English musician, songwriter, singer, and producer who gained prominence as the lead guitarist of the progressive rock band Genesis from 1971 to 1977. Hackett contributed to six Genesis studio albums, three live albums, seven singles and one EP before he left to pursue a solo career. He was inducted into the Rock and Roll Hall of Fame as a member of Genesis in 2010.</p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Steve_Hackett.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/steve-hackett/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 03:47:42 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Mike Rutherford]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/mike-rutherford/]]></link>
+        <description><![CDATA[<p>Michael John Cloete Crawford Rutherford is an English guitarist, songwriter, and singer who co-founded the rock band Genesis in 1967. He is one of the group's two continuous members along with keyboardist Tony Banks.</p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/MikeRutherford.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/mike-rutherford/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 03:47:41 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Phil Collins]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/phil-collins/]]></link>
         <description><![CDATA[<p>Philip David Charles Collins is an English drummer, singer, songwriter, multi-instrumentalist, record producer, and actor. He was the drummer and later became singer of the rock band Genesis, and is also a solo artist. Between 1982 and 1989, Collins scored three UK and seven US number-one singles in his solo career. When his work with Genesis, his work with other artists, as well as his solo career is totalled, he had more US Top 40 singles than any other artist during the 1980s. His most successful singles from the period include 'In the Air Tonight', 'Against All Odds ', 'One More Night', 'Sussudio', 'Two Hearts' and 'Another Day in Paradise'.</p><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Phil_Collins_Duesseldorf.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/phil-collins/]]></guid>
-        <pubDate>Fri, 15 Nov 2019 01:02:28 </pubDate>
+        <pubDate>Fri, 15 Nov 2019 03:47:40 </pubDate>
     </item>
     
 </channel></rss>

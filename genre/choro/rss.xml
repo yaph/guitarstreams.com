@@ -3,7 +3,7 @@
 <channel><title>Genre » Choro</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Choro</description>
-    <lastBuildDate>Fri, 15 Nov 2019 01:04:36 </lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2019 03:49:34 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -12,7 +12,15 @@
         <link><![CDATA[https://guitarstreams.com/musician/yamandu-costa/]]></link>
         <description><![CDATA[<p>Yamandu Costa, sometimes misspelled Yamandú, is a Brazilian guitarist and composer. His main instrument is the Brazilian seven-stringed classical guitar.</p><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Yamandu_Costa.JPG" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/yamandu-costa/]]></guid>
-        <pubDate>Fri, 15 Nov 2019 01:02:28 </pubDate>
+        <pubDate>Fri, 15 Nov 2019 03:47:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Chico Buarque]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/chico-buarque/]]></link>
+        <description><![CDATA[<p>Francisco 'Chico' Buarque de Hollanda, popularly known simply as Chico Buarque is a Brazilian singer-songwriter, guitarist, composer, playwright, writer and poet. He is best known for his music, which often includes social, economic and cultural commentary on Brazil.</p><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Chico_Buarque_no_BRAVO.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/chico-buarque/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 03:47:39 </pubDate>
     </item>
     
 </channel></rss>

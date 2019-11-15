@@ -3,7 +3,7 @@
 <channel><title>Genre » Opera</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Opera</description>
-    <lastBuildDate>Fri, 15 Nov 2019 01:04:36 </lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2019 03:49:34 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -12,7 +12,15 @@
         <link><![CDATA[https://guitarstreams.com/musician/andrea-bocelli/]]></link>
         <description><![CDATA[<p>Andrea Bocelli is an Italian opera singer, songwriter, and record producer. Celine Dion has said that 'if God would have a singing voice, he must sound a lot like Andrea Bocelli,' and David Foster, a record producer, often describes Bocelli's voice as the most beautiful in the world.</p><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/AndreaBocelliMar10.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/andrea-bocelli/]]></guid>
-        <pubDate>Fri, 15 Nov 2019 01:02:28 </pubDate>
+        <pubDate>Fri, 15 Nov 2019 03:47:42 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Roger Waters]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/roger-waters/]]></link>
+        <description><![CDATA[<p>George Roger Waters is an English songwriter, singer, bassist, and composer. In 1965, he co-founded the progressive rock band Pink Floyd. Waters initially served solely as the bassist, but following the departure of singer-songwriter Syd Barrett in 1968, he also became their lyricist, co-lead vocalist, and conceptual leader.</p><img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Roger_Waters%2C_May_18_2008.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/roger-waters/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 03:47:42 </pubDate>
     </item>
     
     <item>
@@ -20,7 +28,15 @@
         <link><![CDATA[https://guitarstreams.com/musician/joaquín-rodrigo/]]></link>
         <description><![CDATA[<p>Joaquín Rodrigo Vidre, 1st Marquess of the Gardens of Aranjuez, was a Spanish composer and a virtuoso pianist.</p><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Joaquin_Rodrigo_en_Rosario.JPG" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/joaquín-rodrigo/]]></guid>
-        <pubDate>Fri, 15 Nov 2019 01:02:28 </pubDate>
+        <pubDate>Fri, 15 Nov 2019 03:47:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Freddie Mercury]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/freddie-mercury/]]></link>
+        <description><![CDATA[<p>Freddie Mercury was a British singer, songwriter, record producer, and lead vocalist of the rock band Queen. Regarded as one of the greatest lead singers in the history of rock music, he was known for his flamboyant stage persona and four-octave vocal range.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/freddie-mercury/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 03:47:38 </pubDate>
     </item>
     
 </channel></rss>

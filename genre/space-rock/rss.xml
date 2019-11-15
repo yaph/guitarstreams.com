@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Genre » Space Rock</title>
+    <link>https://guitarstreams.com</link>
+    <description>Genre » Space Rock</description>
+    <lastBuildDate>Fri, 15 Nov 2019 03:49:34 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Lemmy Kilmister]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/lemmy/]]></link>
+        <description><![CDATA[<p>Ian Fraser 'Lemmy' Kilmister was an English singer, songwriter, and musician, best known as the founder, lead singer, bassist, and primary songwriter of the heavy metal band Motörhead.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Motorhead-01.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/lemmy/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 03:47:40 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Syd Barrett]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/syd-barrett/]]></link>
+        <description><![CDATA[<p>Roger Keith 'Syd' Barrett was an English singer, songwriter, and musician who co-founded the rock band Pink Floyd in 1965. Characterised for his English-accented singing and free-form writing style, Barrett named the group and was their original lead singer, guitarist and principal songwriter. His innovative use of guitar techniques, such as dissonance, distortion and feedback, proved influential to many musicians.</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Syd_barrett.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/syd-barrett/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 03:47:40 </pubDate>
+    </item>
+    
+</channel></rss>

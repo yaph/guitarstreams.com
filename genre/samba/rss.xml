@@ -3,16 +3,40 @@
 <channel><title>Genre » Samba</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Samba</description>
-    <lastBuildDate>Fri, 15 Nov 2019 01:04:36 </lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2019 03:49:34 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Antônio Pecci]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/toquinho/]]></link>
+        <description><![CDATA[<p>Antônio Pecci Filho, better known as Toquinho, is a Brazilian singer and guitarist. He is well known for his collaborations, as composer and performer, with Vinicius de Moraes.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Toquinho-75_%2827422146651%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/toquinho/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 03:47:41 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Yamandu Costa]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/yamandu-costa/]]></link>
         <description><![CDATA[<p>Yamandu Costa, sometimes misspelled Yamandú, is a Brazilian guitarist and composer. His main instrument is the Brazilian seven-stringed classical guitar.</p><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Yamandu_Costa.JPG" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/yamandu-costa/]]></guid>
-        <pubDate>Fri, 15 Nov 2019 01:02:28 </pubDate>
+        <pubDate>Fri, 15 Nov 2019 03:47:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Sandra de Sá]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/sandra-de-sá/]]></link>
+        <description><![CDATA[<p>Sandra Cristina Frederico de Sá is a Brazilian singer and songwriter.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Sandra_de_S%C3%A1_2010_reuni%C3%A3o_no_MinC.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/sandra-de-sá/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 03:47:40 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Chico Buarque]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/chico-buarque/]]></link>
+        <description><![CDATA[<p>Francisco 'Chico' Buarque de Hollanda, popularly known simply as Chico Buarque is a Brazilian singer-songwriter, guitarist, composer, playwright, writer and poet. He is best known for his music, which often includes social, economic and cultural commentary on Brazil.</p><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Chico_Buarque_no_BRAVO.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/chico-buarque/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 03:47:39 </pubDate>
     </item>
     
 </channel></rss>

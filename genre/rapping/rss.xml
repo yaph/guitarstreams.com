@@ -3,16 +3,32 @@
 <channel><title>Genre » Rapping</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Rapping</description>
-    <lastBuildDate>Fri, 15 Nov 2019 01:04:36 </lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2019 03:49:34 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Fermin Muguruza]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/fermin-muguruza/]]></link>
+        <description><![CDATA[<p>Fermin Muguruza is a Basque rock musician, singer, songwriter, producer, record label manager, and co-founder of the ska punk band Kortatu, active from 1983 to 1988, and of the crossover group Negu Gorriak, active from 1990 to 1996.</p><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/FerminMuguruza.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/fermin-muguruza/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 03:47:42 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Anthony Kiedis]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/anthony-kiedis/]]></link>
+        <description><![CDATA[<p>Anthony Kiedis is an American musician, singer, songwriter, rapper, and actor. He is best known as a founding member and the lead vocalist of the Red Hot Chili Peppers and has appeared on every album released by the band. Kiedis and his fellow band members were inducted into the Rock and Roll Hall of Fame in 2012.</p><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/2016_RiP_Red_Hot_Chili_Peppers_-_Anthony_Kiedis_-_by_2eight_-_DSC0349.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/anthony-kiedis/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 03:47:40 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Noize MC]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/noize-mc/]]></link>
         <description><![CDATA[<p>Noize MC is the stage name of Ivan Alexandrovich Alexeyev, a Russian singer, rapper and actor.</p><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Noize_MC_MRPL_City_2018.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/noize-mc/]]></guid>
-        <pubDate>Fri, 15 Nov 2019 01:02:28 </pubDate>
+        <pubDate>Fri, 15 Nov 2019 03:47:39 </pubDate>
     </item>
     
 </channel></rss>
