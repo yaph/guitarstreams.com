@@ -3,16 +3,24 @@
 <channel><title>Genre » Experimental Music</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Experimental Music</description>
-    <lastBuildDate>Fri, 15 Nov 2019 00:52:56 </lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2019 01:04:36 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[John Lennon]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/john-lennon/]]></link>
+        <description><![CDATA[<p>John Winston Ono Lennon was an English singer, songwriter and peace activist who gained worldwide fame as the founder, co-lead vocalist, and rhythm guitarist of the Beatles. His songwriting partnership with Paul McCartney remains the most successful in history. In 1969, he started the Plastic Ono Band with his second wife, Yoko Ono. After the Beatles disbanded in 1970, Lennon continued as a solo artist.</p><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/JohnLennonpeace.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/john-lennon/]]></guid>
+        <pubDate>Fri, 15 Nov 2019 01:02:28 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Frank Zappa]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/frank-zappa/]]></link>
         <description><![CDATA[<p>Frank Vincent Zappa was an American multi-instrumentalist musician, composer, and bandleader. His work is characterized by nonconformity, free-form improvisation, sound experiments, musical virtuosity, and satire of American culture. In a career spanning more than 30 years, Zappa composed rock, pop, jazz, jazz fusion, orchestral and musique concrète works, and produced almost all of the 60-plus albums that he released with his band the Mothers of Invention and as a solo artist. Zappa also directed feature-length films and music videos, and designed album covers. He is considered one of the most innovative and stylistically diverse rock musicians of his era.</p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Zappa_16011977_01_300.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/frank-zappa/]]></guid>
-        <pubDate>Fri, 15 Nov 2019 00:45:59 </pubDate>
+        <pubDate>Fri, 15 Nov 2019 01:02:28 </pubDate>
     </item>
     
 </channel></rss>
