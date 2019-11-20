@@ -3,16 +3,24 @@
 <channel><title>Group » Sonic Youth</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Sonic Youth</description>
-    <lastBuildDate>Tue, 19 Nov 2019 01:13:48 </lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 23:38:12 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Kim Gordon]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/kim-gordon/]]></link>
+        <description><![CDATA[<p>Kim Althea Gordon is an American musician, singer, songwriter and bassist, guitarist, and vocalist in the alternative rock band Sonic Youth.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Sonic_Youth_2009.05.30_002.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/kim-gordon/]]></guid>
+        <pubDate>Wed, 20 Nov 2019 23:37:11 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Thurston Moore]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/thurston-moore/]]></link>
         <description><![CDATA[<p>Thurston Joseph Moore is an American musician best known as a member of Sonic Youth. He has also participated in many solo and group collaborations outside Sonic Youth, as well as running the Ecstatic Peace! record label. Moore was ranked 34th in Rolling Stone's 2004 edition of the '100 Greatest Guitarists of All Time.' In May 2012, Spin published a staff-selected list of the top 100 rock guitarists, and ranked Moore and his Sonic Youth bandmate Lee Ranaldo together at number 1.</p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Thurston_Moore_at_the_Brooklyn_Book_Festival.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/thurston-moore/]]></guid>
-        <pubDate>Mon, 18 Nov 2019 23:01:30 </pubDate>
+        <pubDate>Wed, 20 Nov 2019 23:37:10 </pubDate>
     </item>
     
 </channel></rss>

@@ -3,16 +3,24 @@
 <channel><title>Group » Hawkwind</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Hawkwind</description>
-    <lastBuildDate>Tue, 19 Nov 2019 01:13:48 </lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 23:38:12 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Dave Brock]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/dave-brock/]]></link>
+        <description><![CDATA[<p>David Anthony Brock is an English singer-songwriter and musician. He plays electric guitar, keyboards, bass and oscillators. He is best known as being one of the founders and musical focus of the English space rock group Hawkwind. Brock is the only member of the group to have been a constant throughout the band's history. Brock was honoured with a lifetime achievement award at the annual Progressive Music Awards in 2013.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Dave_Brock_Hawkwind.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/dave-brock/]]></guid>
+        <pubDate>Wed, 20 Nov 2019 23:37:12 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Lemmy Kilmister]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/lemmy/]]></link>
         <description><![CDATA[<p>Ian Fraser 'Lemmy' Kilmister was an English singer, songwriter, and musician, best known as the founder, lead singer, bassist, and primary songwriter of the heavy metal band Motörhead.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Motorhead-01.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/lemmy/]]></guid>
-        <pubDate>Mon, 18 Nov 2019 23:01:31 </pubDate>
+        <pubDate>Wed, 20 Nov 2019 23:37:11 </pubDate>
     </item>
     
 </channel></rss>
