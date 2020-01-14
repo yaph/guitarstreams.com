@@ -3,16 +3,24 @@
 <channel><title>Group » Opeth</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Opeth</description>
-    <lastBuildDate>Sun, 29 Dec 2019 20:40:50 </lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 22:48:48 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Fredrik Åkesson]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/fredrik-åkesson/]]></link>
+        <description><![CDATA[<p>Karl Fredrik Henrik Åkesson is a Swedish heavy metal guitarist. He is a current member of Opeth. He is also active in Krux, Monsters of Metal and Talisman.</p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Opeth_~_Avalon%2C_Hollywood.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/fredrik-åkesson/]]></guid>
+        <pubDate>Tue, 14 Jan 2020 22:32:26 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Mikael Åkerfeldt]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/mikael-åkerfeldt/]]></link>
         <description><![CDATA[<p>Lars Mikael Åkerfeldt is a Swedish musician. He is the lead vocalist, guitarist, and primary songwriter of progressive metal band Opeth, and the former vocalist of death metal supergroup Bloodbath. He was also guitarist for the 'one-off' band Steel, and is part of the collaboration Storm Corrosion with Steven Wilson.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Mikael%C3%85kerfeldtWOA2006.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/mikael-åkerfeldt/]]></guid>
-        <pubDate>Thu, 21 Nov 2019 01:44:12 </pubDate>
+        <pubDate>Tue, 14 Jan 2020 22:32:25 </pubDate>
     </item>
     
 </channel></rss>
