@@ -3,9 +3,17 @@
 <channel><title>Resources</title>
     <link>https://guitarstreams.com</link>
     <description>Resources</description>
-    <lastBuildDate>Tue, 14 Jan 2020 23:54:38 </lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 22:03:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[TuxGuitar Ukulele Tablature Template for Transcribing Music]]></title>
+        <link><![CDATA[https://guitarstreams.com/resources/tuxguitar-ukulele-template/]]></link>
+        <description><![CDATA[<p>On this page you find a free template for transcribing music using TuxGuitar in form of tablature for the ukulele.</p><img src="/img/preview/tuxguitar-ukulele-template.png" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/resources/tuxguitar-ukulele-template/]]></guid>
+        <pubDate>Tue, 18 Feb 2020 22:00:58 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Recommended Online Resources and Tools for Guitar Players]]></title>
