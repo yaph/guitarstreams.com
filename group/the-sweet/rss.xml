@@ -3,16 +3,24 @@
 <channel><title>Group » The Sweet</title>
     <link>https://guitarstreams.com</link>
     <description>Group » The Sweet</description>
-    <lastBuildDate>Wed, 26 Aug 2020 23:07:39 </lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Andy Scott]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/andy-scott-(guitarist)/]]></link>
-        <description><![CDATA[<p>Andrew David 'Andy' Scott is a Welsh musician and songwriter. He is best known for being the lead guitarist and a backing vocalist in the band Sweet.</p><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Andy_Scott_-_Wacken_Open_Air_2018_03.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/andy-scott-(guitarist)/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 22:32:27 </pubDate>
+        <link><![CDATA[https://guitarstreams.com/musician/andy-scott/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Andy_Scott_-_Wacken_Open_Air_2018_03.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/andy-scott/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Steve Priest]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/steve-priest/]]></link>
+        <description><![CDATA[<p>Stephen Norman Priest was a British musician who was the bassist of the glam rock band The Sweet.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Steve_Priest.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/steve-priest/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
 </channel></rss>

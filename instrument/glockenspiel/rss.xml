@@ -3,24 +3,32 @@
 <channel><title>Instrument » Glockenspiel</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Glockenspiel</description>
-    <lastBuildDate>Wed, 26 Aug 2020 23:07:39 </lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
+        <title><![CDATA[Beck]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/beck/]]></link>
+        <description><![CDATA[<p>Beck Hansen is an American musician, singer, songwriter, and record producer. He rose to fame in the early 1990s with his experimental and lo-fi style, and became known for creating musical collages of wide-ranging genres. He has musically encompassed folk, funk, soul, hip hop, electronic, alternative rock, country, and psychedelia. He has released 14 studio albums, as well as several non-album singles and a book of sheet music.</p><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Beck_Hansen.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/beck/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Jimi Hendrix]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/jimi-hendrix/]]></link>
-        <description><![CDATA[<p>James Marshall 'Jimi' Hendrix was an American rock guitarist, singer, and songwriter. His mainstream career lasted only four years, but he is widely regarded as one of the most influential guitarists in history and one of the most celebrated musicians of the 20th century. The Rock and Roll Hall of Fame describes him as 'the greatest instrumentalist in the history of rock music'.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Jimi_Hendrix_1967.png" alt="Preview">]]></description>
+        <description><![CDATA[<p>James Marshall 'Jimi' Hendrix was an American musician, singer, and songwriter. Although his mainstream career spanned only four years, he is widely regarded as one of the most influential electric guitarists in the history of popular music, and one of the most celebrated musicians of the 20th century. The Rock and Roll Hall of Fame describes him as 'arguably the greatest instrumentalist in the history of rock music'.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/HendrixHoepla1967-2.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/jimi-hendrix/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 22:32:25 </pubDate>
+        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Mike Mogis]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/mike-mogis/]]></link>
-        <description><![CDATA[<p>Michael Riley 'Mike' Mogis is an American producer/engineer and multi-instrumentalist who, along with his brother A.J. Mogis, founded Presto! Recording Studios. Mogis currently runs ARC in downtown Omaha.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Mikemogis.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Mikemogis.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/mike-mogis/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 22:32:25 </pubDate>
+        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
     </item>
     
 </channel></rss>

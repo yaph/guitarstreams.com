@@ -3,16 +3,48 @@
 <channel><title>Genre » Latin Jazz</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Latin Jazz</description>
-    <lastBuildDate>Wed, 26 Aug 2020 23:07:39 </lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Gerardo Núñez]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/gerardo-núñez/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Gerardo.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/gerardo-núñez/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Egberto Gismonti]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/egberto-gismonti/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/EgbertoGismontiBA.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/egberto-gismonti/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Oscar Castro-Neves]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/oscar-castro-neves/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/25%C2%BA_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2814006551938%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/oscar-castro-neves/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:43 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Eliades Ochoa]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/eliades-ochoa/]]></link>
         <description><![CDATA[<p>Eliades Ochoa Bustamante is a Cuban guitarist and singer from Loma de la Avispa, Songo La Maya in the east of the country near Santiago de Cuba.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Eliades_Ochoa_cropped.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/eliades-ochoa/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 22:32:26 </pubDate>
+        <pubDate>Thu, 10 Dec 2020 10:45:42 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Antônio Carlos Jobim]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/antônio-carlos-jobim/]]></link>
+        <description><![CDATA[<p>Antônio Carlos Brasileiro de Almeida Jobim, also known as Tom Jobim, was a Brazilian composer, pianist, songwriter, arranger and singer. Widely considered as one of the great exponents of Brazilian music, Jobim internationalized bossa nova and, with the help of important American artists, merged it with jazz in the 1960s to create a new sound with remarkable popular success. As such he is sometimes known as the 'father of bossa nova'.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Ant%C3%B4nio_Carlos_Jobim_%28cropped%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/antônio-carlos-jobim/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
     </item>
     
 </channel></rss>

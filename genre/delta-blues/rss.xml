@@ -3,16 +3,24 @@
 <channel><title>Genre » Delta Blues</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Delta Blues</description>
-    <lastBuildDate>Wed, 26 Aug 2020 23:07:39 </lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Son House]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/son-house/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Son_House.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/son-house/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Mississippi John Hurt]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/mississippi-john-hurt/]]></link>
         <description><![CDATA[<p>John Smith Hurt, better known as Mississippi John Hurt, was an American country blues singer and guitarist.</p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/M_John_Hurt.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/mississippi-john-hurt/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 22:32:26 </pubDate>
+        <pubDate>Thu, 10 Dec 2020 10:45:42 </pubDate>
     </item>
     
 </channel></rss>

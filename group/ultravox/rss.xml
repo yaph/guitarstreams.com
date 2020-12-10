@@ -3,16 +3,24 @@
 <channel><title>Group » Ultravox</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Ultravox</description>
-    <lastBuildDate>Wed, 26 Aug 2020 23:07:39 </lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
+        <title><![CDATA[Chris Cross]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/chris-cross/]]></link>
+        <description><![CDATA[<p>Chris Cross is an English musician, best known as the bass guitarist in the new wave band Ultravox.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/090430--chris_cross.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/chris-cross/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Midge Ure]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/midge-ure/]]></link>
-        <description><![CDATA[<p>James 'Midge' Ure is a Scottish musician, singer-songwriter and producer. His stage name, Midge, is a phonetic reversal of Jim, the diminutive form of his actual name.</p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/MIDGEURE28102005.JPG" alt="Preview">]]></description>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/MIDGEURE28102005.JPG" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/midge-ure/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 22:32:25 </pubDate>
+        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
     </item>
     
 </channel></rss>

@@ -3,16 +3,24 @@
 <channel><title>Group » Marillion</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Marillion</description>
-    <lastBuildDate>Wed, 26 Aug 2020 23:07:39 </lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
+        <title><![CDATA[Steve Rothery]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/steve-rothery/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Steve_Rothery_2007.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/steve-rothery/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Steve Hogarth]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/steve-hogarth/]]></link>
-        <description><![CDATA[<p>Steve Hogarth also known as 'h', is an English singer-songwriter and musician. Since 1989 he has been the lead singer of the British rock band Marillion, for which he also performs additional keyboards and guitar. Hogarth was formerly a keyboard player and co-lead vocalist with the Europeans and vocalist with How We Live. AllMusic has described Hogarth as having a 'unique, expressive voice' with 'flexible range and beautiful phrasing'.</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Steve_Hogarth-Marillion-2.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Steve_Hogarth-Marillion-2.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/steve-hogarth/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 22:32:25 </pubDate>
+        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
     </item>
     
 </channel></rss>

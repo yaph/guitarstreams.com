@@ -3,16 +3,24 @@
 <channel><title>Group » Magazine</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Magazine</description>
-    <lastBuildDate>Wed, 26 Aug 2020 23:07:39 </lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
+        <title><![CDATA[Barry Adamson]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/barry-adamson/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/BarryAdamson.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/barry-adamson/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[John McGeoch]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/john-mcgeoch/]]></link>
-        <description><![CDATA[<p>John Alexander McGeoch was a Scottish pop music guitarist who played with several bands of the post-punk era, including Magazine, Siouxsie and the Banshees, Visage, and Public Image Ltd.</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Jhon_Mcgeoch.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Jhon_Mcgeoch.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/john-mcgeoch/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 22:32:25 </pubDate>
+        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
     </item>
     
 </channel></rss>

@@ -3,16 +3,24 @@
 <channel><title>Group » Electronic</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Electronic</description>
-    <lastBuildDate>Wed, 26 Aug 2020 23:07:39 </lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
+        <title><![CDATA[Johnny Marr]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/johnny-marr/]]></link>
+        <description><![CDATA[<p>Johnny Marr is an English musician, songwriter, and singer. He first achieved fame as the guitarist and co-songwriter of the Smiths, who were active from 1982 to 1987. He has since performed with numerous other bands and embarked on a solo career.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Johnny_Marr_%28The_Cribs%29_at_the_9-30_Club_1.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/johnny-marr/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Bernard Sumner]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/bernard-sumner/]]></link>
-        <description><![CDATA[<p>Bernard Sumner is an English singer, songwriter, musician and record producer. He is a founding member of both Joy Division and New Order and is widely credited with the latter band's move towards electronica and synthpop.</p><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Barney2005.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Barney2005.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/bernard-sumner/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 22:32:25 </pubDate>
+        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
     </item>
     
 </channel></rss>

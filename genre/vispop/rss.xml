@@ -3,16 +3,24 @@
 <channel><title>Genre » Vispop</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Vispop</description>
-    <lastBuildDate>Wed, 26 Aug 2020 23:07:39 </lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Åse Kleveland]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/åse-kleveland/]]></link>
-        <description><![CDATA[<p>Åse Maria Kleveland is a Norwegian singer, guitarist, politician and activist.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Aase_Kleveland_17Mai_Eidsvoll.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Aase_Kleveland_17Mai_Eidsvoll.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/åse-kleveland/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 22:32:26 </pubDate>
+        <pubDate>Thu, 10 Dec 2020 10:45:44 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Øystein Sunde]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/øystein-sunde/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Sunde01.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/øystein-sunde/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
     </item>
     
 </channel></rss>

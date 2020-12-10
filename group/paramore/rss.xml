@@ -3,16 +3,24 @@
 <channel><title>Group » Paramore</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Paramore</description>
-    <lastBuildDate>Wed, 26 Aug 2020 23:07:39 </lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Taylor York]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/taylor-york/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Paramore_Amsterdam_5-2.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/taylor-york/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Josh Farro]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/josh-farro/]]></link>
         <description><![CDATA[<p>Joshua Neil Farro is an American musician and songwriter. He is best known as the former lead guitarist and backing vocalist for the rock band Paramore. Farro is currently pursuing his solo career as the lead vocalist and guitarist of his self-named band, Farro. His debut solo album, Walkways, was released independently to digital retailers on February 5, 2016.</p><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Paramore_Josh_Farro01.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/josh-farro/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 22:32:25 </pubDate>
+        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
     </item>
     
 </channel></rss>

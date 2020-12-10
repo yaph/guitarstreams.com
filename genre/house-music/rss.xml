@@ -3,16 +3,25 @@
 <channel><title>Genre » House Music</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » House Music</description>
-    <lastBuildDate>Wed, 26 Aug 2020 23:07:39 </lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
+        <title><![CDATA[Raul Midón]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/raul-midón/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Raul_Mid%C3%B3n.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/raul-midón/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Moby]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/moby/]]></link>
-        <description><![CDATA[<p>Richard Melville Hall, better known as Moby, is an American musician, songwriter, singer, producer, and animal rights activist. He has sold 20 million records worldwide. AllMusic considers him to be 'among the most important dance music figures of the early 1990s, helping bring dance music to a mainstream audience both in the United Kingdom and the United States'.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Moby_1.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p>Richard Melville Hall, also known as Moby, is an American musician, songwriter, singer, producer, and animal rights activist. He has sold 20 million records worldwide. 
+AllMusic considers him to be 'among the most important dance music figures of the early 1990s, helping bring dance music to a mainstream audience both in the United Kingdom and the United States'.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Moby_1.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/moby/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 22:32:25 </pubDate>
+        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
     </item>
     
 </channel></rss>
