@@ -3,7 +3,7 @@
 <channel><title>Group » The Venus In Furs</title>
     <link>https://guitarstreams.com</link>
     <description>Group » The Venus In Furs</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -24,18 +24,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Jonny Greenwood]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/jonny-greenwood/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Jonny_Greenwood.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/jonny-greenwood/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Thom Yorke]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/thom-yorke/]]></link>
         <description><![CDATA[<p>Thomas Edward Yorke is an English musician and the main vocalist and songwriter of the rock band Radiohead. A multi-instrumentalist, he mainly plays guitar and keyboards, and is known for his falsetto.</p><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Thom_Yorke.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/thom-yorke/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Jonny Greenwood]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/jonny-greenwood/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Jonny_Greenwood.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/jonny-greenwood/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
     </item>
     

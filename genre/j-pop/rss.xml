@@ -3,7 +3,7 @@
 <channel><title>Genre » J Pop</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » J Pop</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -16,18 +16,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Takahiro Matsumoto]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/takahiro-matsumoto/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/B%27Z_at_Best_Buy_Theater_NYC_-_9-30-12_-_22.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/takahiro-matsumoto/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:43 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Tetsuya Komuro]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/tetsuya-komuro/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/MTV_VMAJ_2014_Tetsuya_Komuro_%28cropped%29.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/tetsuya-komuro/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:43 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Takahiro Matsumoto]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/takahiro-matsumoto/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/B%27Z_at_Best_Buy_Theater_NYC_-_9-30-12_-_22.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/takahiro-matsumoto/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:43 </pubDate>
     </item>
     

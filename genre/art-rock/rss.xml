@@ -3,31 +3,15 @@
 <channel><title>Genre » Art Rock</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Art Rock</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Serj Tankian]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/serj-tankian/]]></link>
-        <description><![CDATA[<p>Serj Tankian is an Armenian-American musician, singer, songwriter, record producer, and political activist. He is best known as the lead vocalist, primary lyricist, keyboardist, and occasional rhythm guitarist of heavy metal band System of a Down, which was formed in 1994.</p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Serj_Tankian_in_Artsakh_%28cropped%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/serj-tankian/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Roger Waters]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/roger-waters/]]></link>
         <description><![CDATA[<p>George Roger Waters is an English songwriter, singer, bassist, and composer. In 1965, he co-founded the progressive rock band Pink Floyd. Waters initially served solely as the bassist, but following the departure of singer-songwriter Syd Barrett in 1968, he also became their lyricist, co-lead vocalist, and conceptual leader.</p><img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Roger_Waters%2C_May_18_2008.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/roger-waters/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Maureen Tucker]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/maureen-tucker/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/The_Moe_Tucker_Band_%282%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/maureen-tucker/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
@@ -40,10 +24,26 @@
     </item>
     
     <item>
+        <title><![CDATA[Maureen Tucker]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/maureen-tucker/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/The_Moe_Tucker_Band_%282%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/maureen-tucker/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Neil Finn]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/neil-finn/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Neil_Finn_with_Split_Enz.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/neil-finn/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Serj Tankian]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/serj-tankian/]]></link>
+        <description><![CDATA[<p>Serj Tankian is an Armenian-American musician, singer, songwriter, record producer, and political activist. He is best known as the lead vocalist, primary lyricist, keyboardist, and occasional rhythm guitarist of heavy metal band System of a Down, which was formed in 1994.</p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Serj_Tankian_in_Artsakh_%28cropped%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/serj-tankian/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
@@ -72,18 +72,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Joni Mitchell]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/joni-mitchell/]]></link>
-        <description><![CDATA[<p>Roberta Joan 'Joni' Mitchell is a Canadian singer-songwriter. Drawing from folk, pop, rock, and jazz, Mitchell's songs often reflect social and environmental ideals as well as her feelings about romance, confusion, disillusionment, and joy. She has received many accolades, including nine Grammy Awards and induction into the Rock and Roll Hall of Fame in 1997. Rolling Stone called her 'one of the greatest songwriters ever', and AllMusic has stated, 'When the dust settles, Joni Mitchell may stand as the most important and influential female recording artist of the late 20th century'.</p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/2013_Joni_Mitchell_%28cropped%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/joni-mitchell/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Ed O'Brien]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/ed-o'brien/]]></link>
         <description><![CDATA[<p>Edward John O'Brien is an English guitarist and member of the rock band Radiohead. O'Brien attended Abingdon School in Oxfordshire, England, where he met the other members of Radiohead. O'Brien makes extensive use of effects units to create atmospheric sounds and textures, and provides backing vocals. His first solo album, Earth, was released in 2020, under the name EOB.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Ed-obrien2006-05Radiohead.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/ed-o'brien/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Joni Mitchell]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/joni-mitchell/]]></link>
+        <description><![CDATA[<p>Roberta Joan 'Joni' Mitchell is a Canadian singer-songwriter. Drawing from folk, pop, rock, and jazz, Mitchell's songs often reflect social and environmental ideals as well as her feelings about romance, confusion, disillusionment, and joy. She has received many accolades, including nine Grammy Awards and induction into the Rock and Roll Hall of Fame in 1997. Rolling Stone called her 'one of the greatest songwriters ever', and AllMusic has stated, 'When the dust settles, Joni Mitchell may stand as the most important and influential female recording artist of the late 20th century'.</p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/2013_Joni_Mitchell_%28cropped%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/joni-mitchell/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
     </item>
     

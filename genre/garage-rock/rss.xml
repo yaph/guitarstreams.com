@@ -3,7 +3,7 @@
 <channel><title>Genre » Garage Rock</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Garage Rock</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -32,18 +32,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Dan Auerbach]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/dan-auerbach/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Dan_Auerbach_of_Black_Keys_at_Music_Midtown_2011.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/dan-auerbach/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Egor Letov]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/egor-letov/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Egor_Letov_2000-11-04_Nuernberg.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/egor-letov/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Dan Auerbach]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/dan-auerbach/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Dan_Auerbach_of_Black_Keys_at_Music_Midtown_2011.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/dan-auerbach/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
     </item>
     

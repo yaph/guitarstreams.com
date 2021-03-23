@@ -3,7 +3,7 @@
 <channel><title>Genre » Surf Music</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Surf Music</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -24,18 +24,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Dick Dale]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/dick-dale/]]></link>
-        <description><![CDATA[<p>Richard Anthony Monsour, known professionally as Dick Dale, was an American rock guitarist. He was the pioneer of surf music, drawing on Middle Eastern music scales and experimenting with reverberation. Dale was known as 'The King of the Surf Guitar', which was also the title of his second studio album.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Dick_Dale.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/dick-dale/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[David Marks]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/david-marks/]]></link>
         <description><![CDATA[<p>David Lee Marks is an American guitarist who is best known for being an early member of the Beach Boys. While growing up in Hawthorne, California, Marks was a neighborhood friend of the original band members and was a frequent participant at their family get-togethers. Following his initial departure from the group, Marks fronted the Marksmen and performed and recorded as a session musician.</p><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/David_Marks_2019_by_Glenn_Francis.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/david-marks/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Dick Dale]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/dick-dale/]]></link>
+        <description><![CDATA[<p>Richard Anthony Monsour, known professionally as Dick Dale, was an American rock guitarist. He was the pioneer of surf music, drawing on Middle Eastern music scales and experimenting with reverberation. Dale was known as 'The King of the Surf Guitar', which was also the title of his second studio album.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Dick_Dale.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/dick-dale/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
     </item>
     

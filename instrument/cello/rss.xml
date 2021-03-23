@@ -3,25 +3,9 @@
 <channel><title>Instrument » Cello</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Cello</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Brendon Urie]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/brendon-urie/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Panic_at_the_Disco_Im_Park_2016_%2811_von_11%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/brendon-urie/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Trent Reznor]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/trent-reznor/]]></link>
-        <description><![CDATA[<p>Michael Trent Reznor is an American musician, singer, songwriter, record producer, and composer. He is best known as the founder, lead vocalist, multi-instrumentalist, and principal songwriter of the industrial rock band Nine Inch Nails, which he founded in 1988 and of which he was the sole official member until 2016. The first Nine Inch Nails album, Pretty Hate Machine (1989), was a commercial and critical success. Reznor has since released 11 more Nine Inch Nails studio albums.</p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Trent_Reznor-FEB2008_%28cropped%2C_but_higher_quality%29_%282%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/trent-reznor/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Robert Smith]]></title>
@@ -36,6 +20,22 @@
         <link><![CDATA[https://guitarstreams.com/musician/roy-wood/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Roy_Wood_TopPop.png" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/roy-wood/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Brendon Urie]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/brendon-urie/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Panic_at_the_Disco_Im_Park_2016_%2811_von_11%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/brendon-urie/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Trent Reznor]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/trent-reznor/]]></link>
+        <description><![CDATA[<p>Michael Trent Reznor is an American musician, singer, songwriter, record producer, and composer. He is best known as the founder, lead vocalist, multi-instrumentalist, and principal songwriter of the industrial rock band Nine Inch Nails, which he founded in 1988 and of which he was the sole official member until 2016. The first Nine Inch Nails album, Pretty Hate Machine (1989), was a commercial and critical success. Reznor has since released 11 more Nine Inch Nails studio albums.</p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Trent_Reznor-FEB2008_%28cropped%2C_but_higher_quality%29_%282%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/trent-reznor/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     

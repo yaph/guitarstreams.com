@@ -3,25 +3,9 @@
 <channel><title>Genre » Música Popular Brasileira</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Música Popular Brasileira</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Zeca Baleiro]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/zeca-baleiro/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Zeca_baleiro_tvbrasil.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/zeca-baleiro/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Geraldo Vandré]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/geraldo-vandré/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Geraldo_Vandr%C3%A9.png" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/geraldo-vandré/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Beto Guedes]]></title>
@@ -40,6 +24,22 @@
     </item>
     
     <item>
+        <title><![CDATA[Geraldo Vandré]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/geraldo-vandré/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Geraldo_Vandr%C3%A9.png" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/geraldo-vandré/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Zeca Baleiro]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/zeca-baleiro/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Zeca_baleiro_tvbrasil.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/zeca-baleiro/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Paulinho da Viola]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/paulinho-da-viola/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Paulinho_da_Viola.jpg" alt="Preview">]]></description>
@@ -48,18 +48,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Gilberto Gil]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/gilberto-gil/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Gilberto_Gil_1719MC198.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/gilberto-gil/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Paulinho Moska]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/paulinho-moska/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paulo_Moska_cropped.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/paulinho-moska/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Gilberto Gil]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/gilberto-gil/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Gilberto_Gil_1719MC198.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/gilberto-gil/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     

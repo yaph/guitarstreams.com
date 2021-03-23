@@ -3,7 +3,7 @@
 <channel><title>Genre » Electric Blues</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Electric Blues</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -16,18 +16,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Willie Johnson]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/willie-johnson/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Willie-Johnson-by-James-Fraher-Chicago-1984-square.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/willie-johnson/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Lightnin' Hopkins]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/lightnin'-hopkins/]]></link>
         <description><![CDATA[<p>Samuel John 'Lightnin'' Hopkins was an American country blues singer, songwriter, guitarist and occasional pianist, from Centerville, Texas. Rolling Stone magazine ranked him number 71 on its list of the 100 greatest guitarists of all time.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Lightnin%27_Hopkins.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/lightnin'-hopkins/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Willie Johnson]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/willie-johnson/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Willie-Johnson-by-James-Fraher-Chicago-1984-square.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/willie-johnson/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
     </item>
     

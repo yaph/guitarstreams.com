@@ -3,9 +3,17 @@
 <channel><title>Instrument » Violin</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Violin</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Robert Smith]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/robert-smith/]]></link>
+        <description><![CDATA[<p>Robert James Smith is an English singer, songwriter, musician, and record producer. He is the only continuous member of the rock band The Cure, which he co-founded in 1976. He was also the lead guitarist for the band Siouxsie and the Banshees from 1982 to 1984, and was part of the short-lived group The Glove in 1983.</p><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Robert_Smith_%28musician%29_crop.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/robert-smith/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Ben Moody]]></title>
@@ -16,10 +24,10 @@
     </item>
     
     <item>
-        <title><![CDATA[Roy Clark]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/roy-clark/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Roy_Clark_a_conversation_with_OETA_%28cropped%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/roy-clark/]]></guid>
+        <title><![CDATA[Tony Sheridan]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/tony-sheridan/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/TonySheridan.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/tony-sheridan/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
@@ -32,18 +40,10 @@
     </item>
     
     <item>
-        <title><![CDATA[Robert Smith]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/robert-smith/]]></link>
-        <description><![CDATA[<p>Robert James Smith is an English singer, songwriter, musician, and record producer. He is the only continuous member of the rock band The Cure, which he co-founded in 1976. He was also the lead guitarist for the band Siouxsie and the Banshees from 1982 to 1984, and was part of the short-lived group The Glove in 1983.</p><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Robert_Smith_%28musician%29_crop.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/robert-smith/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Tony Sheridan]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/tony-sheridan/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/TonySheridan.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/tony-sheridan/]]></guid>
+        <title><![CDATA[Roy Clark]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/roy-clark/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Roy_Clark_a_conversation_with_OETA_%28cropped%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/roy-clark/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     

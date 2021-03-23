@@ -3,23 +3,23 @@
 <channel><title>Genre » Space Rock</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Space Rock</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Shannon Leto]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/shannon-leto/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Shannon_Leto_-_2009_Buzz_Bake_Sale.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/shannon-leto/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Dave Brock]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/dave-brock/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Dave_Brock_Hawkwind.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/dave-brock/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Shannon Leto]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/shannon-leto/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Shannon_Leto_-_2009_Buzz_Bake_Sale.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/shannon-leto/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     

@@ -3,7 +3,7 @@
 <channel><title>Genre » Pop Punk</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Pop Punk</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -56,18 +56,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Tyson Ritter]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/tyson-ritter/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/TYSON.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/tyson-ritter/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Patrick Stump]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/patrick-stump/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Patrick_Stump_Infinity.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/patrick-stump/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Tyson Ritter]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/tyson-ritter/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/TYSON.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/tyson-ritter/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
     </item>
     

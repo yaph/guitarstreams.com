@@ -3,7 +3,7 @@
 <channel><title>Genre » Rap</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Rap</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -16,18 +16,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Pete Seeger]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/pete-seeger/]]></link>
-        <description><![CDATA[<p>Peter Seeger was an American folk singer and social activist.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Pete_Seeger_sings_%28cropped%29.JPG" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/pete-seeger/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Fermin Muguruza]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/fermin-muguruza/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/FerminMuguruza.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/fermin-muguruza/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Pete Seeger]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/pete-seeger/]]></link>
+        <description><![CDATA[<p>Peter Seeger was an American folk singer and social activist.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Pete_Seeger_sings_%28cropped%29.JPG" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/pete-seeger/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     

@@ -3,47 +3,15 @@
 <channel><title>Instrument » Voice</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Voice</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:49 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Joe Brown]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/joe-brown/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Joe_Brown_On_Stage.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/joe-brown/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:49 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Howie Day]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/howie-day/]]></link>
         <description><![CDATA[<p>Howard Kern 'Howie' Day is an American singer-songwriter. Beginning his career as a solo artist in the late 1990s, Day became known for his extensive touring and in-concert use of samplers and effects pedals to accompany himself. He self-financed and self-released his first album, Australia, in 2000.</p><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Howiedaycrouching.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/howie-day/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:49 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Roland Orzabal]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/roland-orzabal/]]></link>
-        <description><![CDATA[<p>Roland Orzabal is an English musician, singer-songwriter, and record producer. He is best known as a co-founder of Tears for Fears, of which he is the main songwriter and joint vocalist, but he has also achieved success as a producer of other artists including Oleta Adams and Emiliana Torrini. In 2014, Orzabal published his first novel.</p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Rorzabal.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/roland-orzabal/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:49 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Kelly Jones]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/kelly-jones/]]></link>
-        <description><![CDATA[<p>Kelly Jones is a Welsh singer-songwriter from Cwmaman, Wales. He is the lead singer and lead guitarist of the rock band Stereophonics.</p><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Kelly_jones_cardiff_2005.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/kelly-jones/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:49 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Max Cavalera]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/max-cavalera/]]></link>
-        <description><![CDATA[<p>Massimiliano Antonio 'Max' Cavalera is a Brazilian singer, guitarist, and songwriter who currently plays in heavy metal bands Soulfly, Cavalera Conspiracy, and Killer Be Killed. In 1984, he co-founded the death metal/thrash metal band Sepultura with his brother Igor Cavalera and was the band's lead singer and rhythm guitarist until 1996. Cavalera was also involved in a short-lived side project called Nailbomb.</p><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Soulfly_With_Full_Force_2018_03_%28cropped%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/max-cavalera/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:49 </pubDate>
     </item>
     
@@ -56,34 +24,66 @@
     </item>
     
     <item>
-        <title><![CDATA[Madonna]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/madonna/]]></link>
-        <description><![CDATA[<p>Madonna Louise Ciccone is an American singer-songwriter and actress. Referred to as the 'Queen of Pop', she is regarded as one of the most influential figures in popular culture. Madonna is noted for her continual reinvention and versatility in music production, songwriting, and visual presentation. Additionally she is recognized for pushing the boundaries of artistic expression in mainstream music while remaining completely in charge of every aspect of her career. Her works, which incorporate social, political, sexual, and religious themes, have generated both critical acclaim and controversy. Madonna is often cited as an influence by other artists.</p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Madonna_Rebel_Heart_Tour_2015_-_Stockholm_%2823051472299%29_%28cropped%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/madonna/]]></guid>
+        <title><![CDATA[Roland Orzabal]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/roland-orzabal/]]></link>
+        <description><![CDATA[<p>Roland Orzabal is an English musician, singer-songwriter, and record producer. He is best known as a co-founder of Tears for Fears, of which he is the main songwriter and joint vocalist, but he has also achieved success as a producer of other artists including Oleta Adams and Emiliana Torrini. In 2014, Orzabal published his first novel.</p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Rorzabal.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/roland-orzabal/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:49 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Joe Brown]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/joe-brown/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Joe_Brown_On_Stage.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/joe-brown/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:49 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Max Cavalera]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/max-cavalera/]]></link>
+        <description><![CDATA[<p>Massimiliano Antonio 'Max' Cavalera is a Brazilian singer, guitarist, and songwriter who currently plays in heavy metal bands Soulfly, Cavalera Conspiracy, and Killer Be Killed. In 1984, he co-founded the death metal/thrash metal band Sepultura with his brother Igor Cavalera and was the band's lead singer and rhythm guitarist until 1996. Cavalera was also involved in a short-lived side project called Nailbomb.</p><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Soulfly_With_Full_Force_2018_03_%28cropped%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/max-cavalera/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:49 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Kelly Jones]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/kelly-jones/]]></link>
+        <description><![CDATA[<p>Kelly Jones is a Welsh singer-songwriter from Cwmaman, Wales. He is the lead singer and lead guitarist of the rock band Stereophonics.</p><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Kelly_jones_cardiff_2005.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/kelly-jones/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:49 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Paul Westerberg]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/paul-westerberg/]]></link>
+        <description><![CDATA[<p>Paul Harold Westerberg is an American musician, best known as the lead singer, guitarist and songwriter in The Replacements. Following the break up of the Replacements, Westerberg launched a solo career which saw him release three albums on major record labels. Since then he has been mostly releasing music that he has self-produced and recorded in the home studio in his basement. He has also released two albums and an EP under the pseudonym, Grandpaboy. Most recently, in 2017, Westerberg released eight songs on SoundCloud as User 964848511.</p><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Paul_Westerberg.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/paul-westerberg/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Brittany Howard]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/brittany-howard/]]></link>
-        <description><![CDATA[<p>Brittany Howard is an American musician, singer, and songwriter known for being the lead vocalist, guitarist, and main songwriter of rock bands Alabama Shakes and Thunderbitch. She released her debut studio album Jaime in 2019. Her work as a solo artist have earned her 7 Grammy Award nominations, as well as 4 wins from 9 nominations as part of Alabama Shakes.</p><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Alabama_Shakes_03.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/brittany-howard/]]></guid>
+        <title><![CDATA[Nils Lofgren]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/nils-lofgren/]]></link>
+        <description><![CDATA[<p>Nils Hilmer Lofgren is an American rock musician, recording artist, songwriter, and multi-instrumentalist. Along with his work as a solo artist, he has been a member of Bruce Springsteen's E Street Band since 1984, a member of Crazy Horse, and founder/frontman of the band Grin. Lofgren was inducted into the Rock and Roll Hall of Fame as a member of the E Street Band in 2014.</p><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Nils_Lofgren_Olbrich.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/nils-lofgren/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Gail Ann Dorsey]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/gail-ann-dorsey/]]></link>
-        <description><![CDATA[<p>Gail Ann Dorsey is an American musician. With a long career as a session musician mainly on bass guitar, she is perhaps best known for her lengthy residency in David Bowie's band, from 1995 to Bowie's death in 2016. Aside from playing bass, she sang lead vocals on live versions of 'Under Pressure' and dueted with Bowie on other songs, including 'The London Boys', 'Aladdin Sane (1913-1938-197?)', 'I Dig Everything', accompanying Bowie on clarinet, and a cover of Laurie Anderson's 'O Superman'.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Gail_Ann_Dorsey_%282008%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/gail-ann-dorsey/]]></guid>
+        <title><![CDATA[Ryan Bingham]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/ryan-bingham/]]></link>
+        <description><![CDATA[<p>Ryan Bingham is an American singer-songwriter, whose music spans multiple genres. He is currently based in Los Angeles, California.</p><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Ryan_Bingham_Ron_Baker_1.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/ryan-bingham/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Sister Rosetta Tharpe]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/sister-rosetta-tharpe/]]></link>
-        <description><![CDATA[<p>Sister Rosetta Tharpe was an American singer, songwriter, guitarist, and recording artist. She attained popularity in the 1930s and 1940s with her gospel recordings, characterized by a unique mixture of spiritual lyrics and rhythmic accompaniment that was a precursor of rock and roll. She was the first great recording star of gospel music and among the first gospel musicians to appeal to rhythm-and-blues and rock-and-roll audiences, later being referred to as 'the original soul sister' and 'the Godmother of rock and roll'. She influenced early rock-and-roll musicians, including Little Richard, Johnny Cash, Carl Perkins, Chuck Berry, Elvis Presley and Jerry Lee Lewis.</p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sister_Rosetta_Tharpe_performing_at_Cafe_Zanzibar_%28cropped%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/sister-rosetta-tharpe/]]></guid>
+        <title><![CDATA[Stig Rästa]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/stig-rästa/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/20150515_ESC_2015_Elina_Born_%26_Stig_R%C3%A4sta_6976.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/stig-rästa/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     

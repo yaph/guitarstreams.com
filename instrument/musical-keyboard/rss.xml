@@ -3,47 +3,15 @@
 <channel><title>Instrument » Musical Keyboard</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Musical Keyboard</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Tim Vanhamel]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/tim-vanhamel/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Tim-vanhamel675.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/tim-vanhamel/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Magne Furuholmen]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/magne-furuholmen/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Magne_Furuholmen_Kongsberg_Jazzfestival_2018_%28221600%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/magne-furuholmen/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Roger Hodgson]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/roger-hodgson/]]></link>
         <description><![CDATA[<p>Charles Roger Pomfret Hodgson is an English musician, singer and songwriter, best known as the former co-frontman and founding member of progressive rock band Supertramp. Hodgson composed and sang the majority of the band’s hits such as 'Dreamer', 'Give a Little Bit', 'Take the Long Way Home', 'The Logical Song', 'It's Raining Again', and 'Breakfast in America'.</p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Hogdson_-2660_redimensionner.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/roger-hodgson/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Ike Turner]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/ike-turner/]]></link>
-        <description><![CDATA[<p>Izear Luster 'Ike' Turner Jr. was an American musician, bandleader, songwriter, arranger, talent scout, and record producer. An early pioneer of fifties rock and roll, he is best known for his work in the 1960s and 1970s with his then-wife Tina Turner in the Ike & Tina Turner Revue.</p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Iketurner1997.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/ike-turner/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[John Miles]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/john-miles/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/John_Miles_FFM13_001.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/john-miles/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
@@ -64,11 +32,35 @@
     </item>
     
     <item>
-        <title><![CDATA[Sly Stone]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/sly-stone/]]></link>
-        <description><![CDATA[<p>Sylvester Stewart, better known by his stage name Sly Stone, is an American musician, songwriter, and record producer who is most famous for his role as frontman for Sly and the Family Stone, playing a critical role in the development of soul, funk, rock, and psychedelia in the 1960s and 1970s.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sylvester_Stone.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/sly-stone/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+        <title><![CDATA[John Miles]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/john-miles/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/John_Miles_FFM13_001.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/john-miles/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Tim Vanhamel]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/tim-vanhamel/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Tim-vanhamel675.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/tim-vanhamel/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Magne Furuholmen]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/magne-furuholmen/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Magne_Furuholmen_Kongsberg_Jazzfestival_2018_%28221600%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/magne-furuholmen/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ike Turner]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/ike-turner/]]></link>
+        <description><![CDATA[<p>Izear Luster 'Ike' Turner Jr. was an American musician, bandleader, songwriter, arranger, talent scout, and record producer. An early pioneer of fifties rock and roll, he is best known for his work in the 1960s and 1970s with his then-wife Tina Turner in the Ike & Tina Turner Revue.</p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Iketurner1997.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/ike-turner/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
     <item>
@@ -76,6 +68,14 @@
         <link><![CDATA[https://guitarstreams.com/musician/john-parish/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/John_Parish.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/john-parish/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Sly Stone]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/sly-stone/]]></link>
+        <description><![CDATA[<p>Sylvester Stewart, better known by his stage name Sly Stone, is an American musician, songwriter, and record producer who is most famous for his role as frontman for Sly and the Family Stone, playing a critical role in the development of soul, funk, rock, and psychedelia in the 1960s and 1970s.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sylvester_Stone.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/sly-stone/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     

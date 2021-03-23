@@ -3,7 +3,7 @@
 <channel><title>Genre » Celtic Music</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Celtic Music</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -16,18 +16,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Ritchie Blackmore]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/ritchie-blackmore/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Ritchie_Blackmore_-_Barcelona.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/ritchie-blackmore/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Maartin Allcock]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/maartin-allcock/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Maartin_Allcock.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/maartin-allcock/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ritchie Blackmore]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/ritchie-blackmore/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Ritchie_Blackmore_-_Barcelona.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/ritchie-blackmore/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
     </item>
     

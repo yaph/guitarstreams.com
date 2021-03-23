@@ -3,7 +3,7 @@
 <channel><title>Genre » Instrumental Rock</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Instrumental Rock</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -16,18 +16,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Reb Beach]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/reb-beach/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Whitesnake_San_Antonio_2015_1.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/reb-beach/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Jennifer Batten]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/jennifer-batten/]]></link>
         <description><![CDATA[<p>Jennifer Batten is an American guitarist who has worked as a session musician and solo artist. From 1987 to 1997 she played on all three of Michael Jackson's world tours, and from 1999 to 2001 she toured and recorded with Jeff Beck.</p><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Jennifer_Batten.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/jennifer-batten/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Reb Beach]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/reb-beach/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Whitesnake_San_Antonio_2015_1.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/reb-beach/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
     </item>
     

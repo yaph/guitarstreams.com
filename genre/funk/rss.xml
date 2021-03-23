@@ -3,7 +3,7 @@
 <channel><title>Genre » Funk</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Funk</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -24,14 +24,6 @@
     </item>
     
     <item>
-        <title><![CDATA[Tim Maia]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/tim-maia/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/TIM_MAIA_SONIA_D%27ALMEIDA_1987.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/tim-maia/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Sly Stone]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/sly-stone/]]></link>
         <description><![CDATA[<p>Sylvester Stewart, better known by his stage name Sly Stone, is an American musician, songwriter, and record producer who is most famous for his role as frontman for Sly and the Family Stone, playing a critical role in the development of soul, funk, rock, and psychedelia in the 1960s and 1970s.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sylvester_Stone.jpg" alt="Preview">]]></description>
@@ -40,10 +32,10 @@
     </item>
     
     <item>
-        <title><![CDATA[George Benson]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/george-benson/]]></link>
-        <description><![CDATA[<p>George Washington Benson is an American guitarist, singer, and songwriter. He began his professional career at the age of 19 as a jazz guitarist.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/George_Benson_1998.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/george-benson/]]></guid>
+        <title><![CDATA[Tim Maia]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/tim-maia/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/TIM_MAIA_SONIA_D%27ALMEIDA_1987.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/tim-maia/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     
@@ -52,6 +44,14 @@
         <link><![CDATA[https://guitarstreams.com/musician/james-brown/]]></link>
         <description><![CDATA[<p>James Joseph Brown was an American singer, songwriter, dancer, musician, record producer and bandleader. A progenitor of funk music and a major figure of 20th century music and dance, he is often referred to by the honorific nicknames 'Godfather of Soul', 'Mr. Dynamite', and 'Soul Brother No. 1'. In a career that lasted over 50 years, he influenced the development of several music genres. Brown was one of the first ten inductees into the Rock and Roll Hall of Fame at its inaugural induction dinner in New York on January 23, 1986.</p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Jamesbrown4.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/james-brown/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[George Benson]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/george-benson/]]></link>
+        <description><![CDATA[<p>George Washington Benson is an American guitarist, singer, and songwriter. He began his professional career at the age of 19 as a jazz guitarist.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/George_Benson_1998.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/george-benson/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     

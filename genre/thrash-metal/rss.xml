@@ -3,17 +3,9 @@
 <channel><title>Genre » Thrash Metal</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Thrash Metal</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:49 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Kirk Hammett]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/kirk-hammett/]]></link>
-        <description><![CDATA[<p>Kirk Lee Hammett is an American musician who has been the lead guitarist and a contributing songwriter for heavy metal band Metallica since 1983. Before joining Metallica he formed and named the band Exodus. In 2003, Hammett was ranked 11th on Rolling Stone's list of The 100 Greatest Guitarists of All Time. In 2009, Hammett was ranked number 15 in Joel McIver's book The 100 Greatest Metal Guitarists.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kirk_Hammett_2017.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/kirk-hammett/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Glen Drover]]></title>
@@ -28,6 +20,14 @@
         <link><![CDATA[https://guitarstreams.com/musician/piotr-wiwczarek/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Piotr_Wiwczarek.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/piotr-wiwczarek/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Kirk Hammett]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/kirk-hammett/]]></link>
+        <description><![CDATA[<p>Kirk Lee Hammett is an American musician who has been the lead guitarist and a contributing songwriter for heavy metal band Metallica since 1983. Before joining Metallica he formed and named the band Exodus. In 2003, Hammett was ranked 11th on Rolling Stone's list of The 100 Greatest Guitarists of All Time. In 2009, Hammett was ranked number 15 in Joel McIver's book The 100 Greatest Metal Guitarists.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kirk_Hammett_2017.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/kirk-hammett/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
@@ -48,18 +48,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Olve Eikemo]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/olve-eikemo/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/AbbathWOA2007.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/olve-eikemo/]]></guid>
+        <title><![CDATA[Dan Spitz]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/dan-spitz/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Dan_Spitz.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/dan-spitz/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Shagrath]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/shagrath/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Dimmu_Borgir_Paris_041007_01.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/shagrath/]]></guid>
+        <title><![CDATA[Olve Eikemo]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/olve-eikemo/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/AbbathWOA2007.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/olve-eikemo/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
     </item>
     
@@ -72,10 +72,10 @@
     </item>
     
     <item>
-        <title><![CDATA[Dan Spitz]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/dan-spitz/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Dan_Spitz.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/dan-spitz/]]></guid>
+        <title><![CDATA[Shagrath]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/shagrath/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Dimmu_Borgir_Paris_041007_01.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/shagrath/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
     </item>
     

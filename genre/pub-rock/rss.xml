@@ -3,23 +3,23 @@
 <channel><title>Genre » Pub Rock</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Pub Rock</description>
-    <lastBuildDate>Thu, 10 Dec 2020 11:07:50 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:08:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Graham Parker]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/graham-parker/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Graham_Parker-07182010.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/graham-parker/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Wilko Johnson]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/wilko-johnson/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Wilko_Johnson_01.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/wilko-johnson/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Graham Parker]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/graham-parker/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Graham_Parker-07182010.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/graham-parker/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
