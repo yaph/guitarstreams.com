@@ -3,7 +3,7 @@
 <channel><title>Genre » Pop Punk</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Pop Punk</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -40,18 +40,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Farin Urlaub]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/farin-urlaub/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/FarinUrlaub_credit_JoergSteinmetz.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/farin-urlaub/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:42 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Deryck Whibley]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/deryck-whibley/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Sum41_Deryck_Whibley.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/deryck-whibley/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:42 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Farin Urlaub]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/farin-urlaub/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/FarinUrlaub_credit_JoergSteinmetz.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/farin-urlaub/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:42 </pubDate>
     </item>
     

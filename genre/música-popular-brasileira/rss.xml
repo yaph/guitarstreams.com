@@ -3,15 +3,15 @@
 <channel><title>Genre » Música Popular Brasileira</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Música Popular Brasileira</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
-        <title><![CDATA[Beto Guedes]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/beto-guedes/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Betoguedes_tvbrasil.png" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/beto-guedes/]]></guid>
+        <title><![CDATA[Zeca Baleiro]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/zeca-baleiro/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Zeca_baleiro_tvbrasil.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/zeca-baleiro/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
@@ -32,19 +32,11 @@
     </item>
     
     <item>
-        <title><![CDATA[Zeca Baleiro]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/zeca-baleiro/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Zeca_baleiro_tvbrasil.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/zeca-baleiro/]]></guid>
+        <title><![CDATA[Beto Guedes]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/beto-guedes/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Betoguedes_tvbrasil.png" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/beto-guedes/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Paulinho da Viola]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/paulinho-da-viola/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Paulinho_da_Viola.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/paulinho-da-viola/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     
     <item>
@@ -56,10 +48,10 @@
     </item>
     
     <item>
-        <title><![CDATA[Gilberto Gil]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/gilberto-gil/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Gilberto_Gil_1719MC198.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/gilberto-gil/]]></guid>
+        <title><![CDATA[Paulinho da Viola]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/paulinho-da-viola/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Paulinho_da_Viola.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/paulinho-da-viola/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     
@@ -68,6 +60,14 @@
         <link><![CDATA[https://guitarstreams.com/musician/toquinho/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Toquinho-75_%2827422146651%29.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/toquinho/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Gilberto Gil]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/gilberto-gil/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Gilberto_Gil_1719MC198.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/gilberto-gil/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     

@@ -3,7 +3,7 @@
 <channel><title>Genre » Bard Song</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Bard Song</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -16,18 +16,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Vladimir Vysotsky]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/vladimir-vysotsky/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Vladimir_Vysotsky.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/vladimir-vysotsky/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Giorgio Gaber]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/giorgio-gaber/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Giorgio_Gaber_live.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/giorgio-gaber/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Vladimir Vysotsky]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/vladimir-vysotsky/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Vladimir_Vysotsky.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/vladimir-vysotsky/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     
@@ -37,6 +37,14 @@
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Facundo_Cabral.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/facundito-el-cabral/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Aleksandr Marshal]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/aleksandr-marshal/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Alexander_Marshal_%282015-10-24%29-1.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/aleksandr-marshal/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
     </item>
     
     <item>
@@ -52,14 +60,6 @@
         <link><![CDATA[https://guitarstreams.com/musician/igor-talkov/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Russia_stamp_I.Talkov_1999_2r.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/igor-talkov/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Aleksandr Marshal]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/aleksandr-marshal/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Alexander_Marshal_%282015-10-24%29-1.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/aleksandr-marshal/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
     </item>
     

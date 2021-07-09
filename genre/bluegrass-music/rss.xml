@@ -3,7 +3,7 @@
 <channel><title>Genre » Bluegrass Music</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Bluegrass Music</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -16,18 +16,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Jerry Garcia]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/jerry-garcia/]]></link>
-        <description><![CDATA[<p>Jerome John Garcia was an American singer-songwriter and guitarist, best known for being a principal songwriter, the lead guitarist and a vocalist with the rock band the Grateful Dead, of which he was a founding member and which came to prominence during the counterculture of the 1960s. Although he disavowed the role, Garcia was viewed by many as the leader or 'spokesman' of the group.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Grateful_Dead_-_Jerry_Garcia.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/jerry-garcia/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Chris Thile]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/chris-thile/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Christhile.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/chris-thile/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Jerry Garcia]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/jerry-garcia/]]></link>
+        <description><![CDATA[<p>Jerome John Garcia was an American singer-songwriter and guitarist, best known for being a principal songwriter, the lead guitarist and a vocalist with the rock band the Grateful Dead, of which he was a founding member and which came to prominence during the counterculture of the 1960s. Although he disavowed the role, Garcia was viewed by many as the leader or 'spokesman' of the group.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Grateful_Dead_-_Jerry_Garcia.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/jerry-garcia/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     
@@ -40,18 +40,18 @@
     </item>
     
     <item>
-        <title><![CDATA[John Butler]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/john-butler/]]></link>
-        <description><![CDATA[<p>John Charles Wiltshire-Butler, professionally known as John Butler, is an American-born Australian singer, songwriter, and music producer. He is the front man for the John Butler Trio, a roots and jam band that formed in Fremantle, Western Australia, in 1998.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/John_Butler_Cambridge.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/john-butler/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:42 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Clarence White]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/clarence-white/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/The_Byrds_%281970%29.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/clarence-white/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:42 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[John Butler]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/john-butler/]]></link>
+        <description><![CDATA[<p>John Charles Wiltshire-Butler, professionally known as John Butler, is an American-born Australian singer, songwriter, and music producer. He is the front man for the John Butler Trio, a roots and jam band that formed in Fremantle, Western Australia, in 1998.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/John_Butler_Cambridge.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/john-butler/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:42 </pubDate>
     </item>
     

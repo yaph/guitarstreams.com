@@ -3,7 +3,7 @@
 <channel><title>Genre » Viking Metal</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Viking Metal</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -16,18 +16,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Markus Toivonen]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/markus-toivonen/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Markus_Toivonen.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/markus-toivonen/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Ivar Bjørnson]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/ivar-bjørnson/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Ivar_bj%C3%B8rnson3.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/ivar-bjørnson/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Markus Toivonen]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/markus-toivonen/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Markus_Toivonen.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/markus-toivonen/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
     </item>
     

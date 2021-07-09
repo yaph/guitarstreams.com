@@ -3,7 +3,7 @@
 <channel><title>Genre » Hardcore Punk</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Hardcore Punk</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -40,18 +40,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Roy Mayorga]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/roy-mayorga/]]></link>
-        <description><![CDATA[<p>Roy Mayorga is an American musician and songwriter, best known as the drummer of heavy metal bands Hellyeah and Stone Sour.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Roy_Mayorga_N%C3%BCrnberg_Rock_im_Park_Stone_Sour.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/roy-mayorga/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Jade Puget]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/jade-puget/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Jade_puget.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/jade-puget/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Roy Mayorga]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/roy-mayorga/]]></link>
+        <description><![CDATA[<p>Roy Mayorga is an American musician and songwriter, best known as the drummer of heavy metal bands Hellyeah and Stone Sour.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Roy_Mayorga_N%C3%BCrnberg_Rock_im_Park_Stone_Sour.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/roy-mayorga/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
     </item>
     

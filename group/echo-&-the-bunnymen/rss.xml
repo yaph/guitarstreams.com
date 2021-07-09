@@ -3,23 +3,23 @@
 <channel><title>Group » Echo & The Bunnymen</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Echo & The Bunnymen</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Les Pattinson]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/les-pattinson/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Echo-les-pattinson.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/les-pattinson/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Will Sergeant]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/will-sergeant/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Willsergeant.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/will-sergeant/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Les Pattinson]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/les-pattinson/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Echo-les-pattinson.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/les-pattinson/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
     </item>
     

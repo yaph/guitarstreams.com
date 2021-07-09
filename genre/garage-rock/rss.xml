@@ -3,7 +3,7 @@
 <channel><title>Genre » Garage Rock</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Garage Rock</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -32,14 +32,6 @@
     </item>
     
     <item>
-        <title><![CDATA[Egor Letov]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/egor-letov/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Egor_Letov_2000-11-04_Nuernberg.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/egor-letov/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Dan Auerbach]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/dan-auerbach/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Dan_Auerbach_of_Black_Keys_at_Music_Midtown_2011.jpg" alt="Preview">]]></description>
@@ -48,11 +40,11 @@
     </item>
     
     <item>
-        <title><![CDATA[Meg White]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/meg-white/]]></link>
-        <description><![CDATA[<p>Megan Martha White is an American former musician and singer best known for her work as the drummer of Detroit rock duo the White Stripes. Her music career began when, on a whim, she played on her future White Stripes bandmate Jack White's drums in 1997. Inspired by her minimalist and untrained drumming style, he decided to form a band with her and they began performing two months later. The band quickly became a Detroit underground favorite before achieving international fame. White has been nominated for various awards as a part of the White Stripes, receiving four Grammy Awards.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Meg_White.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/meg-white/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+        <title><![CDATA[Egor Letov]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/egor-letov/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Egor_Letov_2000-11-04_Nuernberg.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/egor-letov/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
     </item>
     
     <item>
@@ -64,11 +56,11 @@
     </item>
     
     <item>
-        <title><![CDATA[Patrick Carney]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/patrick-carney/]]></link>
-        <description><![CDATA[<p>Patrick James Carney is an American music producer. Carney serves as the drummer for the Black Keys, a blues rock band from Akron, Ohio. He currently lives in Nashville, Tennessee.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/The_Black_Keys_at_MOG%2C_SXSW_2010.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/patrick-carney/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+        <title><![CDATA[Meg White]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/meg-white/]]></link>
+        <description><![CDATA[<p>Megan Martha White is an American former musician and singer best known for her work as the drummer of Detroit rock duo the White Stripes. Her music career began when, on a whim, she played on her future White Stripes bandmate Jack White's drums in 1997. Inspired by her minimalist and untrained drumming style, he decided to form a band with her and they began performing two months later. The band quickly became a Detroit underground favorite before achieving international fame. White has been nominated for various awards as a part of the White Stripes, receiving four Grammy Awards.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Meg_White.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/meg-white/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
     </item>
     
     <item>
@@ -76,6 +68,14 @@
         <link><![CDATA[https://guitarstreams.com/musician/jay-reatard/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Jayreatard.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/jay-reatard/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Patrick Carney]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/patrick-carney/]]></link>
+        <description><![CDATA[<p>Patrick James Carney is an American music producer. Carney serves as the drummer for the Black Keys, a blues rock band from Akron, Ohio. He currently lives in Nashville, Tennessee.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/The_Black_Keys_at_MOG%2C_SXSW_2010.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/patrick-carney/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
     </item>
     

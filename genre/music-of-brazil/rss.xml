@@ -3,7 +3,7 @@
 <channel><title>Genre » Music Of Brazil</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Music Of Brazil</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -24,18 +24,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Gilberto Gil]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/gilberto-gil/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Gilberto_Gil_1719MC198.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/gilberto-gil/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Toquinho]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/toquinho/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Toquinho-75_%2827422146651%29.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/toquinho/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Gilberto Gil]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/gilberto-gil/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Gilberto_Gil_1719MC198.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/gilberto-gil/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     

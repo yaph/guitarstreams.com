@@ -3,17 +3,9 @@
 <channel><title>Group » The Venus In Furs</title>
     <link>https://guitarstreams.com</link>
     <description>Group » The Venus In Furs</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Bernard Butler]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/bernard-butler/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Tears-2005-Roskilde-1.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/bernard-butler/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[David Gray]]></title>
@@ -24,11 +16,11 @@
     </item>
     
     <item>
-        <title><![CDATA[Thom Yorke]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/thom-yorke/]]></link>
-        <description><![CDATA[<p>Thomas Edward Yorke is an English musician and the main vocalist and songwriter of the rock band Radiohead. A multi-instrumentalist, he mainly plays guitar and keyboards, and is known for his falsetto.</p><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Thom_Yorke.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/thom-yorke/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
+        <title><![CDATA[Bernard Butler]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/bernard-butler/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Tears-2005-Roskilde-1.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/bernard-butler/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     
     <item>
@@ -36,6 +28,14 @@
         <link><![CDATA[https://guitarstreams.com/musician/jonny-greenwood/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Jonny_Greenwood.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/jonny-greenwood/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Thom Yorke]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/thom-yorke/]]></link>
+        <description><![CDATA[<p>Thomas Edward Yorke is an English musician and the main vocalist and songwriter of the rock band Radiohead. A multi-instrumentalist, he mainly plays guitar and keyboards, and is known for his falsetto.</p><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Thom_Yorke.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/thom-yorke/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
     </item>
     

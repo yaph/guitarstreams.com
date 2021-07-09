@@ -3,7 +3,7 @@
 <channel><title>Genre » Bossa Nova</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Bossa Nova</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -64,18 +64,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Francesco Buzzurro]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/francesco-buzzurro/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Francesco_buzzurro.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/francesco-buzzurro/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Baden Powell de Aquino]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/baden-powell-de-aquino/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Baden_powell_1971.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/baden-powell-de-aquino/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Francesco Buzzurro]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/francesco-buzzurro/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Francesco_buzzurro.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/francesco-buzzurro/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
     </item>
     

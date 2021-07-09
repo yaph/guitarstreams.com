@@ -3,7 +3,7 @@
 <channel><title>Genre » Nu Metal</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Nu Metal</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -64,6 +64,14 @@
     </item>
     
     <item>
+        <title><![CDATA[James Shaffer]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/james-shaffer/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/James_Munky_Shaffer_of_Korn.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/james-shaffer/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Tommy Lee]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/tommy-lee/]]></link>
         <description><![CDATA[<p>Thomas Lee Bass is an American musician and founding member of Mötley Crüe. As well as being the band's long-term drummer, Lee founded rap-metal band Methods of Mayhem, and has pursued solo musical projects.</p><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Tommy_Lee_2012.jpg" alt="Preview">]]></description>
@@ -76,14 +84,6 @@
         <link><![CDATA[https://guitarstreams.com/musician/roy-mayorga/]]></link>
         <description><![CDATA[<p>Roy Mayorga is an American musician and songwriter, best known as the drummer of heavy metal bands Hellyeah and Stone Sour.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Roy_Mayorga_N%C3%BCrnberg_Rock_im_Park_Stone_Sour.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/roy-mayorga/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[James Shaffer]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/james-shaffer/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/James_Munky_Shaffer_of_Korn.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/james-shaffer/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
     </item>
     

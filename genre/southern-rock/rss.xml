@@ -3,7 +3,7 @@
 <channel><title>Genre » Southern Rock</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Southern Rock</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -48,18 +48,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Hughie Thomasson]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/hughie-thomasson/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Hughie_Thomasson_and_Monte_Yoho_2006.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/hughie-thomasson/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Duane Allman]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/duane-allman/]]></link>
         <description><![CDATA[<p>Howard Duane Allman was an American rock guitarist, session musician, and founder and leader of the Allman Brothers Band.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Duane_Allman.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/duane-allman/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Hughie Thomasson]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/hughie-thomasson/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Hughie_Thomasson_and_Monte_Yoho_2006.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/hughie-thomasson/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
     </item>
     

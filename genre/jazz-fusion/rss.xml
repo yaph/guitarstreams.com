@@ -3,7 +3,7 @@
 <channel><title>Genre » Jazz Fusion</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Jazz Fusion</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -24,18 +24,18 @@
     </item>
     
     <item>
-        <title><![CDATA[James Hunter]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/james-hunter/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/James_Hunter_by_RonBaker.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/james-hunter/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Mike Stern]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/mike-stern/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Mike_Stern_Kongsberg_Jazzfestival_2018_%28225558%29.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/mike-stern/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[James Hunter]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/james-hunter/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/James_Hunter_by_RonBaker.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/james-hunter/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
@@ -57,14 +57,6 @@ After contributing to several key British groups of the early 1960s, McLaughlin 
     </item>
     
     <item>
-        <title><![CDATA[Gary Moore]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/gary-moore/]]></link>
-        <description><![CDATA[<p>Robert William Gary Moore was a Northern Irish musician and singer-songwriter. Over the course of his career, Moore played in various groups and performed many different styles of music, including blues, hard rock, heavy metal and jazz fusion.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Gary-Moore-at-Pite-Havsbad.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/gary-moore/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Paul Jackson, Jr.]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/paul-jackson,-jr./]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Paul_Jackson_Jr._02.jpg" alt="Preview">]]></description>
@@ -81,10 +73,18 @@ After contributing to several key British groups of the early 1960s, McLaughlin 
     </item>
     
     <item>
-        <title><![CDATA[Jennifer Batten]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/jennifer-batten/]]></link>
-        <description><![CDATA[<p>Jennifer Batten is an American guitarist who has worked as a session musician and solo artist. From 1987 to 1997 she played on all three of Michael Jackson's world tours, and from 1999 to 2001 she toured and recorded with Jeff Beck.</p><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Jennifer_Batten.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/jennifer-batten/]]></guid>
+        <title><![CDATA[Gary Moore]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/gary-moore/]]></link>
+        <description><![CDATA[<p>Robert William Gary Moore was a Northern Irish musician and singer-songwriter. Over the course of his career, Moore played in various groups and performed many different styles of music, including blues, hard rock, heavy metal and jazz fusion.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Gary-Moore-at-Pite-Havsbad.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/gary-moore/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Marc Jordan]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/marc-jordan/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Marc_Jordan_CFC_2014_%28cropped%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/marc-jordan/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
     </item>
     

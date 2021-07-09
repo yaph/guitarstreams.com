@@ -3,17 +3,9 @@
 <channel><title>Instrument » Ukulele</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Ukulele</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Glen Hansard]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/glen-hansard/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/GlenHansard.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/glen-hansard/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Madonna]]></title>
@@ -24,11 +16,11 @@
     </item>
     
     <item>
-        <title><![CDATA[Paulinho da Viola]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/paulinho-da-viola/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Paulinho_da_Viola.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/paulinho-da-viola/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+        <title><![CDATA[Glen Hansard]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/glen-hansard/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/GlenHansard.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/glen-hansard/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
     <item>
@@ -44,6 +36,14 @@
         <link><![CDATA[https://guitarstreams.com/musician/nelly-furtado/]]></link>
         <description><![CDATA[<p>Nelly Kim Furtado is a Portuguese-Canadian singer-songwriter and record producer. Furtado is known for her musical versatility and constant reinvention, commonly associated with world music.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nelly_Furtado_at_Radio_Regenbogen_Award_2017_%286%29.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/nelly-furtado/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Paulinho da Viola]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/paulinho-da-viola/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Paulinho_da_Viola.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/paulinho-da-viola/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     
@@ -64,18 +64,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Kaki King]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/kaki-king/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/WebsterHall2008.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/kaki-king/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Syd Barrett]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/syd-barrett/]]></link>
         <description><![CDATA[<p>Roger Keith 'Syd' Barrett was an English singer, songwriter, and musician who co-founded the rock band Pink Floyd in 1965. Barrett named the group and was their original frontman and primary songwriter, becoming known for his English-accented singing, literary influences, and whimsical take on psychedelia. As a guitarist, he was influential for his free-form playing and for employing dissonance, distortion, echo, feedback, and other studio effects.</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Syd_barrett.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/syd-barrett/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Kaki King]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/kaki-king/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/WebsterHall2008.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/kaki-king/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
     </item>
     

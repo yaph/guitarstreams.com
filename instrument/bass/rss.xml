@@ -3,25 +3,9 @@
 <channel><title>Instrument » Bass</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Bass</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Robert Smith]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/robert-smith/]]></link>
-        <description><![CDATA[<p>Robert James Smith is an English singer, songwriter, musician, and record producer. He is the only continuous member of the rock band The Cure, which he co-founded in 1976. He was also the lead guitarist for the band Siouxsie and the Banshees from 1982 to 1984, and was part of the short-lived group The Glove in 1983.</p><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Robert_Smith_%28musician%29_crop.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/robert-smith/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Jim Rodford]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/jim-rodford/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Ray_Davies_-_Jim_Rodford_with_The_Kinks_1979.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/jim-rodford/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Meshell Ndegeocello]]></title>
@@ -56,18 +40,26 @@
     </item>
     
     <item>
-        <title><![CDATA[Leo Lyons]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/leo-lyons/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Leo_Lyons_09.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/leo-lyons/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Arnaldo Antunes]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/arnaldo-antunes/]]></link>
         <description><![CDATA[<p>Arnaldo Antunes is a Brazilian musician, writer, and composer. He was a member of the rock band Titãs, which he co-founded in 1982 and left ten years later. After 1992, he embarked on a solo career. He has published poetry and had his first book published in 1983. He has worked with Marisa Monte, Tribalistas, and Carlinhos Brown.</p><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Arnaldo_Antunes_-_AA.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/arnaldo-antunes/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Robert Smith]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/robert-smith/]]></link>
+        <description><![CDATA[<p>Robert James Smith is an English singer, songwriter, musician, and record producer. He is the only continuous member of the rock band The Cure, which he co-founded in 1976. He was also the lead guitarist for the band Siouxsie and the Banshees from 1982 to 1984, and was part of the short-lived group The Glove in 1983.</p><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Robert_Smith_%28musician%29_crop.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/robert-smith/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Leo Lyons]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/leo-lyons/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Leo_Lyons_09.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/leo-lyons/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
@@ -80,10 +72,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Carlos Dengler]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/carlos-dengler/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Carlos_Dengler_%282024383776%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/carlos-dengler/]]></guid>
+        <title><![CDATA[Jim Rodford]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/jim-rodford/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Ray_Davies_-_Jim_Rodford_with_The_Kinks_1979.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/jim-rodford/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Adam Yauch]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/adam-yauch/]]></link>
+        <description><![CDATA[<p>Adam Nathaniel Yauch was an American rapper, bass player and filmmaker who was a founding member of the hip hop group Beastie Boys. He used the stage name MCA.</p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Adam_Yauch_crop.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/adam-yauch/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     

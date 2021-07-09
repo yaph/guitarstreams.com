@@ -3,7 +3,7 @@
 <channel><title>Genre » Indie Folk</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Indie Folk</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -32,22 +32,6 @@
     </item>
     
     <item>
-        <title><![CDATA[Fink]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/fink/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Fink.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/fink/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Julien Baker]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/julien-baker/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Julien_Baker_%2841096346594%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/julien-baker/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Conor Oberst]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/conor-oberst/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Flickr_-_moses_namkung_-_Conor_Oberst_2.jpg" alt="Preview">]]></description>
@@ -64,6 +48,22 @@
     </item>
     
     <item>
+        <title><![CDATA[Julien Baker]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/julien-baker/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Julien_Baker_%2841096346594%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/julien-baker/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Fink]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/fink/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Fink.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/fink/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[José González]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/josé-gonzález/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Jos%C3%A9_Gonzales_at_La_Route_du_Rock_2008%2C_b.jpg" alt="Preview">]]></description>
@@ -72,18 +72,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Mike Mogis]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/mike-mogis/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Mikemogis.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/mike-mogis/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[M. Ward]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/m.-ward/]]></link>
         <description><![CDATA[<p>Matthew Stephen Ward is an American singer-songwriter and guitarist from Portland, Oregon. Ward's solo work is a mixture of folk and blues-inspired Americana analog recordings; he has released ten studio albums since 1999, primarily through independent label Merge Records. In addition to his solo work, he is a member of indie pop duo She & Him and folk-rock supergroup Monsters of Folk, and also participates in recording, producing, and playing with multiple other artists.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/M_Ward_Glastonbury_2009-1.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/m.-ward/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Passenger]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/passenger/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Mike_Rosenberg_performing_at_Southampton_Brook_music_venue_in_January_2013_4.JPG" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/passenger/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
     </item>
     

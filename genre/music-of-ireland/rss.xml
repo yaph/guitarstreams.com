@@ -3,7 +3,7 @@
 <channel><title>Genre » Music Of Ireland</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Music Of Ireland</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -16,18 +16,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Mícheál Ó Domhnaill]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/mícheál-ó-domhnaill/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Michealod.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/mícheál-ó-domhnaill/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Ronnie Drew]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/ronnie-drew/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Ronnie_drew_2004.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/ronnie-drew/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Mícheál Ó Domhnaill]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/mícheál-ó-domhnaill/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Michealod.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/mícheál-ó-domhnaill/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
     </item>
     

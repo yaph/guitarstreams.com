@@ -3,9 +3,17 @@
 <channel><title>Instrument » Violin</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Violin</description>
-    <lastBuildDate>Tue, 29 Jun 2021 15:23:51 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:24:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Ben Moody]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/ben-moody/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Evanescence_2003_barcelona_ben_moody.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/ben-moody/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Robert Smith]]></title>
@@ -16,10 +24,10 @@
     </item>
     
     <item>
-        <title><![CDATA[Ben Moody]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/ben-moody/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Evanescence_2003_barcelona_ben_moody.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/ben-moody/]]></guid>
+        <title><![CDATA[Roy Clark]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/roy-clark/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Roy_Clark_a_conversation_with_OETA_%28cropped%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/roy-clark/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
     </item>
     
@@ -40,26 +48,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Roy Clark]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/roy-clark/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Roy_Clark_a_conversation_with_OETA_%28cropped%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/roy-clark/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Jean-Jacques Goldman]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/jean-jacques-goldman/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Jean-Jacques_Goldman_-_may_2002.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/jean-jacques-goldman/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Damon Albarn]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/damon-albarn/]]></link>
         <description><![CDATA[<p>Damon Albarn is an English musician, singer, songwriter, and record producer, best known as the lead singer and lyricist of the rock band Blur and as the co-founder, lead vocalist, instrumentalist, and primary songwriter of the virtual band Gorillaz.</p><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Damon_Albarn_mg_6633.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/damon-albarn/]]></guid>
+        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Sergey Shnurov]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/sergey-shnurov/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sergei_Shnurov.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/sergey-shnurov/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     
@@ -80,10 +80,10 @@
     </item>
     
     <item>
-        <title><![CDATA[Sergey Shnurov]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/sergey-shnurov/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sergei_Shnurov.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/sergey-shnurov/]]></guid>
+        <title><![CDATA[Jean-Jacques Goldman]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/jean-jacques-goldman/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Jean-Jacques_Goldman_-_may_2002.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/jean-jacques-goldman/]]></guid>
         <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
     </item>
     
