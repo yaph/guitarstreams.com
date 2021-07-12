@@ -3,24 +3,32 @@
 <channel><title>Genre » Outsider Music</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Outsider Music</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Jandek]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/jandek/]]></link>
+        <description><![CDATA[<p>Jandek is an American lo-fi music project centered around Sterling Smith, though the pseudonym is often used to refer to Smith directly in the context of this work. Their output is distributed by Corwood Industries, a Houston, Texas record label which is also operated by Smith.</p><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Jandek_June2007.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/jandek/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Daniel Johnston]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/daniel-johnston/]]></link>
         <description><![CDATA[<p>Daniel Dale Johnston was an American singer-songwriter and visual artist regarded as a significant figure in outsider, lo-fi, and alternative music scenes. Most of his work consisted of cassettes recorded alone in his home, and his music was frequently cited for its 'pure' and 'childlike' qualities.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Daniel_Johnston_and_British_Sea_Power_%286935765808%29_%28cropped%29.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/daniel-johnston/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:43 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Syd Barrett]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/syd-barrett/]]></link>
-        <description><![CDATA[<p>Roger Keith 'Syd' Barrett was an English singer, songwriter, and musician who co-founded the rock band Pink Floyd in 1965. Barrett named the group and was their original frontman and primary songwriter, becoming known for his English-accented singing, literary influences, and whimsical take on psychedelia. As a guitarist, he was influential for his free-form playing and for employing dissonance, distortion, echo, feedback, and other studio effects.</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Syd_barrett.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p>Roger Keith 'Syd' Barrett was an English singer, songwriter, musician and painter who co-founded the rock band Pink Floyd in 1965. Barrett was their original frontman and primary songwriter, becoming known for his whimsical take on psychedelia, English-accented singing, literary influences, and stream-of-consciousness writing style. As a guitarist, he was influential for his free-form playing and for employing dissonance, distortion, echo, feedback, and other studio effects.</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Syd_barrett.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/syd-barrett/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:42 </pubDate>
     </item>
     
 </channel></rss>

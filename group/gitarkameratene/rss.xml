@@ -3,16 +3,16 @@
 <channel><title>Group » Gitarkameratene</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Gitarkameratene</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
-        <title><![CDATA[Lillebjørn Nilsen]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/lillebjørn-nilsen/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Lillebj%C3%B8rn_Nilsen.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/lillebjørn-nilsen/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+        <title><![CDATA[Jan Eggum]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/jan-eggum/]]></link>
+        <description><![CDATA[<p>Jan Eggum is a Norwegian singer-songwriter. He has been characterized as a 'face for the melancholy', and the themes in his songs are often broken hearts, loneliness, and sorrow. Sometimes his lyrics include social criticism, but he also shows trivial and funny sides of himself.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Jan_Eggum.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/jan-eggum/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:42 </pubDate>
     </item>
     
     <item>
@@ -20,7 +20,15 @@
         <link><![CDATA[https://guitarstreams.com/musician/øystein-sunde/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Sunde01.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/øystein-sunde/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:42 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Lillebjørn Nilsen]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/lillebjørn-nilsen/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Lillebj%C3%B8rn_Nilsen.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/lillebjørn-nilsen/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:39 </pubDate>
     </item>
     
 </channel></rss>

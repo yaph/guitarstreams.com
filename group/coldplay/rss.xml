@@ -3,16 +3,32 @@
 <channel><title>Group » Coldplay</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Coldplay</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
+        <title><![CDATA[Chris Martin]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/chris-martin/]]></link>
+        <description><![CDATA[<p>Christopher Anthony John Martin is an English singer, songwriter, multi-instrumentalist, producer, and philanthropist. He is the lead singer, primary songwriter, and co-founder of the alternative rock band Coldplay. Born in Exeter, Devon, Martin went to University College London, where he formed a rock band with Jonny Buckland, Guy Berryman, and Will Champion in 1996 called Starfish, which was eventually renamed Coldplay in 1998.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Chris_Martin_cropped.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/chris-martin/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:47 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Jonny Buckland]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/jonny-buckland/]]></link>
+        <description><![CDATA[<p>Jonathan Mark Buckland is a Welsh musician, songwriter, and the lead guitarist of alternative rock band Coldplay, which he co-founded alongside Chris Martin.</p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Jonny_Buckland%2C_2011.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/jonny-buckland/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:44 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Will Champion]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/will-champion/]]></link>
-        <description><![CDATA[<p>William Raymond Champion is an English musician and songwriter. He is the drummer and backing vocalist for the rock band Coldplay.</p><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Will_Champion_-_Viva_la_Vida.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p>William Champion is an English musician, songwriter, and the drummer of alternative rock band Coldplay. He is also the group's most prominent backing vocalist and occasionally takes the lead in some live performances, such as 'Death Will Never Conquer' on the Viva la Vida Tour and 'In My Place' during the A Head Full of Dreams Tour.</p><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Will_Champion_-_Viva_la_Vida.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/will-champion/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:39 </pubDate>
     </item>
     
 </channel></rss>

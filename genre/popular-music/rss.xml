@@ -3,24 +3,16 @@
 <channel><title>Genre » Popular Music</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Popular Music</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Andrew Ridgeley]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/andrew-ridgeley/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Andrew_Ridgeley_circa_1984-1985.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p>Andrew John Ridgeley is an English singer, songwriter, and record producer, best known for his work in the 1980s in the musical duo Wham!</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Andrew_Ridgeley_circa_1984-1985.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/andrew-ridgeley/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Joyce Moreno]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/joyce-moreno/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/JoyceMoreno2016.png" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/joyce-moreno/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:45 </pubDate>
     </item>
     
     <item>
@@ -28,15 +20,31 @@
         <link><![CDATA[https://guitarstreams.com/musician/åse-kleveland/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Aase_Kleveland_17Mai_Eidsvoll.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/åse-kleveland/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:44 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:43 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Joyce Moreno]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/joyce-moreno/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/JoyceMoreno2016.png" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/joyce-moreno/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:39 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Jesse Harris]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/jesse-harris/]]></link>
+        <description><![CDATA[<p>Jesse Harris is an American singer-songwriter, producer, and guitarist. He has worked with Norah Jones, Melody Gardot, Madeleine Peyroux, Nikki Yanofsky, and Lizz Wright.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Jesse_Harris_1.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/jesse-harris/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:38 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Keren Ann]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/keren-ann/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Kerenann.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p>Keren Ann Zeidel known professionally as Keren Ann, is an Israeli-born singer, songwriter, composer, producer, and engineer based largely in Paris, Tel Aviv, and New York City. She plays guitar, piano, and clarinet. She also engineers and writes choir and musical arrangements.</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Kerenann.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/keren-ann/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:38 </pubDate>
     </item>
     
 </channel></rss>

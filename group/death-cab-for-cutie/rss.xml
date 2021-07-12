@@ -3,16 +3,24 @@
 <channel><title>Group » Death Cab For Cutie</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Death Cab For Cutie</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Ben Gibbard]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/ben-gibbard/]]></link>
+        <description><![CDATA[<p>Benjamin Gibbard is an American singer, songwriter and guitarist. He is best known as the lead vocalist and guitarist of the indie rock band Death Cab for Cutie, with whom he has recorded nine studio albums, and as one half of the electronica act the Postal Service. Gibbard released his debut solo album, Former Lives, in 2012, and a collaborative studio album, One Fast Move or I'm Gone (2009) with Jay Farrar.</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Bgibbard_memphis.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/ben-gibbard/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:42 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Chris Walla]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/chris-walla/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/ChrisWalla.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/chris-walla/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:41 </pubDate>
     </item>
     
 </channel></rss>

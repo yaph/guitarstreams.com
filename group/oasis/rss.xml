@@ -3,16 +3,24 @@
 <channel><title>Group » Oasis</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Oasis</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
+        <title><![CDATA[Noel Gallagher]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/noel-gallagher/]]></link>
+        <description><![CDATA[<p>Noel Thomas David Gallagher is an English singer, songwriter, record producer and musician. He served as the songwriter, lead guitarist, and co-lead vocalist of the rock band Oasis. After leaving Oasis in 2009, he formed and became the lead vocalist, guitarist, and songwriter for Noel Gallagher's High Flying Birds.</p><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Noel_Gallagher_playing_Champagne_Supernova.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/noel-gallagher/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:44 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Liam Gallagher]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/liam-gallagher/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Festival_des_Vieilles_Charrues_2018_-_Liam_Gallagher_-_013.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p>William John Paul Gallagher is an English singer and songwriter. He achieved fame as the lead singer of the rock band Oasis from 1991 to 2009, and later fronted the rock band Beady Eye from 2009 to 2014, before starting a solo career in 2017.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Festival_des_Vieilles_Charrues_2018_-_Liam_Gallagher_-_013.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/liam-gallagher/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:42 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:40 </pubDate>
     </item>
     
 </channel></rss>

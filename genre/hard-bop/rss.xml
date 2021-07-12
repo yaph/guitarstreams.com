@@ -3,16 +3,24 @@
 <channel><title>Genre » Hard Bop</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Hard Bop</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:12 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Wes Montgomery]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/wes-montgomery/]]></link>
+        <description><![CDATA[<p>John Leslie 'Wes' Montgomery was an American jazz guitarist. One of the most influential guitarists of the twentieth century, Montgomery was known for an unusual technique of plucking the strings with the side of his thumb and his extensive use of octaves, which gave him a distinctive sound.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Wes_Montgomery.png" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/wes-montgomery/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:45 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Pat Metheny]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/pat-metheny/]]></link>
         <description><![CDATA[<p>Patrick Bruce Metheny is an American jazz guitarist and composer.</p><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Pat_Metheny_Barcelona_2008.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/pat-metheny/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:47 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:40 </pubDate>
     </item>
     
 </channel></rss>

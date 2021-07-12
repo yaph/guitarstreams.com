@@ -3,16 +3,24 @@
 <channel><title>Group » The Bluenotes</title>
     <link>https://guitarstreams.com</link>
     <description>Group » The Bluenotes</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
+        <title><![CDATA[Ben Keith]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/ben-keith/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Ben_Keith.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/ben-keith/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Frank Sampedro]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/frank-sampedro/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Neil_Young_%26_Crazy_Horse_in_2012.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p>Frank 'Poncho' Sampedro is an American guitarist and member of the rock band Crazy Horse, known mainly for his longtime collaboration with singer-songwriter Neil Young. Sampedro has played and recorded with Young in many other configurations aside from Crazy Horse and earned co-writing credits on several Young songs. Out of all Young's musical collaborators, Sampedro has proven perhaps the most adept at working with the mercurial artist. 'Most people turn a corner. Neil ricochets,' says Sampedro.</p><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Neil_Young_%26_Crazy_Horse_in_2012.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/frank-sampedro/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:47 </pubDate>
     </item>
     
 </channel></rss>

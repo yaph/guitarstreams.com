@@ -3,24 +3,24 @@
 <channel><title>Group » Crosby & Nash</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Crosby & Nash</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:12 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[David Crosby]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/david-crosby/]]></link>
-        <description><![CDATA[<p>David Van Cortlandt Crosby is an American singer-songwriter and musician. In addition to his solo career, he was a founding member of both the Byrds and Crosby, Stills & Nash.</p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/David_Crosby_2019_by_Glenn_Francis.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/david-crosby/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Graham Nash]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/graham-nash/]]></link>
         <description><![CDATA[<p>Graham William Nash is a British-American singer-songwriter and musician. Nash is known for his light tenor voice and for his songwriting contributions as a member of the English pop/rock group the Hollies and the folk-rock supergroup Crosby, Stills & Nash. Nash became an American citizen on 14 August 1978 and holds dual citizenship with the United Kingdom and the United States.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Graham_Nash_Occupy_Wall_Street_2011.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/graham-nash/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:42 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[David Crosby]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/david-crosby/]]></link>
+        <description><![CDATA[<p>David Van Cortlandt Crosby is an American singer-songwriter and musician. In addition to his solo career, he was a founding member of both the Byrds and Crosby, Stills & Nash.</p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/David_Crosby_2019_by_Glenn_Francis.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/david-crosby/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:40 </pubDate>
     </item>
     
 </channel></rss>

@@ -3,24 +3,24 @@
 <channel><title>Genre » Ethno Jazz</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Ethno Jazz</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Jesse Cook]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/jesse-cook/]]></link>
+        <description><![CDATA[<p>Jesse Arnaud Cook is a Canadian guitarist. He is a Juno Award winner, Acoustic Guitar Player's Choice Award silver winner in the Flamenco Category, and a three-time winner of the Canadian Smooth Jazz award for Guitarist of the Year. He has recorded on the EMI, E1 Music and Narada labels and has sold over 1.5 million records worldwide.</p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Jesse_Cook_143_cropped.JPG" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/jesse-cook/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:46 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Vlatko Stefanovski]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/vlatko-stefanovski/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Vlatko_Stefanovski_%40_Dombos_Fest_2011.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/vlatko-stefanovski/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Jesse Cook]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/jesse-cook/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Jesse_Cook_143_cropped.JPG" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/jesse-cook/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:38 </pubDate>
     </item>
     
 </channel></rss>

@@ -3,24 +3,24 @@
 <channel><title>Genre » Roots Rock</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Roots Rock</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Bryan Adams]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/bryan-adams/]]></link>
+        <description><![CDATA[<p>Bryan Guy Adams is a Canadian guitarist, singer, composer, record producer, photographer, and philanthropist. With several number-one singles and albums in various countries, Adams has sold over 100 million records worldwide. Adams was the most played artist on Canadian radio in the 2010s and he has had 25 top-15 singles in Canada, and a dozen or more in the US, UK and Australia.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Bryan_Adams_Hamburg_MG_0631_flickr.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/bryan-adams/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:43 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Dave Alvin]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/dave-alvin/]]></link>
         <description><![CDATA[<p>David Albert Alvin is an American singer-songwriter, guitarist, music producer and poet. He is a former and founding member of the roots rock band the Blasters. Alvin has recorded and performed as a solo artist since the late 1980s and has been involved in various side projects and collaborations. He has had brief stints as a member of the bands X and the Knitters.</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Dave_Alvin.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/dave-alvin/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Bryan Adams]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/bryan-adams/]]></link>
-        <description><![CDATA[<p>Bryan Guy Adams is a Canadian guitarist, singer, composer, record producer, photographer, and philanthropist. With several number 1 singles and albums in various countries, Adams has sold between 75 and 100 million records worldwide. According to Nielsen Music Canada's 2019 Year-End Report, Adams was the most played artist on Canadian radio stations between 2010 and 2019.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Bryan_Adams_Hamburg_MG_0631_flickr.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/bryan-adams/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:42 </pubDate>
     </item>
     
 </channel></rss>

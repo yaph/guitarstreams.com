@@ -3,16 +3,24 @@
 <channel><title>Group » Rammstein</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Rammstein</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Paul Landers]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/paul-landers/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Paul_Landers_2011.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/paul-landers/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:39 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Richard Kruspe]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/richard-kruspe/]]></link>
         <description><![CDATA[<p>Richard Kruspe is a German musician and guitarist of the German Neue Deutsche Härte band Rammstein, as well as the lead singer of the US-based band Emigrate.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Richard_Kruspe%2C_one_of_the_founding_members_of_Rammstein.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/richard-kruspe/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:36 </pubDate>
     </item>
     
 </channel></rss>

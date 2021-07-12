@@ -3,32 +3,32 @@
 <channel><title>Genre » Album Oriented Rock</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Album Oriented Rock</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Stan Bush]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/stan-bush/]]></link>
+        <description><![CDATA[<p>Stan Bush is an American singer-songwriter and rock musician.</p><img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Stan_Bush_by_Gage_Skidmore.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/stan-bush/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:46 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Nancy Wilson]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/nancy-wilson-(rock-musician)/]]></link>
         <description><![CDATA[<p>Nancy Lamoureaux Wilson is an American musician, singer, songwriter, producer, and film composer. She rose to fame alongside her older sister, singer Ann Wilson, as a guitarist and backing vocalist in the rock band Heart.</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Nancy_Wilson_1998.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/nancy-wilson-(rock-musician)/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Stan Bush]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/stan-bush/]]></link>
-        <description><![CDATA[<p>Stan Bush is an American singer-songwriter and musician.</p><img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Stan_Bush_by_Gage_Skidmore.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/stan-bush/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:45 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Roger Fisher]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/roger-fisher/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Roger_Fisher_-_Heart_-_1978.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/roger-fisher/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+        <link><![CDATA[https://guitarstreams.com/musician/roger-fisher-(guitarist)/]]></link>
+        <description><![CDATA[<p>Roger Fisher is a guitarist primarily known as one of the founding members of the band Heart. His tenure lasted from 1967 until 1980.</p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Roger_Fisher_-_Heart_-_1978.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/roger-fisher-(guitarist)/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:40 </pubDate>
     </item>
     
 </channel></rss>

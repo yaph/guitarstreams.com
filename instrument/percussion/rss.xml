@@ -3,16 +3,24 @@
 <channel><title>Instrument » Percussion</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Percussion</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[John Flansburgh]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/john-flansburgh/]]></link>
+        <description><![CDATA[<p>John Conant Flansburgh is an American musician. He is half of the long-standing Brooklyn, New York-based alternative rock duo They Might Be Giants, for which he writes, sings, and plays rhythm guitar.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/They_Might_Be_Giants_%285210834578%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/john-flansburgh/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:44 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Meg White]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/meg-white/]]></link>
         <description><![CDATA[<p>Megan Martha White is an American former musician and singer best known for her work as the drummer of Detroit rock duo the White Stripes. Her music career began when, on a whim, she played on her future White Stripes bandmate Jack White's drums in 1997. Inspired by her minimalist and untrained drumming style, he decided to form a band with her and they began performing two months later. The band quickly became a Detroit underground favorite before achieving international fame. White has been nominated for various awards as a part of the White Stripes, receiving four Grammy Awards.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Meg_White.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/meg-white/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:39 </pubDate>
     </item>
     
 </channel></rss>

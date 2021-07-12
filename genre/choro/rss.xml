@@ -3,24 +3,24 @@
 <channel><title>Genre » Choro</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Choro</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Chico Buarque]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/chico-buarque/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Chico_Buarque_de_Holanda_2_%281970%29.tif" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/chico-buarque/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Dilermando Reis]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/dilermando-reis/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Dilermando_Reis_%281951%29.tif" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/dilermando-reis/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:43 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Chico Buarque]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/chico-buarque/]]></link>
+        <description><![CDATA[<p>Francisco Buarque de Hollanda, popularly known simply as Chico Buarque, is a Brazilian singer-songwriter, guitarist, composer, playwright, writer, and poet. He is best known for his music, which often includes social, economic, and cultural reflections on Brazil.</p><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Chico_Buarque_no_BRAVO.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/chico-buarque/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:40 </pubDate>
     </item>
     
 </channel></rss>

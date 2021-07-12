@@ -3,16 +3,32 @@
 <channel><title>Group » Slade</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Slade</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Jim Lea]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/jim-lea/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Slade_-_TopPop_1973_19_-_Jim_Lea_-_Crop.png" alt="Preview">]]></description>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Slade_-_TopPop_1974_3_%28cropped%29.png" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/jim-lea/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Dave Hill]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/dave-hill/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Dave_Hill_in_1981.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/dave-hill/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:39 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Noddy Holder]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/noddy-holder/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Noddy_Holder_%28modified%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/noddy-holder/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:37 </pubDate>
     </item>
     
 </channel></rss>

@@ -3,16 +3,24 @@
 <channel><title>Genre » Celtic Music</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Celtic Music</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:12 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Ritchie Blackmore]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/ritchie-blackmore/]]></link>
+        <description><![CDATA[<p>Richard Hugh Blackmore is an English guitarist and songwriter. He was one of the founding members of Deep Purple in 1968, playing jam-style hard rock music that mixed guitar riffs and organ sounds. Blackmore is prolific in creating guitar riffs and is often noted for his classically influenced solos.</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Ritchie_Blackmore_-_Barcelona.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/ritchie-blackmore/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Christy Moore]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/christy-moore/]]></link>
         <description><![CDATA[<p>Christopher Andrew 'Christy' Moore is an Irish folk singer, songwriter and guitarist. He is one of the founding members of Planxty and Moving Hearts. His first album, Paddy on the Road was recorded with Dominic Behan in 1969. In 2007, he was named as Ireland's greatest living musician in RTÉ's People of the Year Awards.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Christy_Moore_in_Vicar_Street.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/christy-moore/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:47 </pubDate>
     </item>
     
     <item>
@@ -20,15 +28,7 @@
         <link><![CDATA[https://guitarstreams.com/musician/maartin-allcock/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Maartin_Allcock.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/maartin-allcock/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Ritchie Blackmore]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/ritchie-blackmore/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Ritchie_Blackmore_-_Barcelona.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/ritchie-blackmore/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:46 </pubDate>
     </item>
     
 </channel></rss>

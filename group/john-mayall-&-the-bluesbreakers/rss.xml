@@ -3,24 +3,24 @@
 <channel><title>Group » John Mayall & The Bluesbreakers</title>
     <link>https://guitarstreams.com</link>
     <description>Group » John Mayall & The Bluesbreakers</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[John Mayall]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/john-mayall/]]></link>
+        <description><![CDATA[<p>John Mayall, OBE is an English blues singer, guitarist, organist and songwriter, whose musical career spans over sixty years. In the 1960s, he was the founder of John Mayall & the Bluesbreakers, a band which has counted among its members some of the most famous blues and blues rock musicians.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/John_Mayall_1.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/john-mayall/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:46 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Eric Clapton]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/eric-clapton/]]></link>
         <description><![CDATA[<p>Eric Patrick Clapton, is an English rock and blues guitarist, singer, and songwriter. He is the only three-time inductee to the Rock and Roll Hall of Fame: once as a solo artist and separately as a member of the Yardbirds and of Cream. Clapton has been referred to as one of the most important and influential guitarists of all time. Clapton ranked second in Rolling Stone's list of the '100 Greatest Guitarists of All Time' and fourth in Gibson's 'Top 50 Guitarists of All Time'. He was also named number five in Time magazine's list of 'The 10 Best Electric Guitar Players' in 2009.</p><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Eclapton_cardiff.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/eric-clapton/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[John Mayall]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/john-mayall/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/John_Mayall_1.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/john-mayall/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:42 </pubDate>
     </item>
     
 </channel></rss>

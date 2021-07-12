@@ -3,24 +3,32 @@
 <channel><title>Instrument » Lap Steel Guitar</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Lap Steel Guitar</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
-        <title><![CDATA[Kaki King]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/kaki-king/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/WebsterHall2008.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/kaki-king/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+        <title><![CDATA[Magnet]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/magnet/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Magnet01.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/magnet/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:44 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Mike Mogis]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/mike-mogis/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Mikemogis.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p>Michael Riley Mogis is an American producer/engineer and multi-instrumentalist who, along with his brother A.J. Mogis, founded Presto! Recording Studios. Mogis currently runs ARC in downtown Omaha.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Mikemogis.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/mike-mogis/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:43 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Kaki King]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/kaki-king/]]></link>
+        <description><![CDATA[<p>Kaki King is an American guitarist and composer. King is known for her percussive and jazz-tinged melodies, energetic live shows, use of multiple tunings on acoustic and lap steel guitar, and her diverse range in different genres.</p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/WebsterHall2008.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/kaki-king/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:38 </pubDate>
     </item>
     
 </channel></rss>

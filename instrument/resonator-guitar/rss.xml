@@ -3,16 +3,24 @@
 <channel><title>Instrument » Resonator Guitar</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Resonator Guitar</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[David Bromberg]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/david-bromberg/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/David_Bromberg%2C_Loudis_Recital_Hall%2C_University_of_Delaware%2C_1984.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/david-bromberg/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:45 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Jerry Douglas]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/jerry-douglas/]]></link>
         <description><![CDATA[<p>Gerald Calvin 'Jerry' Douglas is an American resonator guitar and lap steel guitar player and record producer.</p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Jerry_Douglas_on_scene.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/jerry-douglas/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:44 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:43 </pubDate>
     </item>
     
 </channel></rss>

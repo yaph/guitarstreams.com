@@ -3,24 +3,32 @@
 <channel><title>Group » Arch Enemy</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Arch Enemy</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Christopher Amott]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/christopher-amott/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Arch_Enemy_%28C._Amott%29_03.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/christopher-amott/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:43 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Sharlee D'Angelo]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/sharlee-d'angelo/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sharlee_D%27Angelo.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/sharlee-d'angelo/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Michael Amott]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/michael-amott/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arch_Enemy_%28M._Amott%29_02.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/michael-amott/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:37 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Christopher Amott]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/christopher-amott/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Arch_Enemy_%28C._Amott%29_03.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/christopher-amott/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:37 </pubDate>
     </item>
     
 </channel></rss>

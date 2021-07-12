@@ -3,16 +3,24 @@
 <channel><title>Group » Morbid Angel</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Morbid Angel</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[David Vincent]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/david-vincent/]]></link>
+        <description><![CDATA[<p>David Justin Vincent, also known as Evil D, is an American musician who is best known as the former lead vocalist and bassist for the death metal band Morbid Angel as well as the bassist for Genitorturers. His early influences are Kiss and Alice Cooper. Vincent typically plays bass with a pick, though he occasionally uses his fingers.</p><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/David_Vincent.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/david-vincent/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:37 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Trey Azagthoth]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/trey-azagthoth/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Trey_Azagthoth.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/trey-azagthoth/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:39 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:37 </pubDate>
     </item>
     
 </channel></rss>

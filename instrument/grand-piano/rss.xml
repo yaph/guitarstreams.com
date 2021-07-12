@@ -3,16 +3,16 @@
 <channel><title>Instrument » Grand Piano</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Grand Piano</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
-        <title><![CDATA[Igor Talkov]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/igor-talkov/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Russia_stamp_I.Talkov_1999_2r.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/igor-talkov/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
+        <title><![CDATA[Igor Nikolayev]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/igor-nikolayev/]]></link>
+        <description><![CDATA[<p>Igor Yuryevich Nikolayev is a Russian composer, singer and song-writer.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Igor_Nikolaev.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/igor-nikolayev/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:43 </pubDate>
     </item>
     
     <item>
@@ -20,15 +20,15 @@
         <link><![CDATA[https://guitarstreams.com/musician/sergei-trofimov/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/2012-03-05_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%A2%D1%80%D0%BE%D1%84%D0%B8%D0%BC%D0%BE%D0%B2.jpeg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/sergei-trofimov/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:44 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:41 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Igor Nikolayev]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/igor-nikolayev/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Igor_Nikolaev.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/igor-nikolayev/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
+        <title><![CDATA[Igor Talkov]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/igor-talkov/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Russia_stamp_I.Talkov_1999_2r.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/igor-talkov/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:38 </pubDate>
     </item>
     
 </channel></rss>

@@ -3,24 +3,32 @@
 <channel><title>Instrument » Keytar</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Keytar</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Matt Bellamy]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/matt-bellamy/]]></link>
+        <description><![CDATA[<p>Matthew James Bellamy is an English singer, musician, and songwriter. He is the lead vocalist, guitarist, pianist, and primary songwriter of the rock band Muse. He is recognised for his eccentric stage persona, wide tenor vocal range and musicianship. Bellamy has released solo compositions, and plays bass in the supergroup the Jaded Hearts Club; he produced their debut album, You've Always Been Here (2020).</p><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MuseO2140919-25_%2848736144762%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/matt-bellamy/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Tetsuya Komuro]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/tetsuya-komuro/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/MTV_VMAJ_2014_Tetsuya_Komuro_%28cropped%29.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/tetsuya-komuro/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:43 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:43 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Matt Bellamy]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/matt-bellamy/]]></link>
-        <description><![CDATA[<p>Matthew James Bellamy is an English singer, musician, and songwriter. He is best known as the lead singer, guitarist, pianist, and primary songwriter of the rock band Muse. He is recognised for his eccentric stage persona, wide tenor vocal range and musicianship. He has also released solo compositions.</p><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MuseO2140919-25_%2848736144762%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/matt-bellamy/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:42 </pubDate>
+        <title><![CDATA[Lights]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/lights/]]></link>
+        <description><![CDATA[<p>Lights Poxleitner-Bokan, known mononymously as Lights, is a Canadian musician, singer, and songwriter. She is known for singles 'Drive My Soul', 'February Air', 'Ice', 'Second Go', 'Toes', 'Lions' and 'Up We Go'. She was awarded the 2009 Juno Award for New Artist of the Year and two 2009 Astral Media Radio awards during Canadian Music Week.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Lights_09_20_2017_-5_%2837009966944%29.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/lights/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:39 </pubDate>
     </item>
     
     <item>
@@ -28,7 +36,7 @@
         <link><![CDATA[https://guitarstreams.com/musician/tim-rice-oxley/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tim_Rice-Oxley.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/tim-rice-oxley/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:38 </pubDate>
     </item>
     
 </channel></rss>

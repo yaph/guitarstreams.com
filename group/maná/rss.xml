@@ -3,7 +3,7 @@
 <channel><title>Group » Maná</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Maná</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -12,7 +12,15 @@
         <link><![CDATA[https://guitarstreams.com/musician/fernando-olvera/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Man%C3%A1_-_Rock_in_Rio_Madrid_2012_-_06.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/fernando-olvera/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:43 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Sergio Vallín]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/sergio-vallín/]]></link>
+        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Man%C3%A1_-_Rock_in_Rio_Madrid_2012_-_44.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/sergio-vallín/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:41 </pubDate>
     </item>
     
 </channel></rss>

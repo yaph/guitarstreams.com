@@ -3,24 +3,17 @@
 <channel><title>Group » Poison</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Poison</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
-        <title><![CDATA[Bret Michaels]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/bret-michaels/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/BretMichaels.JPG" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/bret-michaels/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[C.C. DeVille]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/c.c.-deville/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/CCDeVille.JPG" alt="Preview">]]></description>
+        <description><![CDATA[<p>C.C. DeVille is the lead guitarist of the rock band Poison. His work with the band has sold over 45 million records worldwide, including 15 million in the United States.
+He named himself after his favorite car, the Cadillac Coupe DeVille.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/CCDeVille.JPG" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/c.c.-deville/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
     </item>
     
     <item>
@@ -28,7 +21,15 @@
         <link><![CDATA[https://guitarstreams.com/musician/richie-kotzen/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Richie_Kotzen_2011.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/richie-kotzen/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:38 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:46 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Bret Michaels]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/bret-michaels/]]></link>
+        <description><![CDATA[<p>Bret Michael Sychak, professionally known as Bret Michaels, is an American singer-songwriter, musician, producer, and actor. He gained fame as the frontman of rock band Poison who have sold well over 45 million records worldwide and 15 million records in the United States alone. The band has also charted 10 singles to the Top 40 of the Billboard Hot 100, including six Top 10 singles and a number-one single, 'Every Rose Has Its Thorn'.</p><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/BretMichaels.JPG" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/bret-michaels/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:36 </pubDate>
     </item>
     
 </channel></rss>

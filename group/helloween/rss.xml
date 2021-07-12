@@ -3,7 +3,7 @@
 <channel><title>Group » Helloween</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Helloween</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -12,7 +12,15 @@
         <link><![CDATA[https://guitarstreams.com/musician/kai-hansen/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Kai_Hansen_2005.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/kai-hansen/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:46 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Michael Weikath]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/michael-weikath/]]></link>
+        <description><![CDATA[<p>Michael Ingo Joachim 'Weiki' Weikath is a German musician and songwriter, best known as a founding member and one of the guitarists and backing vocalists of pioneering power metal band Helloween.</p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Michael_live.JPG" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/michael-weikath/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:38 </pubDate>
     </item>
     
 </channel></rss>

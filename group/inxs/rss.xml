@@ -3,24 +3,16 @@
 <channel><title>Group » Inxs</title>
     <link>https://guitarstreams.com</link>
     <description>Group » Inxs</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Andrew Farriss]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/andrew-farriss/]]></link>
-        <description><![CDATA[<p>Andrew Charles Farriss is an Australian rock musician and multi-instrumentalist best known as the keyboardist, backing vocalist, and main composer for rock band INXS.</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Andrew_Farriss.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p>Andrew Charles Farriss is an Australian rock musician and multi-instrumentalist best known as the keyboardist, backing vocalist, and main composer for rock band INXS. Farriss released his debut studio album in 2021.</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Andrew_Farriss.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/andrew-farriss/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:46 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Tim Farriss]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/tim-farriss/]]></link>
-        <description><![CDATA[<p>Timothy William Farriss is an Australian musician, founding member and the lead guitarist of the rock band INXS.</p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rob_Thomas_Tim_Farriss.JPG" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/tim-farriss/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:45 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:43 </pubDate>
     </item>
     
     <item>
@@ -28,7 +20,15 @@
         <link><![CDATA[https://guitarstreams.com/musician/kirk-pengilly/]]></link>
         <description><![CDATA[<p>Kirk Pengilly is an Australian musician and member of the Australian rock group INXS. Kirk plays saxophone, guitar and also performs as a backing vocalist.</p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/KirkPengillyApril.JPG" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/kirk-pengilly/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:41 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:43 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Tim Farriss]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/tim-farriss/]]></link>
+        <description><![CDATA[<p>Timothy William Farriss is an Australian musician, founding member and the lead guitarist of the rock band INXS.</p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rob_Thomas_Tim_Farriss.JPG" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/tim-farriss/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:42 </pubDate>
     </item>
     
 </channel></rss>

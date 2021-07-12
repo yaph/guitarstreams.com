@@ -3,7 +3,7 @@
 <channel><title>Instrument » Lute</title>
     <link>https://guitarstreams.com</link>
     <description>Instrument » Lute</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:13 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -12,7 +12,15 @@
         <link><![CDATA[https://guitarstreams.com/musician/narciso-yepes/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Narciso_Yepes.jpeg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/narciso-yepes/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:40 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:38 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Jan Akkerman]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/jan-akkerman/]]></link>
+        <description><![CDATA[<p>Jan Akkerman is a Dutch guitarist. He first found international commercial success with the band Focus, which he co-founded with Thijs van Leer. After leaving Focus, he continued as a solo musician, adding jazz fusion influences.</p><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Jan_Akkerman_-_TopPop_1974_07.png" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/jan-akkerman/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:37 </pubDate>
     </item>
     
 </channel></rss>

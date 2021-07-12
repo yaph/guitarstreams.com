@@ -3,16 +3,24 @@
 <channel><title>Genre » Go Go</title>
     <link>https://guitarstreams.com</link>
     <description>Genre » Go Go</description>
-    <lastBuildDate>Sat, 10 Jul 2021 00:32:12 </lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:17:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
+        <title><![CDATA[Chuck Brown]]></title>
+        <link><![CDATA[https://guitarstreams.com/musician/chuck-brown/]]></link>
+        <description><![CDATA[<p>Charles Louis Brown was an American guitarist, bandleader and singer who garnered the honorific nickname 'The Godfather of Go-Go'. Go-go is a subgenre of funk music developed around the Washington, D.C. metropolitan area in the mid-1970s. While its musical classification, influences, and origins are debated, Brown is regarded as the fundamental force behind the creation of go-go music.</p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/ChuckBrownOct012005b.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/musician/chuck-brown/]]></guid>
+        <pubDate>Mon, 12 Jul 2021 03:20:47 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Meshell Ndegeocello]]></title>
         <link><![CDATA[https://guitarstreams.com/musician/meshell-ndegeocello/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Meshell_Ndegeocello_Wikipedia.jpg" alt="Preview">]]></description>
+        <description><![CDATA[<p>Michelle Lynn Johnson, better known as Meshell Ndegeocello, is an American singer-songwriter, rapper, and bassist. She has gone by the name Meshell Suhaila Bashir-Shakur which is used as a writing credit on some of her later work. Her music incorporates a wide variety of influences, including funk, soul, jazz, hip hop, reggae and rock. She has received significant critical acclaim throughout her career, being nominated for eleven Grammy Awards, and winning one. She also has been credited for helping to 'spark the neo-soul movement'.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Meshell_Ndegeocello_Wikipedia.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/meshell-ndegeocello/]]></guid>
-        <pubDate>Thu, 10 Dec 2020 10:45:48 </pubDate>
+        <pubDate>Mon, 12 Jul 2021 03:20:42 </pubDate>
     </item>
     
 </channel></rss>
