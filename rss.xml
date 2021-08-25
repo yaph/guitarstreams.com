@@ -3,9 +3,17 @@
 <channel><title>RSS Feed</title>
     <link>https://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Wed, 25 Aug 2021 20:55:42 </lastBuildDate>
+    <lastBuildDate>Wed, 25 Aug 2021 21:49:55 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Guitar Fretboard - All Chromatic Notes on the 1st 7 Frets Sticker by guitarstreams]]></title>
+        <link><![CDATA[https://guitarstreams.com/merchandise/fretboard-guitar-all-notes-7-frets/]]></link>
+        <description><![CDATA[<p>This design shows the first 7 frets of a guitar fretboard and the positions all notes of the chromatic scale C, D, Db, E, Eb, F, G, Gb, A, Ab, B, Bb. Knowing the notes on the fretboard is extremely helpful if you want to get creative with the guitar. Get t</p><img src="/img/preview/fretboard-guitar-all-notes-7-frets.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/merchandise/fretboard-guitar-all-notes-7-frets/]]></guid>
+        <pubDate>Wed, 25 Aug 2021 00:00:00 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Gotye]]></title>
@@ -76,14 +84,6 @@
         <link><![CDATA[https://guitarstreams.com/musician/herman-frank/]]></link>
         <description><![CDATA[<p>Herman Frank is a German heavy metal guitarist best known for his work with Accept and Victory. In 2009, he released his first solo album called Loyal to None. Frank has also recorded with Hazzard, Sinner, Moon'Doc, Saeko, Thomsen and Poison Sun. As a record producer and engineer, he has worked for Saxon, Rose Tattoo, Crown of Creation, Molly Hatchet, gutworm, and several others.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Herman_Frank.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/herman-frank/]]></guid>
-        <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[John 5]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/john-5-(guitarist)/]]></link>
-        <description><![CDATA[<p>John William Lowery, best known by the stage name John 5, is an American guitarist. His stage name was bestowed on him in 1998 when he left David Lee Roth and joined the rock group Marilyn Manson as their guitarist, taking over for Zim Zum. Still going by the name John 5, Lowery has since become the guitarist for Rob Zombie.</p><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/John_5_%28cropped%29.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/john-5-(guitarist)/]]></guid>
         <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
     </item>
     
