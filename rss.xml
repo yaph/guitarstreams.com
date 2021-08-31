@@ -3,9 +3,17 @@
 <channel><title>RSS Feed</title>
     <link>https://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Wed, 25 Aug 2021 21:49:55 </lastBuildDate>
+    <lastBuildDate>Tue, 31 Aug 2021 21:56:18 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Chord Formula Cheat Sheet - Music Theory Design Sticker by guitarstreams]]></title>
+        <link><![CDATA[https://guitarstreams.com/merchandise/chord-formulas/]]></link>
+        <description><![CDATA[<p>This music theory cheat sheet shows the formulas for these 9 chord types: Major, Major 7th, Minor, Minor 7th, Dominant 7th, Diminished, Augmented, Suspended 2nd and Suspended 4th and example chords. Knowing how chords work and more importantly how to use t</p><img src="/img/preview/chord-formulas.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/merchandise/chord-formulas/]]></guid>
+        <pubDate>Mon, 30 Aug 2021 00:00:00 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Guitar Fretboard - All Chromatic Notes on the 1st 7 Frets Sticker by guitarstreams]]></title>
@@ -76,14 +84,6 @@
         <link><![CDATA[https://guitarstreams.com/musician/sharlee-d'angelo/]]></link>
         <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sharlee_D%27Angelo.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/sharlee-d'angelo/]]></guid>
-        <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Herman Frank]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/herman-frank/]]></link>
-        <description><![CDATA[<p>Herman Frank is a German heavy metal guitarist best known for his work with Accept and Victory. In 2009, he released his first solo album called Loyal to None. Frank has also recorded with Hazzard, Sinner, Moon'Doc, Saeko, Thomsen and Poison Sun. As a record producer and engineer, he has worked for Saxon, Rose Tattoo, Crown of Creation, Molly Hatchet, gutworm, and several others.</p><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Herman_Frank.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/herman-frank/]]></guid>
         <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
     </item>
     
