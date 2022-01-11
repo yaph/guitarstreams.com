@@ -3,9 +3,33 @@
 <channel><title>RSS Feed</title>
     <link>https://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Sun, 21 Nov 2021 13:13:00 </lastBuildDate>
+    <lastBuildDate>Tue, 11 Jan 2022 23:52:04 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[BASSWOMAN Cool White Design for Female Bassists Mug by guitarstreams]]></title>
+        <link><![CDATA[https://guitarstreams.com/merchandise/basswoman-white/]]></link>
+        <description><![CDATA[<p>A cool design for women who play the bass showing the word BASSWOMAN in all capital letters in narrow, slender font. Show your love for the coolest musical instrument and keep the rhythm going!</p><img src="/img/preview/basswoman-white.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/merchandise/basswoman-white/]]></guid>
+        <pubDate>Tue, 11 Jan 2022 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[BASSWOMAN Cool Green Design for Female Bassists Sticker by guitarstreams]]></title>
+        <link><![CDATA[https://guitarstreams.com/merchandise/basswoman-green/]]></link>
+        <description><![CDATA[<p>A cool design for women who play the bass showing the word BASSWOMAN in all capital letters in narrow, slender font. Show your love for the coolest musical instrument and keep the rhythm going!</p><img src="/img/preview/basswoman-green.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/merchandise/basswoman-green/]]></guid>
+        <pubDate>Tue, 11 Jan 2022 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[BASSWOMAN Cool Black Design for Female Bassists Sticker by guitarstreams]]></title>
+        <link><![CDATA[https://guitarstreams.com/merchandise/basswoman-black/]]></link>
+        <description><![CDATA[<p>A cool design for women who play the bass showing the word BASSWOMAN in all capital letters in narrow, slender font. Show your love for the coolest musical instrument and keep the rhythm going!</p><img src="/img/preview/basswoman-black.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/merchandise/basswoman-black/]]></guid>
+        <pubDate>Tue, 11 Jan 2022 00:00:00 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Chord Formula Cheat Sheet - Music Theory Design Sticker by guitarstreams]]></title>
@@ -60,30 +84,6 @@
         <link><![CDATA[https://guitarstreams.com/musician/gary-louris/]]></link>
         <description><![CDATA[<p>Gary Louris is an American guitarist, singer, and songwriter of alternative country and pop music. He was a founding member of the Minneapolis-based band the Jayhawks and their principal songwriter and vocalist after the departure of Mark Olson. Louris is often credited with the band's subsequent move from folk-country toward a more progressive, pop sound.</p><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/The_Jayhawks_2009.05.30_003.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/musician/gary-louris/]]></guid>
-        <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Paul Simonon]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/paul-simonon/]]></link>
-        <description><![CDATA[<p>Paul Gustave Simonon is an English musician and artist best known as the bassist for The Clash. More recent work includes his involvement in the supergroup The Good, the Bad & the Queen and playing on the Gorillaz album Plastic Beach in 2010, which saw Simonon reunite with The Clash guitarist Mick Jones and Blur frontman Damon Albarn – and which also led to Simonon becoming the live band's touring bassist for Gorillaz's Escape to Plastic Beach Tour.</p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Paul_Simonon_mg_6692_crop.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/paul-simonon/]]></guid>
-        <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Ricky Ross]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/ricky-ross/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Ricky_Ross%2C_Deacon_Blue.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/ricky-ross/]]></guid>
-        <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Sharlee D'Angelo]]></title>
-        <link><![CDATA[https://guitarstreams.com/musician/sharlee-d'angelo/]]></link>
-        <description><![CDATA[<p></p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sharlee_D%27Angelo.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/musician/sharlee-d'angelo/]]></guid>
         <pubDate>Mon, 12 Jul 2021 03:20:48 </pubDate>
     </item>
     
