@@ -3,7 +3,7 @@
 <channel><title>RSS Feed</title>
     <link>https://guitarstreams.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Wed, 03 Jan 2024 23:18:56 </lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 04:55:21 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -13,6 +13,16 @@
         <description><![CDATA[<p>A cool retro design for guitar players who love heavy metal, hard rock and making noise with their instrument. It shows a circular retro sunset with 2 crossed heavy metal axes cut out and the text "I Destroy Silence" below. Do you love the guitar and de</p><img src="/img/preview/i-destroy-silence-metal-guitar.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/merchandise/i-destroy-silence-metal-guitar/]]></guid>
         <pubDate>Mon, 16 Jan 2023 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Chord Spelling Chart - Reference for Musicians]]></title>
+        <link><![CDATA[https://guitarstreams.com/merchandise/chord-spelling-table/]]></link>
+        <description><![CDATA[<p>This music theory cheat sheet shows chord spellings for common chord types. The chart shows chord names, symbols, the interval formula and example labels and notes with C as the tonic.
+
+Knowing how these common chord types are built is helpful for unders</p><img src="/img/preview/chord-spelling-table.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://guitarstreams.com/merchandise/chord-spelling-table/]]></guid>
+        <pubDate>Fri, 13 Jan 2023 00:00:00 </pubDate>
     </item>
     
     <item>
@@ -77,14 +87,6 @@
         <description><![CDATA[<p>This chord chart for uke players shows 120 ukulele chord diagrams. There is 1 row for each of the 12 notes in the chromatic scale, 7 natural and 5 flat notes between them. Each row shows the following 10 chord types for the corresponding root note: major,</p><img src="/img/preview/ukulele-chord-reference-chart-black.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://guitarstreams.com/merchandise/ukulele-chord-reference-chart-black/]]></guid>
         <pubDate>Tue, 05 Apr 2022 00:00:00 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[DAD Spelled with Ukulele Chords Fun Black Design for Fathers]]></title>
-        <link><![CDATA[https://guitarstreams.com/merchandise/ukulele-chords-dad-black/]]></link>
-        <description><![CDATA[<p>This design is for fathers who love playing the uke. Give it as a gift for birthday, Christmas, Father's Day or any other day you want to show your father that you love him. This design spells the word DAD using ukulele chord diagrams. Keep on strumming</p><img src="/img/preview/ukulele-chords-dad-black.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://guitarstreams.com/merchandise/ukulele-chords-dad-black/]]></guid>
-        <pubDate>Thu, 03 Feb 2022 00:00:00 </pubDate>
     </item>
     
 </channel></rss>
